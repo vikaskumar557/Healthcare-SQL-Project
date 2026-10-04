@@ -1,0 +1,101 @@
+doctor_id,doctor_name,specialization,department,experience_years
+501,Dr_501,Ophthalmology,General,13
+502,Dr_502,Dermatology,OPD,8
+503,Dr_503,Orthopedics,Emergency,28
+504,Dr_504,Neurology,Surgery,4
+505,Dr_505,Dentistry,Surgery,11
+506,Dr_506,Cardiology,Emergency,3
+507,Dr_507,ENT,General,26
+508,Dr_508,Pediatrics,OPD,4
+509,Dr_509,Gynecology,OPD,17
+510,Dr_510,Dermatology,Surgery,3
+511,Dr_511,ENT,OPD,29
+512,Dr_512,Pediatrics,Emergency,25
+513,Dr_513,Pediatrics,General,11
+514,Dr_514,Dentistry,Emergency,7
+515,Dr_515,Dentistry,Diagnostics,23
+516,Dr_516,Dentistry,Surgery,27
+517,Dr_517,General Medicine,OPD,12
+518,Dr_518,General Medicine,Diagnostics,24
+519,Dr_519,Pediatrics,OPD,8
+520,Dr_520,Dentistry,General,28
+521,Dr_521,Ophthalmology,General,30
+522,Dr_522,Gynecology,General,16
+523,Dr_523,ENT,OPD,7
+524,Dr_524,ENT,Diagnostics,21
+525,Dr_525,General Medicine,General,28
+526,Dr_526,Pediatrics,Diagnostics,10
+527,Dr_527,Dermatology,OPD,23
+528,Dr_528,Orthopedics,Diagnostics,21
+529,Dr_529,Orthopedics,OPD,13
+530,Dr_530,General Medicine,OPD,20
+531,Dr_531,Dermatology,Surgery,21
+532,Dr_532,General Medicine,OPD,4
+533,Dr_533,Orthopedics,OPD,16
+534,Dr_534,Dermatology,Emergency,3
+535,Dr_535,Dentistry,General,22
+536,Dr_536,Pediatrics,Surgery,3
+537,Dr_537,ENT,Surgery,23
+538,Dr_538,Ophthalmology,Surgery,4
+539,Dr_539,Neurology,Emergency,7
+540,Dr_540,Pediatrics,OPD,16
+541,Dr_541,Dentistry,General,28
+542,Dr_542,Orthopedics,Diagnostics,11
+543,Dr_543,Dentistry,OPD,10
+544,Dr_544,General Medicine,Emergency,2
+545,Dr_545,Dermatology,OPD,17
+546,Dr_546,ENT,OPD,7
+547,Dr_547,Gynecology,Emergency,10
+548,Dr_548,General Medicine,Surgery,28
+549,Dr_549,Pediatrics,Surgery,5
+550,Dr_550,General Medicine,General,28
+551,Dr_551,Pediatrics,General,29
+552,Dr_552,Gynecology,Surgery,3
+553,Dr_553,Cardiology,Diagnostics,30
+554,Dr_554,ENT,OPD,5
+555,Dr_555,Ophthalmology,Diagnostics,2
+556,Dr_556,Ophthalmology,OPD,20
+557,Dr_557,Neurology,Surgery,27
+558,Dr_558,Dentistry,General,26
+559,Dr_559,Cardiology,General,11
+560,Dr_560,Ophthalmology,Diagnostics,22
+561,Dr_561,General Medicine,General,16
+562,Dr_562,Dentistry,Surgery,28
+563,Dr_563,Cardiology,Diagnostics,23
+564,Dr_564,Dermatology,OPD,20
+565,Dr_565,Dermatology,General,17
+566,Dr_566,Dentistry,Emergency,22
+567,Dr_567,Pediatrics,General,28
+568,Dr_568,Pediatrics,OPD,25
+569,Dr_569,General Medicine,Diagnostics,23
+570,Dr_570,Cardiology,OPD,5
+571,Dr_571,Cardiology,Emergency,3
+572,Dr_572,Dentistry,Surgery,26
+573,Dr_573,Orthopedics,General,14
+574,Dr_574,Dermatology,Diagnostics,29
+575,Dr_575,Cardiology,Surgery,2
+576,Dr_576,Dentistry,OPD,18
+577,Dr_577,Gynecology,Diagnostics,14
+578,Dr_578,Neurology,Surgery,5
+579,Dr_579,Gynecology,Diagnostics,8
+580,Dr_580,ENT,Emergency,18
+581,Dr_581,General Medicine,Emergency,10
+582,Dr_582,Cardiology,General,5
+583,Dr_583,ENT,General,20
+584,Dr_584,Ophthalmology,Emergency,2
+585,Dr_585,ENT,Diagnostics,11
+586,Dr_586,Dentistry,Emergency,5
+587,Dr_587,Cardiology,General,10
+588,Dr_588,Neurology,Emergency,14
+589,Dr_589,Dentistry,Emergency,15
+590,Dr_590,Dentistry,Diagnostics,11
+591,Dr_591,General Medicine,Surgery,7
+592,Dr_592,General Medicine,General,17
+593,Dr_593,Dermatology,Diagnostics,7
+594,Dr_594,Dermatology,Emergency,18
+595,Dr_595,Pediatrics,Emergency,11
+596,Dr_596,Orthopedics,Surgery,19
+597,Dr_597,Cardiology,General,28
+598,Dr_598,Cardiology,General,23
+599,Dr_599,ENT,OPD,19
+600,Dr_600,Cardiology,General,4

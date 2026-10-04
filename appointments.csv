@@ -1,0 +1,3001 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_type,appointment_status,consultation_fee
+10001,1309,557,5/21/2025,Follow-up,Scheduled,300
+10002,1658,569,12/6/2024,Routine Checkup,Completed,1200
+10003,1939,522,5/6/2024,Consultation,Completed,500
+10004,1931,564,2/12/2025,Emergency,Completed,600
+10005,1510,541,1/1/2025,Routine Checkup,Completed,600
+10006,1063,587,9/27/2024,Emergency,Completed,800
+10007,1633,571,10/5/2025,Follow-up,Completed,300
+10008,1226,556,8/27/2025,Routine Checkup,Completed,1200
+10009,1105,523,1/13/2025,Routine Checkup,Completed,1000
+10010,1974,525,3/13/2024,Follow-up,Completed,400
+10011,1772,591,9/4/2024,Follow-up,Completed,1000
+10012,1861,506,2/12/2024,Follow-up,Completed,400
+10013,1425,534,1/11/2025,Consultation,Scheduled,500
+10014,1255,563,2/10/2024,Consultation,Scheduled,400
+10015,1429,509,6/18/2024,Routine Checkup,Completed,1000
+10016,1434,560,7/30/2024,Routine Checkup,Completed,1000
+10017,1207,549,5/7/2025,Routine Checkup,Completed,600
+10018,1028,597,11/10/2025,Emergency,Scheduled,1200
+10019,1682,551,2/8/2024,Follow-up,Completed,600
+10020,1336,560,1/3/2025,Routine Checkup,Completed,300
+10021,1588,570,5/30/2024,Follow-up,Scheduled,1000
+10022,1628,537,4/20/2024,Consultation,Completed,1200
+10023,1069,531,4/24/2025,Follow-up,Completed,500
+10024,1866,598,3/11/2025,Emergency,Completed,400
+10025,1746,541,2/16/2024,Emergency,Completed,300
+10026,1513,562,7/28/2025,Follow-up,Completed,800
+10027,1167,593,12/31/2024,Emergency,Scheduled,800
+10028,1864,558,3/9/2024,Emergency,Completed,1200
+10029,1730,514,10/25/2024,Consultation,Scheduled,400
+10030,1785,536,10/22/2024,Routine Checkup,Completed,400
+10031,1368,536,7/21/2024,Emergency,Completed,1200
+10032,1251,579,3/1/2024,Routine Checkup,Completed,400
+10033,1859,508,11/9/2024,Follow-up,Completed,600
+10034,1856,526,6/9/2024,Follow-up,Completed,400
+10035,1931,536,11/26/2024,Emergency,Completed,800
+10036,1686,548,6/11/2025,Follow-up,Scheduled,400
+10037,1170,585,12/3/2024,Consultation,Completed,1000
+10038,1758,528,8/28/2025,Emergency,Completed,1200
+10039,1935,568,10/30/2024,Emergency,Completed,500
+10040,1090,562,5/17/2025,Emergency,Completed,800
+10041,1561,580,10/11/2025,Follow-up,Completed,500
+10042,1446,586,12/3/2024,Follow-up,Completed,800
+10043,1294,576,7/3/2025,Emergency,Completed,300
+10044,1919,580,9/30/2025,Routine Checkup,Completed,1000
+10045,1150,551,10/1/2024,Follow-up,Scheduled,800
+10046,1132,542,6/12/2024,Follow-up,Completed,1000
+10047,1433,529,3/18/2025,Emergency,Completed,800
+10048,1059,582,11/14/2024,Routine Checkup,Scheduled,500
+10049,1969,510,8/11/2025,Emergency,No Show,500
+10050,1836,539,5/18/2025,Follow-up,Cancelled,1200
+10051,1199,582,11/16/2025,Emergency,Completed,800
+10052,1215,501,1/21/2025,Emergency,Scheduled,800
+10053,1898,539,8/25/2025,Emergency,Cancelled,600
+10054,1561,521,11/21/2025,Routine Checkup,Completed,1000
+10055,1472,565,5/8/2025,Emergency,Scheduled,1000
+10056,1744,515,5/4/2025,Follow-up,Completed,1000
+10057,1247,504,12/21/2025,Emergency,No Show,1000
+10058,1382,560,3/13/2024,Routine Checkup,Scheduled,300
+10059,1991,561,5/23/2025,Consultation,Cancelled,300
+10060,1239,520,1/24/2025,Routine Checkup,Scheduled,400
+10061,1927,510,9/10/2025,Emergency,Completed,800
+10062,1367,587,10/21/2024,Consultation,Completed,800
+10063,1168,534,1/3/2025,Emergency,Scheduled,800
+10064,1560,548,11/24/2025,Routine Checkup,Scheduled,800
+10065,1051,533,7/2/2025,Consultation,Scheduled,1000
+10066,1811,598,10/10/2025,Consultation,Scheduled,1000
+10067,1610,561,7/21/2025,Emergency,No Show,300
+10068,1951,510,7/5/2024,Emergency,Scheduled,500
+10069,1728,554,3/20/2025,Routine Checkup,Completed,600
+10070,1689,584,7/23/2025,Emergency,Completed,1000
+10071,1380,565,12/28/2024,Consultation,Scheduled,1000
+10072,1474,577,5/2/2024,Follow-up,Completed,1200
+10073,1080,501,7/6/2024,Follow-up,Completed,1000
+10074,1697,505,11/10/2025,Routine Checkup,Completed,500
+10075,1367,580,2/23/2025,Emergency,Scheduled,500
+10076,1461,515,9/17/2025,Routine Checkup,Scheduled,300
+10077,1911,528,9/8/2024,Follow-up,Cancelled,1000
+10078,1539,595,9/10/2025,Follow-up,Completed,1200
+10079,1452,523,7/2/2025,Emergency,Scheduled,600
+10080,1464,517,11/30/2024,Consultation,Cancelled,800
+10081,1960,598,4/1/2024,Emergency,Completed,1000
+10082,1478,513,6/13/2025,Follow-up,Completed,300
+10083,1926,514,3/3/2024,Consultation,Completed,300
+10084,1420,511,10/23/2025,Routine Checkup,Cancelled,600
+10085,1707,528,5/26/2025,Follow-up,Cancelled,1200
+10086,1214,542,5/18/2024,Routine Checkup,Completed,400
+10087,1369,596,11/28/2025,Consultation,No Show,300
+10088,1854,599,7/3/2024,Routine Checkup,Completed,500
+10089,1114,561,7/23/2024,Follow-up,Completed,500
+10090,1754,564,8/1/2024,Emergency,Completed,800
+10091,1503,531,9/12/2024,Routine Checkup,Completed,300
+10092,1636,581,5/14/2024,Follow-up,Completed,1200
+10093,1817,573,7/26/2025,Follow-up,Completed,800
+10094,1588,510,3/28/2024,Consultation,Completed,300
+10095,1311,508,7/25/2024,Follow-up,Completed,600
+10096,1469,521,5/8/2024,Emergency,Scheduled,1000
+10097,1824,577,1/3/2024,Emergency,Completed,1200
+10098,1708,559,4/30/2024,Routine Checkup,Completed,300
+10099,1863,550,1/19/2025,Routine Checkup,Scheduled,1200
+10100,1044,569,9/5/2025,Routine Checkup,Completed,400
+10101,1415,570,2/7/2024,Routine Checkup,Scheduled,1200
+10102,1698,530,12/6/2024,Emergency,No Show,1200
+10103,1855,595,10/6/2025,Consultation,Completed,500
+10104,1246,517,12/14/2025,Routine Checkup,No Show,600
+10105,1949,575,1/21/2024,Consultation,Scheduled,1000
+10106,1084,520,8/29/2024,Follow-up,No Show,1000
+10107,1207,548,3/30/2025,Follow-up,Cancelled,500
+10108,1151,573,9/12/2025,Routine Checkup,Completed,1200
+10109,1668,502,10/29/2024,Follow-up,Scheduled,1000
+10110,1528,537,8/18/2025,Consultation,Completed,800
+10111,1165,501,8/17/2025,Consultation,Completed,600
+10112,1917,504,3/9/2024,Follow-up,Completed,400
+10113,1975,600,5/8/2024,Routine Checkup,Completed,500
+10114,1145,554,7/14/2024,Consultation,Completed,300
+10115,1037,525,5/19/2024,Consultation,Scheduled,300
+10116,1333,503,3/19/2025,Emergency,No Show,300
+10117,1403,509,10/9/2024,Routine Checkup,Completed,600
+10118,1414,586,11/7/2024,Emergency,No Show,400
+10119,1045,587,6/18/2025,Follow-up,No Show,1000
+10120,1402,576,10/26/2025,Follow-up,Completed,400
+10121,1206,574,10/3/2024,Emergency,Completed,400
+10122,1062,534,3/1/2024,Routine Checkup,Scheduled,500
+10123,1420,543,11/14/2024,Consultation,Cancelled,600
+10124,1868,574,2/21/2024,Follow-up,Scheduled,300
+10125,1468,594,6/1/2024,Routine Checkup,Scheduled,500
+10126,1820,522,11/6/2024,Routine Checkup,Completed,1000
+10127,1019,570,6/27/2025,Follow-up,Completed,400
+10128,1365,502,7/20/2025,Follow-up,Cancelled,1200
+10129,1300,594,1/23/2025,Routine Checkup,Completed,300
+10130,1007,566,7/1/2025,Consultation,Cancelled,600
+10131,1761,532,9/13/2025,Emergency,Scheduled,800
+10132,1428,516,6/25/2024,Follow-up,Cancelled,400
+10133,1117,576,12/27/2024,Emergency,No Show,400
+10134,1580,501,11/9/2024,Routine Checkup,Completed,400
+10135,1507,572,4/6/2024,Emergency,Scheduled,400
+10136,1546,548,7/31/2024,Consultation,Cancelled,300
+10137,1706,550,5/16/2024,Routine Checkup,No Show,600
+10138,1325,513,1/6/2024,Consultation,Scheduled,500
+10139,1055,515,4/18/2024,Routine Checkup,Completed,300
+10140,1778,553,6/30/2025,Consultation,No Show,600
+10141,1992,544,2/8/2024,Routine Checkup,Cancelled,500
+10142,1042,508,10/23/2025,Consultation,Completed,400
+10143,1297,574,2/28/2025,Routine Checkup,Cancelled,600
+10144,1973,546,9/21/2025,Consultation,Scheduled,400
+10145,1231,569,9/17/2024,Routine Checkup,Cancelled,1200
+10146,1453,519,3/1/2025,Consultation,Completed,600
+10147,1890,538,3/27/2024,Follow-up,Scheduled,1000
+10148,1394,511,4/9/2025,Emergency,Scheduled,800
+10149,1522,543,3/16/2024,Routine Checkup,Completed,400
+10150,1358,520,4/15/2025,Consultation,Completed,400
+10151,1987,520,2/17/2025,Follow-up,Completed,400
+10152,1444,521,12/26/2025,Routine Checkup,Scheduled,1000
+10153,1128,582,4/1/2025,Routine Checkup,Scheduled,300
+10154,1691,557,10/11/2024,Routine Checkup,Completed,500
+10155,1405,550,8/26/2024,Emergency,Completed,400
+10156,1392,574,11/7/2025,Consultation,Completed,400
+10157,1193,598,8/21/2025,Consultation,Scheduled,300
+10158,1604,526,10/14/2025,Routine Checkup,Completed,300
+10159,1881,530,11/2/2025,Routine Checkup,Completed,800
+10160,1743,573,7/11/2025,Routine Checkup,Completed,600
+10161,1078,531,1/6/2025,Follow-up,Cancelled,400
+10162,1085,542,5/9/2025,Routine Checkup,Completed,600
+10163,1030,568,9/15/2025,Emergency,Completed,1200
+10164,1725,561,2/14/2024,Consultation,No Show,300
+10165,1049,561,2/4/2025,Emergency,Completed,300
+10166,1777,570,9/3/2024,Routine Checkup,Completed,800
+10167,1145,578,9/7/2025,Follow-up,No Show,500
+10168,1069,568,8/19/2025,Routine Checkup,Completed,1000
+10169,1058,590,3/25/2025,Routine Checkup,Cancelled,1000
+10170,1697,517,4/29/2025,Routine Checkup,Completed,1000
+10171,1574,519,10/7/2025,Routine Checkup,Scheduled,300
+10172,1479,551,9/11/2025,Routine Checkup,Completed,400
+10173,1820,570,1/18/2024,Consultation,Scheduled,800
+10174,1445,563,8/28/2025,Emergency,Completed,500
+10175,1296,593,10/23/2025,Follow-up,Completed,1200
+10176,1678,575,10/15/2024,Routine Checkup,Scheduled,1000
+10177,1171,580,2/17/2025,Follow-up,No Show,800
+10178,1575,530,12/21/2025,Consultation,Completed,300
+10179,1147,525,9/29/2025,Emergency,Scheduled,1000
+10180,1484,575,8/22/2024,Routine Checkup,Completed,500
+10181,1306,571,2/19/2025,Consultation,Cancelled,1200
+10182,1673,526,5/13/2025,Consultation,Completed,600
+10183,1653,556,9/25/2025,Emergency,Cancelled,1200
+10184,1846,522,10/11/2025,Routine Checkup,Completed,500
+10185,1609,589,4/24/2024,Emergency,Completed,1200
+10186,1446,519,11/4/2025,Emergency,Completed,400
+10187,1221,531,12/13/2025,Follow-up,Completed,1000
+10188,1555,526,8/21/2024,Follow-up,No Show,1000
+10189,1945,542,6/23/2025,Emergency,No Show,600
+10190,1804,541,1/11/2024,Follow-up,Scheduled,1200
+10191,1378,600,7/24/2024,Consultation,Completed,600
+10192,1620,523,11/9/2025,Emergency,Completed,1200
+10193,1266,547,9/3/2024,Routine Checkup,Scheduled,1000
+10194,1095,513,7/12/2025,Routine Checkup,No Show,400
+10195,1262,589,5/6/2024,Consultation,Completed,1200
+10196,1825,566,5/26/2024,Routine Checkup,Scheduled,600
+10197,1897,566,4/27/2024,Routine Checkup,No Show,300
+10198,1071,516,1/16/2025,Emergency,Scheduled,1000
+10199,1954,573,2/15/2025,Consultation,Completed,500
+10200,1219,528,10/25/2025,Emergency,Completed,500
+10201,1533,577,8/6/2025,Consultation,Completed,400
+10202,1092,535,12/28/2024,Emergency,Completed,300
+10203,1127,541,5/23/2025,Emergency,Completed,600
+10204,1080,577,5/16/2024,Follow-up,Completed,1200
+10205,1824,531,6/23/2024,Routine Checkup,Scheduled,1000
+10206,1238,585,10/15/2024,Consultation,Completed,500
+10207,1983,532,4/25/2025,Routine Checkup,Completed,500
+10208,1372,554,1/19/2024,Follow-up,Cancelled,500
+10209,1916,598,7/13/2024,Consultation,Cancelled,500
+10210,1486,572,11/25/2024,Follow-up,Scheduled,800
+10211,1694,559,6/23/2024,Routine Checkup,Completed,400
+10212,1025,541,3/24/2025,Emergency,Scheduled,600
+10213,1156,566,12/19/2024,Follow-up,Cancelled,1000
+10214,1517,596,5/13/2025,Follow-up,Completed,1000
+10215,1632,554,5/20/2024,Emergency,Scheduled,1000
+10216,1789,540,4/2/2024,Routine Checkup,Completed,600
+10217,1530,528,8/26/2024,Follow-up,Completed,400
+10218,1943,537,7/23/2024,Routine Checkup,Completed,300
+10219,1710,565,7/13/2025,Emergency,Completed,1200
+10220,1057,574,3/8/2025,Consultation,Completed,1200
+10221,1605,555,9/1/2024,Follow-up,Scheduled,400
+10222,1019,504,11/12/2024,Routine Checkup,Completed,500
+10223,1384,599,10/21/2024,Emergency,No Show,1200
+10224,1865,510,10/1/2025,Emergency,Cancelled,500
+10225,1193,547,10/8/2024,Follow-up,Completed,400
+10226,1237,575,1/17/2024,Consultation,Completed,400
+10227,1387,514,3/11/2024,Follow-up,Cancelled,600
+10228,1426,538,9/25/2024,Routine Checkup,Cancelled,600
+10229,1277,512,11/20/2024,Emergency,Completed,800
+10230,1227,545,10/31/2024,Consultation,Completed,1000
+10231,1745,517,3/26/2025,Routine Checkup,Scheduled,800
+10232,1552,580,1/7/2024,Follow-up,Completed,1000
+10233,1323,535,11/9/2024,Emergency,Scheduled,500
+10234,1153,566,4/12/2024,Follow-up,Cancelled,800
+10235,1639,575,7/11/2024,Consultation,Completed,800
+10236,1237,541,7/27/2025,Consultation,Completed,300
+10237,1998,567,6/12/2025,Consultation,Completed,400
+10238,1055,529,6/19/2024,Consultation,Scheduled,600
+10239,1980,518,6/20/2025,Consultation,Completed,800
+10240,1436,520,9/7/2024,Follow-up,Completed,600
+10241,1684,514,1/21/2025,Consultation,Cancelled,1000
+10242,1109,534,7/25/2024,Consultation,Completed,800
+10243,1866,549,6/24/2025,Emergency,Completed,1000
+10244,1981,554,9/20/2025,Consultation,Scheduled,800
+10245,1184,531,2/19/2025,Emergency,Completed,1200
+10246,1951,558,1/14/2025,Emergency,No Show,500
+10247,1368,542,5/23/2024,Emergency,Scheduled,300
+10248,1983,558,1/25/2024,Follow-up,Completed,1000
+10249,1198,582,10/29/2025,Follow-up,Completed,400
+10250,1371,530,3/13/2024,Routine Checkup,Completed,400
+10251,1373,525,9/23/2025,Routine Checkup,Cancelled,500
+10252,1973,563,4/2/2024,Emergency,Completed,500
+10253,1497,519,5/19/2025,Follow-up,No Show,1200
+10254,1599,572,8/20/2025,Consultation,Cancelled,400
+10255,1201,592,12/1/2024,Routine Checkup,Completed,1000
+10256,1849,508,2/28/2025,Follow-up,Cancelled,400
+10257,1509,595,5/13/2025,Consultation,Completed,300
+10258,1322,503,12/29/2024,Consultation,Scheduled,800
+10259,1275,567,9/21/2025,Follow-up,Cancelled,300
+10260,1211,586,7/17/2024,Routine Checkup,Completed,1200
+10261,1504,581,12/18/2025,Follow-up,Completed,1200
+10262,1903,600,2/16/2025,Routine Checkup,Scheduled,400
+10263,1118,517,12/4/2024,Emergency,Cancelled,800
+10264,1703,514,10/20/2025,Follow-up,No Show,400
+10265,1554,509,3/4/2025,Follow-up,Completed,300
+10266,1042,562,5/18/2024,Routine Checkup,Completed,300
+10267,1315,594,11/23/2025,Routine Checkup,Completed,1000
+10268,1788,521,6/25/2025,Follow-up,Cancelled,1000
+10269,1329,576,2/26/2024,Consultation,Completed,300
+10270,1017,537,8/19/2024,Consultation,Completed,800
+10271,1283,596,10/19/2025,Consultation,Cancelled,1200
+10272,1943,511,3/10/2025,Emergency,Completed,1000
+10273,1258,520,1/18/2025,Emergency,Completed,1000
+10274,1575,535,7/13/2025,Routine Checkup,Completed,600
+10275,1574,553,7/12/2024,Emergency,Scheduled,600
+10276,1612,547,10/9/2025,Consultation,Completed,1000
+10277,1019,575,6/17/2025,Follow-up,Completed,400
+10278,1529,552,6/1/2025,Emergency,Completed,800
+10279,1837,508,12/16/2025,Emergency,Scheduled,500
+10280,1423,504,7/3/2024,Consultation,Scheduled,1000
+10281,1466,527,10/18/2024,Emergency,Completed,600
+10282,1373,544,11/30/2024,Routine Checkup,Completed,800
+10283,1758,540,4/25/2024,Follow-up,Scheduled,800
+10284,1763,547,2/18/2024,Consultation,No Show,600
+10285,1967,594,11/15/2025,Routine Checkup,Scheduled,800
+10286,1081,544,3/22/2024,Consultation,No Show,800
+10287,1551,548,11/28/2024,Routine Checkup,Cancelled,600
+10288,1548,591,7/10/2025,Follow-up,Scheduled,300
+10289,1424,585,11/30/2024,Follow-up,Completed,1000
+10290,1429,552,6/15/2025,Routine Checkup,Completed,400
+10291,1388,584,8/8/2024,Routine Checkup,Completed,500
+10292,1998,568,9/26/2025,Routine Checkup,Scheduled,400
+10293,1921,511,11/18/2024,Routine Checkup,No Show,300
+10294,1709,577,1/3/2024,Routine Checkup,Cancelled,1200
+10295,1670,573,11/24/2025,Routine Checkup,Completed,300
+10296,1204,504,7/24/2024,Follow-up,Completed,800
+10297,1196,576,2/9/2024,Routine Checkup,Completed,400
+10298,1728,573,2/28/2024,Emergency,Completed,300
+10299,1285,577,7/27/2025,Follow-up,Cancelled,400
+10300,1969,548,10/5/2025,Consultation,No Show,300
+10301,1196,526,5/21/2025,Follow-up,Completed,500
+10302,1307,577,7/25/2025,Consultation,Completed,300
+10303,1664,539,5/1/2024,Consultation,Cancelled,400
+10304,1014,592,4/23/2025,Emergency,Completed,800
+10305,1837,558,9/10/2025,Routine Checkup,Scheduled,400
+10306,1146,519,4/5/2024,Routine Checkup,Completed,600
+10307,1938,588,2/17/2025,Follow-up,Completed,400
+10308,1057,583,8/22/2024,Routine Checkup,Completed,500
+10309,1723,577,3/2/2024,Emergency,Completed,1000
+10310,1780,577,9/12/2024,Follow-up,Cancelled,500
+10311,1210,558,7/14/2025,Follow-up,Completed,500
+10312,1529,528,12/13/2024,Follow-up,Completed,300
+10313,1798,566,11/1/2025,Routine Checkup,Completed,500
+10314,1344,510,5/3/2024,Routine Checkup,Completed,400
+10315,1715,586,4/26/2025,Routine Checkup,Completed,1000
+10316,1611,577,11/12/2024,Follow-up,Completed,1200
+10317,1279,558,5/18/2025,Follow-up,Scheduled,800
+10318,1209,573,12/19/2025,Consultation,No Show,1200
+10319,1641,597,2/17/2024,Consultation,Completed,500
+10320,1335,514,2/12/2025,Routine Checkup,Completed,400
+10321,1288,584,5/15/2024,Follow-up,Completed,300
+10322,1252,515,7/19/2024,Routine Checkup,Completed,300
+10323,1265,596,9/6/2024,Routine Checkup,Cancelled,800
+10324,1271,533,11/9/2024,Consultation,Scheduled,800
+10325,1924,517,1/2/2025,Emergency,Scheduled,400
+10326,1920,524,3/4/2025,Routine Checkup,Completed,800
+10327,1700,530,4/24/2025,Emergency,Completed,800
+10328,1419,562,11/9/2024,Emergency,No Show,300
+10329,1726,513,5/14/2025,Follow-up,Completed,400
+10330,1795,562,12/21/2025,Follow-up,Completed,1000
+10331,1211,547,12/20/2024,Routine Checkup,No Show,800
+10332,1365,516,4/29/2025,Consultation,Scheduled,400
+10333,1076,566,7/29/2024,Consultation,Scheduled,500
+10334,1660,581,12/4/2025,Routine Checkup,Completed,300
+10335,1321,596,2/13/2024,Routine Checkup,Completed,1000
+10336,1725,543,6/24/2025,Consultation,Completed,300
+10337,1433,508,7/24/2025,Emergency,Cancelled,300
+10338,1109,503,8/5/2025,Routine Checkup,Completed,600
+10339,1641,512,4/1/2024,Emergency,Scheduled,400
+10340,1522,584,9/21/2024,Routine Checkup,Scheduled,500
+10341,1047,516,8/7/2024,Routine Checkup,Completed,800
+10342,1379,578,3/17/2025,Emergency,Completed,500
+10343,1827,580,2/4/2025,Emergency,Completed,400
+10344,1096,559,2/3/2025,Consultation,Scheduled,300
+10345,1958,549,12/27/2025,Routine Checkup,Cancelled,600
+10346,1103,563,7/29/2025,Follow-up,Scheduled,400
+10347,1892,562,5/4/2025,Follow-up,Completed,1000
+10348,1854,549,4/29/2025,Routine Checkup,Completed,1000
+10349,1146,551,4/14/2025,Routine Checkup,Scheduled,400
+10350,1880,533,7/27/2025,Routine Checkup,Completed,800
+10351,1942,530,11/12/2025,Emergency,Cancelled,500
+10352,1928,559,3/20/2025,Follow-up,Scheduled,500
+10353,1027,576,9/25/2024,Follow-up,Completed,800
+10354,1732,515,9/23/2024,Follow-up,Completed,600
+10355,1530,582,2/23/2024,Routine Checkup,Completed,300
+10356,1679,592,6/11/2025,Emergency,Completed,1200
+10357,1945,523,6/3/2025,Routine Checkup,Scheduled,1200
+10358,1989,578,9/7/2025,Consultation,Scheduled,300
+10359,1082,594,2/28/2024,Consultation,Scheduled,1000
+10360,1428,597,2/9/2024,Follow-up,Cancelled,600
+10361,1584,545,8/24/2024,Routine Checkup,Completed,800
+10362,1822,562,1/20/2025,Consultation,Completed,1200
+10363,1479,579,8/28/2025,Consultation,Scheduled,400
+10364,1766,571,12/16/2025,Routine Checkup,Completed,500
+10365,1162,515,10/11/2025,Emergency,Scheduled,400
+10366,1839,546,10/26/2024,Routine Checkup,Scheduled,500
+10367,1932,564,1/29/2025,Routine Checkup,Completed,400
+10368,1402,546,7/25/2024,Emergency,Completed,800
+10369,1508,556,12/1/2024,Follow-up,Cancelled,800
+10370,1038,544,8/15/2025,Follow-up,Scheduled,600
+10371,1955,575,12/30/2025,Follow-up,Completed,400
+10372,1511,529,5/28/2025,Emergency,No Show,400
+10373,1393,595,6/26/2024,Consultation,Cancelled,600
+10374,1713,562,1/30/2025,Emergency,No Show,600
+10375,1494,589,1/5/2025,Routine Checkup,Completed,800
+10376,1200,552,10/19/2025,Emergency,Completed,800
+10377,1255,554,11/13/2024,Consultation,Scheduled,1000
+10378,1179,588,1/3/2025,Consultation,Scheduled,400
+10379,1547,557,1/18/2025,Routine Checkup,Completed,800
+10380,1594,583,3/2/2024,Follow-up,Scheduled,1200
+10381,1389,566,5/19/2025,Consultation,Scheduled,800
+10382,1398,522,8/26/2024,Consultation,Completed,400
+10383,1732,520,7/13/2024,Consultation,Cancelled,600
+10384,1158,533,11/8/2025,Routine Checkup,Scheduled,400
+10385,1004,572,8/9/2024,Consultation,Completed,1200
+10386,1167,525,3/1/2024,Follow-up,Completed,300
+10387,1468,546,5/8/2024,Routine Checkup,Scheduled,400
+10388,1960,573,11/15/2025,Follow-up,Completed,300
+10389,1409,598,6/4/2024,Consultation,Completed,400
+10390,1412,557,1/12/2025,Consultation,No Show,1200
+10391,1204,587,9/13/2025,Follow-up,Cancelled,300
+10392,1194,505,8/8/2025,Routine Checkup,Scheduled,300
+10393,1235,555,3/12/2025,Routine Checkup,Scheduled,1200
+10394,1718,561,7/25/2024,Follow-up,Completed,400
+10395,1150,589,1/22/2025,Consultation,Completed,1000
+10396,1159,508,4/24/2025,Emergency,Completed,800
+10397,1279,516,12/5/2024,Follow-up,Completed,500
+10398,1816,548,12/5/2024,Follow-up,Cancelled,800
+10399,1404,561,7/22/2024,Follow-up,Cancelled,300
+10400,1893,515,6/9/2024,Consultation,Completed,400
+10401,1678,565,6/23/2025,Routine Checkup,Completed,400
+10402,1311,522,1/26/2025,Consultation,Completed,400
+10403,1068,503,11/7/2025,Follow-up,Completed,400
+10404,1463,554,7/28/2025,Consultation,Completed,1000
+10405,1088,514,6/17/2025,Consultation,Completed,500
+10406,1217,536,3/10/2024,Follow-up,Cancelled,600
+10407,1001,582,2/8/2025,Consultation,Completed,300
+10408,1135,582,8/30/2025,Emergency,Completed,500
+10409,1697,567,11/5/2025,Consultation,Scheduled,800
+10410,1351,510,8/13/2025,Consultation,Completed,600
+10411,1140,549,5/31/2025,Routine Checkup,Cancelled,600
+10412,1618,565,4/29/2024,Routine Checkup,Completed,400
+10413,1133,591,11/20/2025,Follow-up,Completed,500
+10414,1620,557,11/18/2025,Follow-up,Completed,800
+10415,1178,527,8/4/2024,Routine Checkup,No Show,400
+10416,1810,575,2/25/2024,Emergency,Completed,400
+10417,1358,505,12/31/2024,Consultation,No Show,1200
+10418,1380,571,11/29/2025,Emergency,Completed,1200
+10419,1908,583,5/18/2025,Emergency,Completed,1200
+10420,1871,557,3/30/2025,Routine Checkup,Completed,1000
+10421,1658,593,4/13/2024,Follow-up,Completed,300
+10422,1450,515,3/17/2024,Consultation,Completed,600
+10423,1586,599,8/17/2024,Follow-up,Completed,800
+10424,1463,576,9/14/2024,Emergency,Completed,600
+10425,1990,530,9/20/2024,Emergency,Completed,500
+10426,1108,520,11/26/2024,Follow-up,Completed,300
+10427,1122,537,6/30/2024,Follow-up,Completed,400
+10428,1017,503,7/3/2025,Routine Checkup,Completed,300
+10429,1196,573,11/18/2025,Follow-up,Cancelled,400
+10430,1327,541,1/27/2024,Follow-up,Scheduled,1200
+10431,1318,539,10/2/2024,Routine Checkup,Completed,300
+10432,1809,526,10/13/2025,Follow-up,Completed,400
+10433,1479,502,10/25/2024,Emergency,Completed,600
+10434,1252,523,3/31/2024,Follow-up,Scheduled,1200
+10435,1503,523,4/24/2025,Consultation,Completed,1200
+10436,1999,585,7/26/2025,Emergency,Scheduled,1200
+10437,1119,516,4/2/2025,Routine Checkup,Completed,600
+10438,1674,509,3/26/2025,Emergency,Completed,600
+10439,1710,513,12/30/2024,Routine Checkup,Completed,600
+10440,1498,528,11/5/2025,Consultation,Completed,1200
+10441,1486,527,12/16/2024,Consultation,Scheduled,300
+10442,1045,551,10/16/2025,Emergency,Completed,400
+10443,1314,564,2/3/2025,Follow-up,Cancelled,600
+10444,1179,552,9/9/2024,Emergency,Cancelled,300
+10445,1894,581,4/3/2025,Emergency,Cancelled,400
+10446,1418,538,11/29/2025,Consultation,Completed,1200
+10447,1556,600,5/13/2025,Routine Checkup,Completed,300
+10448,1783,565,5/22/2025,Emergency,Completed,1200
+10449,1078,518,10/30/2024,Follow-up,Completed,1000
+10450,1326,563,5/15/2025,Consultation,Scheduled,600
+10451,1690,551,8/20/2025,Emergency,Completed,500
+10452,1357,509,6/14/2024,Emergency,Cancelled,300
+10453,1416,513,2/18/2025,Follow-up,Completed,600
+10454,1963,540,4/6/2025,Emergency,No Show,800
+10455,1515,555,4/23/2024,Emergency,Completed,400
+10456,1214,579,3/8/2025,Emergency,Completed,1000
+10457,1854,543,12/21/2024,Emergency,No Show,600
+10458,1074,544,11/25/2025,Follow-up,Completed,800
+10459,1563,568,7/25/2024,Emergency,No Show,300
+10460,1579,533,8/22/2024,Emergency,Completed,300
+10461,1509,524,3/17/2025,Emergency,Completed,800
+10462,1332,536,12/20/2024,Consultation,Cancelled,1000
+10463,1093,510,5/29/2025,Follow-up,Scheduled,800
+10464,1688,600,7/26/2024,Consultation,Completed,400
+10465,1657,520,12/9/2025,Consultation,No Show,300
+10466,1519,575,5/4/2024,Follow-up,Cancelled,800
+10467,1269,512,5/17/2024,Consultation,Scheduled,500
+10468,1376,562,12/4/2024,Consultation,Completed,500
+10469,1834,518,6/20/2025,Consultation,Completed,800
+10470,1004,594,3/8/2024,Follow-up,No Show,400
+10471,1138,563,7/26/2025,Emergency,No Show,300
+10472,1231,584,6/24/2025,Routine Checkup,Completed,500
+10473,1600,525,1/17/2025,Routine Checkup,Completed,800
+10474,1529,512,1/19/2024,Follow-up,Completed,1200
+10475,1052,521,11/13/2025,Routine Checkup,Cancelled,800
+10476,1646,525,3/25/2025,Follow-up,Completed,600
+10477,1723,511,3/14/2024,Follow-up,Completed,800
+10478,1325,564,7/26/2025,Routine Checkup,Completed,400
+10479,1992,573,10/26/2025,Consultation,Scheduled,500
+10480,1970,550,10/2/2024,Emergency,Completed,600
+10481,1905,562,2/17/2024,Routine Checkup,Completed,500
+10482,1731,589,7/29/2024,Routine Checkup,Cancelled,500
+10483,1717,599,10/12/2025,Routine Checkup,Cancelled,400
+10484,1723,596,9/13/2025,Routine Checkup,Completed,800
+10485,1277,549,11/25/2025,Follow-up,Completed,400
+10486,1536,514,6/23/2025,Follow-up,Scheduled,800
+10487,1486,501,12/9/2025,Emergency,Scheduled,600
+10488,1516,581,7/9/2024,Emergency,Scheduled,400
+10489,1152,525,11/10/2024,Routine Checkup,No Show,400
+10490,1955,559,7/16/2025,Routine Checkup,Scheduled,1200
+10491,1483,572,10/22/2025,Routine Checkup,Scheduled,1000
+10492,1259,569,7/15/2025,Emergency,Completed,300
+10493,1324,505,4/22/2024,Routine Checkup,Completed,400
+10494,1869,599,6/18/2024,Consultation,Completed,1000
+10495,1168,519,4/12/2025,Emergency,Completed,300
+10496,1688,523,11/8/2025,Consultation,Completed,1200
+10497,1310,509,1/14/2024,Routine Checkup,Completed,800
+10498,1803,594,12/15/2025,Follow-up,Scheduled,800
+10499,1479,550,10/14/2024,Consultation,Completed,800
+10500,1056,516,7/7/2024,Emergency,Completed,1000
+10501,1620,533,6/3/2024,Consultation,No Show,1000
+10502,1473,502,7/20/2025,Emergency,Completed,300
+10503,1296,514,11/24/2025,Routine Checkup,Completed,800
+10504,1461,501,12/22/2025,Consultation,Completed,500
+10505,1324,590,4/15/2025,Follow-up,Scheduled,400
+10506,1814,558,3/15/2024,Consultation,Completed,1000
+10507,1846,589,10/3/2024,Follow-up,Cancelled,1000
+10508,1141,516,10/6/2025,Emergency,Completed,1000
+10509,1667,579,12/8/2024,Routine Checkup,Completed,300
+10510,1262,590,2/28/2025,Routine Checkup,Completed,800
+10511,1785,547,7/24/2025,Follow-up,Scheduled,500
+10512,1420,544,5/25/2025,Emergency,Scheduled,400
+10513,1744,580,6/30/2024,Routine Checkup,Scheduled,400
+10514,1241,514,4/2/2025,Emergency,Scheduled,800
+10515,1355,593,3/4/2024,Follow-up,Completed,500
+10516,1849,524,9/16/2024,Follow-up,Scheduled,300
+10517,1770,555,7/11/2024,Consultation,Completed,1000
+10518,1761,515,10/16/2025,Routine Checkup,Cancelled,1000
+10519,1589,583,9/7/2025,Routine Checkup,Completed,1200
+10520,1180,572,2/9/2025,Consultation,Completed,800
+10521,1066,534,12/26/2025,Follow-up,Completed,400
+10522,1820,502,12/21/2025,Follow-up,Completed,1000
+10523,1348,527,4/2/2024,Follow-up,Completed,1200
+10524,1171,574,3/5/2025,Follow-up,Scheduled,400
+10525,1474,599,10/15/2025,Emergency,Completed,400
+10526,1534,587,3/9/2025,Routine Checkup,Completed,800
+10527,1367,572,2/7/2025,Routine Checkup,Scheduled,600
+10528,1107,592,3/9/2025,Follow-up,Completed,1200
+10529,1439,523,4/21/2024,Follow-up,Scheduled,600
+10530,1835,568,1/9/2025,Follow-up,Cancelled,600
+10531,1227,514,2/28/2024,Routine Checkup,No Show,1200
+10532,1444,563,2/12/2024,Routine Checkup,Cancelled,500
+10533,1442,593,7/25/2024,Follow-up,Completed,800
+10534,1396,565,10/22/2024,Emergency,Completed,1200
+10535,1728,568,4/27/2024,Consultation,Completed,400
+10536,1581,563,6/15/2025,Consultation,No Show,1200
+10537,1084,596,8/9/2024,Consultation,Completed,1000
+10538,1615,597,6/14/2024,Routine Checkup,Completed,1200
+10539,1551,590,10/4/2025,Routine Checkup,Completed,500
+10540,1013,581,6/4/2024,Consultation,Scheduled,600
+10541,1809,587,7/2/2024,Consultation,Completed,300
+10542,1825,564,3/30/2024,Emergency,No Show,500
+10543,1693,532,4/3/2024,Routine Checkup,Completed,500
+10544,1493,579,1/13/2024,Routine Checkup,Completed,800
+10545,1268,513,3/13/2025,Consultation,Completed,1000
+10546,1525,566,6/21/2025,Emergency,Scheduled,500
+10547,1120,519,8/9/2025,Emergency,Scheduled,1200
+10548,1970,524,5/29/2024,Consultation,Completed,1000
+10549,1353,588,10/21/2025,Consultation,Completed,800
+10550,1057,511,1/8/2024,Routine Checkup,Scheduled,1200
+10551,1040,559,1/29/2024,Consultation,Completed,300
+10552,1886,586,10/22/2024,Follow-up,Completed,400
+10553,1336,515,12/21/2025,Emergency,Completed,400
+10554,1640,510,10/1/2025,Consultation,Completed,600
+10555,1173,541,12/5/2024,Follow-up,Completed,600
+10556,1547,527,9/19/2025,Emergency,Completed,300
+10557,1259,560,3/14/2025,Follow-up,Completed,400
+10558,1888,573,5/23/2024,Follow-up,Scheduled,600
+10559,1517,552,6/2/2025,Consultation,Completed,1000
+10560,1730,528,2/14/2024,Emergency,Scheduled,500
+10561,1523,565,8/26/2024,Follow-up,Completed,800
+10562,1894,517,6/3/2024,Routine Checkup,Cancelled,1200
+10563,1839,595,6/29/2024,Emergency,Completed,600
+10564,1117,544,8/2/2024,Routine Checkup,Scheduled,300
+10565,1184,510,3/28/2024,Consultation,Completed,1200
+10566,1906,563,9/12/2024,Routine Checkup,Scheduled,400
+10567,1874,593,5/25/2025,Emergency,Completed,300
+10568,1116,582,3/13/2024,Follow-up,Completed,800
+10569,1162,547,6/27/2024,Follow-up,No Show,800
+10570,1579,538,7/30/2024,Emergency,Cancelled,300
+10571,1712,570,8/21/2024,Follow-up,Completed,600
+10572,1543,576,4/9/2025,Routine Checkup,No Show,600
+10573,1587,553,8/10/2024,Follow-up,Completed,400
+10574,1237,578,9/22/2025,Follow-up,Completed,1000
+10575,1839,544,9/20/2024,Routine Checkup,No Show,400
+10576,1066,574,7/25/2024,Routine Checkup,Completed,500
+10577,1070,554,8/29/2025,Routine Checkup,Scheduled,1000
+10578,1809,520,12/31/2024,Consultation,Completed,1200
+10579,1447,579,10/2/2024,Routine Checkup,Scheduled,500
+10580,1416,531,1/14/2025,Routine Checkup,Completed,400
+10581,1532,507,11/4/2024,Consultation,No Show,1000
+10582,1441,558,9/22/2025,Follow-up,Cancelled,1000
+10583,1738,510,9/24/2024,Routine Checkup,Completed,500
+10584,1946,510,3/4/2024,Emergency,Cancelled,300
+10585,1464,539,12/15/2024,Routine Checkup,Completed,600
+10586,1921,528,5/8/2025,Routine Checkup,Scheduled,1000
+10587,1396,530,6/6/2025,Consultation,Scheduled,1200
+10588,1711,537,4/7/2024,Emergency,Completed,1200
+10589,1551,567,3/11/2024,Follow-up,Scheduled,1000
+10590,1657,543,12/29/2024,Follow-up,Completed,500
+10591,1557,579,7/23/2025,Emergency,Completed,1000
+10592,1395,585,10/2/2024,Routine Checkup,Completed,500
+10593,1326,552,2/19/2024,Consultation,Cancelled,300
+10594,1893,556,12/23/2024,Emergency,Completed,1200
+10595,1919,576,12/28/2025,Emergency,Scheduled,1000
+10596,1091,568,7/17/2025,Follow-up,Completed,800
+10597,1750,509,4/29/2025,Consultation,Cancelled,400
+10598,1070,592,3/24/2024,Emergency,Completed,1200
+10599,1166,523,9/29/2025,Consultation,Scheduled,300
+10600,1642,563,8/6/2025,Routine Checkup,Completed,800
+10601,1214,561,10/22/2024,Follow-up,Completed,1200
+10602,1852,540,8/23/2024,Routine Checkup,Completed,300
+10603,1601,544,2/25/2024,Consultation,Scheduled,600
+10604,1335,586,12/25/2024,Routine Checkup,Completed,300
+10605,1764,524,4/19/2024,Follow-up,Scheduled,300
+10606,1369,551,7/10/2024,Consultation,Completed,600
+10607,1861,558,4/2/2024,Emergency,Scheduled,1000
+10608,1584,590,7/21/2025,Routine Checkup,Completed,400
+10609,1677,594,2/29/2024,Follow-up,Completed,800
+10610,1049,533,10/11/2025,Emergency,Completed,1200
+10611,1052,516,2/8/2024,Follow-up,Completed,500
+10612,1289,522,6/23/2025,Consultation,Completed,400
+10613,1790,557,2/18/2024,Consultation,No Show,1200
+10614,1626,562,2/23/2025,Routine Checkup,No Show,300
+10615,1239,582,9/28/2025,Follow-up,Scheduled,500
+10616,1133,571,1/13/2024,Follow-up,Completed,600
+10617,1999,590,2/5/2024,Follow-up,Completed,400
+10618,1786,572,4/10/2024,Consultation,Cancelled,1000
+10619,1166,570,3/26/2024,Routine Checkup,Completed,800
+10620,1374,530,5/30/2025,Follow-up,No Show,400
+10621,1373,523,8/10/2024,Follow-up,Completed,400
+10622,1805,532,12/3/2024,Emergency,No Show,1000
+10623,1478,586,6/14/2024,Follow-up,Completed,500
+10624,1755,557,1/17/2025,Routine Checkup,Scheduled,600
+10625,1479,509,1/10/2025,Emergency,Completed,1000
+10626,1832,531,4/15/2025,Emergency,Scheduled,1200
+10627,1650,571,10/3/2025,Emergency,Completed,600
+10628,1591,509,1/31/2024,Consultation,Cancelled,1000
+10629,1682,513,1/9/2025,Emergency,Scheduled,400
+10630,1635,558,1/11/2024,Follow-up,Completed,600
+10631,1688,503,10/28/2024,Consultation,Completed,500
+10632,1300,535,4/5/2024,Consultation,Completed,500
+10633,1082,597,7/8/2024,Consultation,Completed,800
+10634,1087,521,3/28/2025,Consultation,Completed,600
+10635,1225,564,7/10/2024,Consultation,Completed,800
+10636,1016,595,4/30/2025,Consultation,Completed,1200
+10637,1822,552,9/22/2024,Consultation,Cancelled,1000
+10638,1358,534,2/27/2025,Emergency,Cancelled,300
+10639,1163,596,5/7/2024,Routine Checkup,Completed,1200
+10640,1610,535,8/25/2024,Follow-up,Scheduled,500
+10641,1668,515,12/20/2024,Follow-up,Scheduled,400
+10642,1514,596,4/21/2024,Emergency,Completed,500
+10643,1350,506,3/21/2025,Emergency,Completed,300
+10644,1909,585,12/8/2024,Consultation,Completed,400
+10645,1681,597,5/24/2024,Routine Checkup,Scheduled,600
+10646,1464,532,3/5/2024,Consultation,Scheduled,600
+10647,1827,552,9/3/2024,Emergency,Completed,1200
+10648,1837,583,5/4/2025,Consultation,Scheduled,500
+10649,1375,597,3/14/2025,Follow-up,Completed,400
+10650,1092,528,4/15/2024,Follow-up,Completed,1000
+10651,1181,595,6/29/2024,Consultation,Scheduled,400
+10652,1743,585,7/2/2024,Routine Checkup,Cancelled,800
+10653,1301,598,8/13/2024,Consultation,Completed,300
+10654,1660,564,3/29/2024,Consultation,Completed,1200
+10655,1792,579,11/18/2025,Routine Checkup,No Show,600
+10656,1189,578,6/13/2025,Routine Checkup,Cancelled,500
+10657,1859,519,1/5/2025,Routine Checkup,Cancelled,400
+10658,1862,515,2/2/2025,Follow-up,Completed,600
+10659,1314,506,4/15/2024,Consultation,Completed,500
+10660,1493,573,9/27/2024,Emergency,Completed,600
+10661,1923,584,5/17/2025,Routine Checkup,Completed,500
+10662,1922,598,11/9/2025,Routine Checkup,Scheduled,600
+10663,1128,538,6/8/2025,Consultation,Completed,1000
+10664,1519,526,2/1/2024,Emergency,Completed,800
+10665,1426,582,1/27/2025,Consultation,Completed,300
+10666,1559,592,2/9/2024,Consultation,Completed,600
+10667,1565,551,10/21/2025,Routine Checkup,No Show,300
+10668,1187,573,8/5/2024,Routine Checkup,Cancelled,600
+10669,1550,596,3/22/2024,Follow-up,Completed,1200
+10670,1453,553,12/20/2025,Emergency,Scheduled,400
+10671,1471,556,7/19/2024,Emergency,Scheduled,800
+10672,1988,559,3/22/2025,Routine Checkup,Cancelled,1200
+10673,1738,570,3/3/2025,Routine Checkup,Completed,1000
+10674,1565,578,2/7/2024,Routine Checkup,Completed,800
+10675,1911,592,7/29/2024,Emergency,Completed,300
+10676,1224,558,3/19/2025,Follow-up,Scheduled,400
+10677,1154,588,11/22/2024,Emergency,Cancelled,500
+10678,1560,513,8/14/2024,Routine Checkup,Completed,1200
+10679,1351,543,2/17/2024,Routine Checkup,Completed,800
+10680,1147,576,1/18/2024,Follow-up,Completed,1000
+10681,1905,551,3/14/2025,Consultation,Completed,1200
+10682,1576,519,12/8/2025,Consultation,No Show,400
+10683,1349,521,7/5/2024,Emergency,Completed,400
+10684,1182,591,12/10/2024,Consultation,Completed,300
+10685,1637,583,8/11/2024,Consultation,No Show,1000
+10686,1179,524,5/2/2025,Emergency,Completed,400
+10687,1039,526,8/16/2024,Routine Checkup,Scheduled,400
+10688,1772,545,1/24/2025,Consultation,Completed,500
+10689,1894,528,8/11/2025,Routine Checkup,Cancelled,300
+10690,1003,582,7/6/2024,Emergency,Completed,300
+10691,1064,600,9/26/2024,Routine Checkup,Scheduled,1000
+10692,1029,529,8/29/2025,Routine Checkup,Completed,400
+10693,1372,517,11/5/2024,Emergency,Completed,500
+10694,1523,568,5/11/2024,Routine Checkup,Scheduled,600
+10695,1097,544,7/4/2025,Consultation,Completed,800
+10696,1870,561,3/12/2024,Consultation,Cancelled,1200
+10697,1442,593,11/2/2025,Consultation,Completed,300
+10698,1203,568,7/5/2024,Consultation,Completed,500
+10699,1411,574,4/30/2025,Routine Checkup,Scheduled,1000
+10700,1993,525,7/9/2024,Consultation,Scheduled,500
+10701,1021,595,2/25/2025,Routine Checkup,No Show,400
+10702,1551,567,4/29/2024,Follow-up,Scheduled,800
+10703,1735,502,8/7/2024,Routine Checkup,Completed,300
+10704,1102,589,2/22/2024,Consultation,Scheduled,600
+10705,1046,549,3/26/2025,Follow-up,Completed,400
+10706,1066,570,2/15/2025,Emergency,Completed,300
+10707,1603,526,10/4/2025,Routine Checkup,Completed,1200
+10708,1164,572,8/24/2024,Consultation,Completed,1000
+10709,1971,599,12/20/2025,Consultation,Scheduled,300
+10710,1111,527,2/9/2025,Consultation,Completed,500
+10711,1338,589,8/30/2025,Emergency,Cancelled,1200
+10712,1123,518,2/25/2025,Follow-up,Completed,800
+10713,1705,554,12/12/2025,Follow-up,Completed,600
+10714,1447,501,9/3/2024,Consultation,Completed,800
+10715,1611,561,3/12/2024,Routine Checkup,Scheduled,500
+10716,1291,503,7/3/2024,Consultation,Completed,600
+10717,1671,568,1/6/2024,Consultation,Scheduled,600
+10718,1412,541,7/24/2024,Routine Checkup,Completed,400
+10719,1615,537,6/27/2025,Consultation,Completed,600
+10720,1897,551,9/2/2025,Emergency,Cancelled,300
+10721,1281,515,1/21/2025,Consultation,Scheduled,800
+10722,1043,508,11/29/2025,Emergency,Completed,1000
+10723,1486,538,3/16/2024,Consultation,Scheduled,1000
+10724,1596,583,6/25/2024,Follow-up,No Show,800
+10725,1963,556,12/14/2024,Routine Checkup,No Show,400
+10726,1703,547,9/11/2024,Follow-up,Scheduled,600
+10727,1051,590,12/2/2025,Consultation,Scheduled,500
+10728,1898,510,11/3/2024,Consultation,Completed,1200
+10729,1210,578,12/10/2024,Emergency,Scheduled,1200
+10730,1126,549,5/6/2024,Consultation,Completed,300
+10731,1492,541,10/13/2024,Consultation,No Show,400
+10732,1509,583,12/25/2025,Consultation,Completed,1200
+10733,1960,530,8/18/2025,Follow-up,Completed,600
+10734,1970,505,5/1/2025,Emergency,Cancelled,1000
+10735,1581,595,1/17/2025,Follow-up,Completed,500
+10736,1777,571,2/9/2025,Emergency,Completed,600
+10737,1258,583,1/22/2025,Follow-up,Cancelled,400
+10738,1930,531,6/8/2025,Consultation,Scheduled,500
+10739,1188,552,7/10/2025,Follow-up,Cancelled,1200
+10740,1230,588,9/30/2025,Follow-up,Completed,500
+10741,1189,598,9/17/2025,Emergency,Scheduled,500
+10742,1415,523,10/2/2024,Emergency,Completed,500
+10743,1010,548,5/14/2025,Follow-up,Completed,1200
+10744,1114,540,12/17/2025,Emergency,Scheduled,600
+10745,1076,506,12/2/2024,Emergency,Scheduled,500
+10746,1676,538,4/25/2025,Emergency,Completed,600
+10747,1502,541,9/29/2024,Routine Checkup,Completed,500
+10748,1085,600,2/27/2024,Emergency,Completed,500
+10749,1049,527,11/23/2024,Routine Checkup,Completed,400
+10750,1495,575,4/18/2024,Routine Checkup,Completed,600
+10751,1838,569,10/5/2024,Emergency,No Show,1000
+10752,1689,557,11/16/2025,Follow-up,Scheduled,600
+10753,1387,517,11/23/2024,Emergency,Cancelled,800
+10754,1970,571,11/10/2024,Consultation,Completed,1200
+10755,1389,591,4/18/2025,Follow-up,Scheduled,1000
+10756,1218,547,4/20/2024,Routine Checkup,Completed,400
+10757,1701,579,11/29/2025,Routine Checkup,Completed,600
+10758,1981,513,8/16/2024,Follow-up,Completed,400
+10759,1346,511,5/11/2025,Follow-up,Cancelled,1000
+10760,1230,590,6/4/2024,Emergency,No Show,400
+10761,1255,586,4/17/2025,Routine Checkup,Completed,400
+10762,1236,592,12/1/2025,Consultation,Completed,300
+10763,1026,524,9/28/2024,Emergency,Completed,600
+10764,1584,593,1/2/2024,Follow-up,Scheduled,400
+10765,1261,573,12/22/2025,Routine Checkup,Completed,300
+10766,1766,504,5/25/2025,Follow-up,Completed,300
+10767,1271,546,10/12/2024,Follow-up,Cancelled,500
+10768,1123,518,1/13/2024,Follow-up,Completed,500
+10769,1656,543,8/30/2025,Emergency,Completed,1200
+10770,1257,580,5/12/2025,Consultation,Completed,1000
+10771,1656,533,8/25/2024,Consultation,Cancelled,600
+10772,1421,593,4/3/2024,Routine Checkup,Completed,500
+10773,1259,510,12/3/2024,Follow-up,No Show,1000
+10774,1948,573,6/19/2024,Consultation,Scheduled,600
+10775,1047,559,8/28/2025,Follow-up,Completed,1000
+10776,1863,531,10/22/2025,Routine Checkup,Completed,1200
+10777,1525,528,9/15/2025,Follow-up,Completed,1200
+10778,1888,560,7/20/2025,Consultation,Completed,300
+10779,1208,503,4/11/2025,Follow-up,No Show,300
+10780,1311,555,9/19/2025,Consultation,Scheduled,600
+10781,1747,514,5/22/2024,Routine Checkup,Completed,1000
+10782,1149,558,7/19/2024,Follow-up,Completed,1000
+10783,1834,589,6/28/2024,Consultation,Completed,500
+10784,1438,515,12/14/2025,Routine Checkup,Completed,500
+10785,1155,502,12/29/2024,Follow-up,Cancelled,600
+10786,1678,524,4/23/2025,Routine Checkup,Completed,800
+10787,1090,578,7/18/2025,Consultation,No Show,500
+10788,1698,564,4/15/2025,Follow-up,Completed,400
+10789,1830,571,1/18/2025,Follow-up,Cancelled,500
+10790,1358,600,11/22/2025,Follow-up,Scheduled,800
+10791,1174,524,2/20/2025,Routine Checkup,Completed,1000
+10792,1217,527,11/3/2024,Routine Checkup,Completed,300
+10793,1907,537,10/10/2025,Consultation,Completed,300
+10794,1456,594,11/24/2025,Emergency,Completed,1000
+10795,1776,591,1/1/2025,Follow-up,No Show,300
+10796,1609,539,1/1/2024,Follow-up,No Show,500
+10797,1629,563,2/13/2024,Consultation,No Show,1200
+10798,1199,579,4/7/2024,Follow-up,Scheduled,300
+10799,1832,526,12/20/2025,Routine Checkup,Completed,1200
+10800,1486,565,9/21/2024,Routine Checkup,No Show,800
+10801,1533,504,5/19/2024,Follow-up,No Show,1200
+10802,1200,529,4/25/2025,Follow-up,Completed,800
+10803,1371,501,8/24/2024,Routine Checkup,Completed,500
+10804,1959,550,3/12/2024,Follow-up,Completed,1000
+10805,1853,586,10/28/2025,Routine Checkup,Completed,400
+10806,1448,511,7/8/2024,Emergency,Completed,500
+10807,1248,574,9/24/2024,Emergency,No Show,300
+10808,1788,559,11/16/2024,Follow-up,No Show,500
+10809,1264,562,4/16/2024,Follow-up,Completed,800
+10810,1058,581,8/19/2024,Follow-up,Completed,500
+10811,1302,536,2/11/2024,Routine Checkup,Scheduled,500
+10812,1031,556,12/2/2025,Emergency,Cancelled,400
+10813,1498,590,5/18/2024,Emergency,Completed,800
+10814,1249,521,9/6/2025,Consultation,Scheduled,600
+10815,1605,513,11/13/2025,Consultation,Scheduled,600
+10816,1777,509,9/29/2024,Follow-up,No Show,800
+10817,1271,511,4/25/2025,Routine Checkup,Completed,600
+10818,1606,575,2/19/2025,Follow-up,Completed,300
+10819,1666,570,5/20/2025,Emergency,No Show,600
+10820,1394,501,12/25/2025,Follow-up,Completed,300
+10821,1797,570,2/27/2025,Follow-up,Scheduled,800
+10822,1502,577,2/10/2025,Emergency,Completed,600
+10823,1592,586,7/21/2025,Emergency,Completed,600
+10824,1804,556,1/24/2025,Emergency,Completed,1000
+10825,1084,531,12/7/2024,Emergency,Completed,1200
+10826,1365,586,9/5/2025,Consultation,No Show,300
+10827,1886,537,5/7/2025,Routine Checkup,Completed,300
+10828,1549,547,7/10/2024,Routine Checkup,Scheduled,500
+10829,1342,591,5/13/2025,Emergency,Scheduled,400
+10830,1839,578,12/12/2025,Routine Checkup,Completed,600
+10831,1407,547,8/20/2024,Routine Checkup,Scheduled,1000
+10832,1425,569,8/14/2024,Routine Checkup,Completed,400
+10833,1744,558,1/5/2025,Routine Checkup,Scheduled,1200
+10834,1093,536,5/18/2024,Emergency,Cancelled,1200
+10835,1848,532,5/28/2024,Follow-up,Completed,1000
+10836,1614,598,4/24/2024,Follow-up,Completed,400
+10837,1412,564,3/25/2025,Follow-up,Scheduled,600
+10838,1432,571,3/3/2024,Consultation,No Show,1200
+10839,1678,542,4/13/2024,Routine Checkup,Completed,1000
+10840,1159,548,10/29/2025,Emergency,Cancelled,300
+10841,1014,574,9/29/2024,Emergency,Completed,500
+10842,1373,581,1/6/2024,Consultation,Scheduled,1000
+10843,1225,530,5/26/2024,Emergency,Completed,800
+10844,1505,521,7/2/2024,Follow-up,Scheduled,1200
+10845,1073,560,1/28/2024,Consultation,Completed,1200
+10846,1249,513,7/3/2025,Emergency,Cancelled,600
+10847,1511,501,4/28/2024,Consultation,Scheduled,600
+10848,1603,565,10/19/2024,Consultation,Scheduled,800
+10849,1216,533,1/5/2025,Emergency,Scheduled,1200
+10850,1973,538,8/31/2024,Follow-up,Completed,400
+10851,1602,525,8/2/2025,Emergency,Scheduled,500
+10852,1541,526,12/26/2025,Routine Checkup,Cancelled,400
+10853,1947,577,8/5/2024,Routine Checkup,No Show,800
+10854,1817,559,6/25/2024,Emergency,Completed,800
+10855,1939,592,10/25/2024,Follow-up,Completed,500
+10856,1988,533,11/6/2025,Routine Checkup,Completed,800
+10857,1220,541,2/27/2024,Routine Checkup,Completed,800
+10858,1840,530,9/25/2024,Emergency,Completed,1200
+10859,1727,557,11/3/2024,Emergency,Scheduled,1000
+10860,1221,549,7/23/2025,Emergency,Scheduled,1200
+10861,1389,548,10/14/2024,Consultation,No Show,500
+10862,1554,572,4/14/2024,Consultation,Completed,600
+10863,1647,549,8/15/2024,Consultation,Completed,400
+10864,1042,547,9/3/2024,Emergency,Scheduled,600
+10865,1676,556,11/30/2025,Follow-up,Completed,600
+10866,1873,565,5/8/2025,Routine Checkup,Completed,1000
+10867,1283,512,3/23/2024,Consultation,Scheduled,400
+10868,1058,569,7/4/2024,Follow-up,Completed,600
+10869,1814,588,9/8/2024,Emergency,Completed,500
+10870,1834,506,12/20/2024,Consultation,Scheduled,400
+10871,1537,589,11/26/2025,Emergency,Completed,300
+10872,1073,565,7/28/2024,Follow-up,Scheduled,1000
+10873,1885,525,8/31/2025,Consultation,Completed,600
+10874,1923,501,3/22/2025,Consultation,Cancelled,800
+10875,1129,532,4/4/2025,Consultation,Completed,400
+10876,1599,503,4/16/2025,Consultation,Scheduled,300
+10877,1842,549,12/20/2025,Follow-up,Completed,800
+10878,1426,519,1/4/2025,Consultation,Scheduled,300
+10879,1948,560,5/6/2025,Routine Checkup,Completed,600
+10880,1665,529,5/16/2024,Routine Checkup,Completed,800
+10881,1694,550,1/1/2025,Emergency,Scheduled,600
+10882,1125,502,7/2/2024,Consultation,Completed,800
+10883,1067,573,8/10/2025,Routine Checkup,Completed,400
+10884,1006,556,10/13/2024,Routine Checkup,Completed,1200
+10885,1637,517,4/16/2025,Routine Checkup,Completed,500
+10886,1314,560,1/9/2025,Follow-up,Completed,1200
+10887,1326,536,10/15/2025,Consultation,Completed,500
+10888,1565,561,6/20/2025,Follow-up,Completed,1200
+10889,1578,517,5/25/2025,Follow-up,Cancelled,300
+10890,1826,549,8/1/2025,Routine Checkup,Completed,1000
+10891,1506,576,9/6/2024,Routine Checkup,Completed,800
+10892,1082,560,5/24/2025,Emergency,No Show,600
+10893,1599,520,9/21/2025,Consultation,Scheduled,1000
+10894,1002,550,3/13/2024,Consultation,Completed,400
+10895,1204,503,10/8/2024,Routine Checkup,Completed,400
+10896,1662,543,12/25/2024,Routine Checkup,No Show,400
+10897,1805,557,1/10/2024,Consultation,Completed,500
+10898,1404,550,7/29/2024,Emergency,Completed,600
+10899,1103,568,5/31/2024,Routine Checkup,Completed,400
+10900,1536,581,1/5/2024,Emergency,Scheduled,400
+10901,1368,550,7/13/2024,Follow-up,Completed,1200
+10902,1212,537,10/9/2024,Routine Checkup,Scheduled,300
+10903,1577,546,4/8/2025,Follow-up,Scheduled,800
+10904,1961,542,4/22/2024,Routine Checkup,Completed,800
+10905,1209,515,9/27/2024,Follow-up,Scheduled,800
+10906,1763,533,6/11/2024,Routine Checkup,Completed,1000
+10907,1897,580,4/4/2025,Emergency,Cancelled,1200
+10908,1117,511,4/14/2024,Emergency,Completed,1200
+10909,1628,520,11/23/2025,Emergency,Completed,300
+10910,1749,524,7/9/2025,Follow-up,Completed,500
+10911,1478,564,10/8/2024,Emergency,Completed,1000
+10912,1105,580,11/17/2025,Follow-up,Completed,300
+10913,1495,594,6/10/2024,Routine Checkup,Completed,400
+10914,1771,598,12/16/2024,Follow-up,Completed,600
+10915,1046,565,3/9/2025,Routine Checkup,Scheduled,1000
+10916,1823,588,5/19/2024,Consultation,Completed,1000
+10917,1331,588,4/15/2025,Consultation,Cancelled,400
+10918,1216,573,5/11/2024,Consultation,Completed,400
+10919,1982,586,3/27/2024,Follow-up,Completed,600
+10920,1960,576,11/18/2025,Consultation,Completed,800
+10921,1492,517,7/1/2024,Consultation,Completed,1000
+10922,1813,589,1/2/2025,Consultation,Cancelled,300
+10923,1922,592,5/8/2024,Routine Checkup,Completed,500
+10924,1845,561,9/2/2024,Emergency,No Show,400
+10925,1449,515,8/23/2025,Follow-up,No Show,400
+10926,1536,594,7/31/2025,Consultation,Completed,500
+10927,1511,551,10/31/2025,Routine Checkup,Scheduled,300
+10928,1458,527,1/12/2025,Emergency,Completed,400
+10929,1547,586,5/28/2024,Emergency,Completed,500
+10930,1536,574,3/8/2025,Emergency,Scheduled,1200
+10931,1540,561,9/19/2025,Routine Checkup,Completed,400
+10932,1484,558,12/26/2025,Consultation,Completed,800
+10933,1976,531,4/13/2025,Emergency,Completed,800
+10934,2000,591,3/21/2025,Routine Checkup,Completed,400
+10935,1016,512,4/25/2025,Routine Checkup,Completed,1200
+10936,1571,546,10/20/2024,Follow-up,Completed,400
+10937,1977,531,5/22/2024,Routine Checkup,Completed,800
+10938,1243,532,9/6/2024,Emergency,Completed,1200
+10939,1950,532,10/28/2024,Emergency,Scheduled,400
+10940,1207,599,1/25/2024,Routine Checkup,Completed,1200
+10941,1912,553,3/10/2024,Emergency,Scheduled,300
+10942,1271,561,9/16/2025,Routine Checkup,Scheduled,300
+10943,1761,546,4/21/2024,Emergency,Scheduled,600
+10944,1994,585,12/29/2024,Follow-up,Scheduled,300
+10945,1779,574,10/29/2024,Consultation,Completed,1000
+10946,1705,580,4/15/2025,Follow-up,Completed,1200
+10947,1847,507,3/31/2024,Follow-up,Completed,1000
+10948,1730,504,6/13/2025,Consultation,No Show,1000
+10949,1115,591,10/22/2025,Emergency,Cancelled,400
+10950,1580,552,12/26/2025,Consultation,Completed,400
+10951,1299,589,10/24/2025,Routine Checkup,Completed,500
+10952,1837,531,7/10/2024,Consultation,No Show,1200
+10953,1483,575,7/5/2025,Follow-up,Completed,1000
+10954,1397,584,8/29/2024,Consultation,Completed,1000
+10955,1394,536,5/17/2024,Emergency,Completed,300
+10956,1075,554,12/10/2024,Follow-up,No Show,800
+10957,1978,554,6/28/2024,Routine Checkup,Completed,1200
+10958,1482,517,12/12/2025,Emergency,Completed,800
+10959,1103,575,5/17/2025,Follow-up,Cancelled,1200
+10960,1297,530,7/21/2024,Routine Checkup,Completed,1200
+10961,1178,599,7/26/2025,Emergency,Scheduled,600
+10962,1215,522,7/10/2024,Routine Checkup,Completed,500
+10963,1967,543,1/5/2024,Consultation,Completed,800
+10964,1315,527,8/24/2024,Consultation,Scheduled,600
+10965,1039,537,11/23/2025,Routine Checkup,No Show,300
+10966,1259,546,11/6/2024,Consultation,Completed,500
+10967,1716,535,7/2/2025,Routine Checkup,Completed,500
+10968,1007,504,2/25/2024,Emergency,Scheduled,1000
+10969,1049,580,3/18/2025,Follow-up,Completed,1200
+10970,1538,580,8/24/2024,Routine Checkup,No Show,1200
+10971,1161,585,7/15/2024,Follow-up,No Show,400
+10972,1869,526,8/7/2025,Follow-up,Completed,1200
+10973,1176,600,7/24/2025,Routine Checkup,No Show,1200
+10974,1591,519,5/28/2025,Consultation,Completed,1200
+10975,1002,581,3/24/2025,Emergency,Cancelled,1000
+10976,1895,545,12/25/2024,Follow-up,Completed,300
+10977,1455,526,11/30/2025,Emergency,Scheduled,1200
+10978,1928,522,1/30/2024,Follow-up,Cancelled,1000
+10979,1644,558,4/17/2024,Routine Checkup,Cancelled,500
+10980,1276,563,8/24/2025,Consultation,No Show,1000
+10981,1498,528,12/17/2025,Emergency,Completed,1200
+10982,1629,565,3/20/2025,Follow-up,Completed,600
+10983,1676,544,3/13/2025,Routine Checkup,Scheduled,1000
+10984,1800,600,8/28/2025,Routine Checkup,Scheduled,800
+10985,1028,543,4/1/2025,Follow-up,No Show,300
+10986,1333,537,9/6/2025,Follow-up,No Show,300
+10987,1001,566,11/28/2025,Follow-up,Completed,500
+10988,1188,517,11/26/2025,Consultation,Completed,1000
+10989,1056,540,5/9/2025,Follow-up,Completed,500
+10990,1547,538,11/4/2025,Follow-up,Cancelled,500
+10991,1112,585,9/3/2024,Consultation,Completed,600
+10992,1798,561,6/26/2025,Routine Checkup,Scheduled,400
+10993,1310,509,7/17/2025,Follow-up,Completed,500
+10994,1036,577,8/10/2025,Emergency,Completed,400
+10995,1439,575,3/14/2025,Routine Checkup,Completed,400
+10996,1729,561,10/4/2024,Emergency,Completed,300
+10997,1592,580,7/5/2025,Follow-up,Cancelled,800
+10998,1826,516,9/4/2025,Consultation,Completed,800
+10999,1595,502,4/20/2024,Consultation,Completed,1000
+11000,1577,572,1/19/2025,Consultation,Completed,600
+11001,1325,543,7/9/2024,Follow-up,Scheduled,600
+11002,1640,542,5/4/2025,Follow-up,Scheduled,800
+11003,1307,577,11/24/2025,Emergency,Completed,1000
+11004,1534,557,3/1/2025,Consultation,Scheduled,1200
+11005,1728,581,2/8/2025,Follow-up,Completed,800
+11006,1619,588,11/30/2024,Routine Checkup,Completed,1000
+11007,1109,567,7/27/2024,Follow-up,Cancelled,1000
+11008,1372,530,1/22/2024,Follow-up,Completed,1000
+11009,1357,513,11/8/2025,Routine Checkup,Scheduled,1000
+11010,1181,519,9/2/2025,Consultation,Completed,300
+11011,1356,507,7/26/2024,Routine Checkup,No Show,300
+11012,1676,509,1/8/2024,Consultation,Completed,800
+11013,1068,583,12/2/2025,Routine Checkup,Cancelled,1000
+11014,1292,554,11/17/2025,Emergency,No Show,500
+11015,1692,586,6/12/2025,Consultation,Completed,1000
+11016,1181,582,8/24/2025,Follow-up,Completed,500
+11017,1466,561,10/14/2025,Emergency,Completed,300
+11018,1434,587,10/18/2025,Consultation,Cancelled,1000
+11019,1464,502,6/14/2024,Consultation,Completed,400
+11020,1681,550,5/10/2025,Consultation,Completed,800
+11021,1914,575,8/12/2025,Routine Checkup,Cancelled,1000
+11022,1534,531,3/4/2025,Consultation,Completed,600
+11023,1066,533,6/11/2024,Follow-up,Cancelled,500
+11024,1021,578,12/31/2024,Consultation,Completed,1200
+11025,1612,580,6/9/2025,Follow-up,Completed,1200
+11026,1384,511,8/26/2024,Follow-up,Cancelled,1000
+11027,1812,533,3/12/2024,Follow-up,Cancelled,400
+11028,1615,507,3/20/2025,Emergency,Completed,500
+11029,1559,531,10/16/2025,Follow-up,Completed,400
+11030,1039,548,5/23/2025,Routine Checkup,Completed,1200
+11031,1285,547,9/25/2024,Consultation,Completed,800
+11032,1822,578,2/18/2025,Routine Checkup,Completed,1200
+11033,1602,592,9/1/2024,Emergency,Completed,800
+11034,1597,553,11/5/2025,Consultation,Cancelled,800
+11035,1785,580,2/29/2024,Follow-up,Cancelled,300
+11036,1336,519,1/6/2024,Consultation,Completed,1200
+11037,1188,581,12/9/2025,Emergency,Completed,1200
+11038,1671,590,7/23/2025,Emergency,Completed,400
+11039,1243,506,2/10/2025,Routine Checkup,Completed,1000
+11040,1073,549,8/4/2024,Consultation,No Show,600
+11041,1479,573,1/26/2024,Consultation,Scheduled,600
+11042,1974,550,1/5/2024,Consultation,Scheduled,800
+11043,1561,581,6/15/2025,Routine Checkup,Scheduled,600
+11044,1101,595,1/24/2025,Emergency,Completed,500
+11045,1514,512,12/10/2025,Follow-up,Completed,400
+11046,1756,523,7/24/2025,Consultation,Cancelled,400
+11047,1176,554,3/23/2025,Routine Checkup,Completed,400
+11048,1238,569,5/25/2024,Routine Checkup,Cancelled,500
+11049,1910,600,1/22/2025,Follow-up,Scheduled,1000
+11050,1059,559,9/5/2024,Emergency,Scheduled,300
+11051,1865,536,6/9/2025,Consultation,Completed,500
+11052,1099,503,4/6/2025,Consultation,Completed,400
+11053,1954,558,1/13/2024,Routine Checkup,Cancelled,400
+11054,1871,588,1/18/2025,Emergency,Scheduled,1200
+11055,1954,555,7/9/2025,Consultation,Scheduled,400
+11056,1495,557,2/2/2025,Follow-up,No Show,1000
+11057,1947,517,1/19/2024,Emergency,Completed,600
+11058,1980,539,7/28/2025,Emergency,Completed,300
+11059,1514,590,5/5/2025,Routine Checkup,Completed,500
+11060,1755,568,2/22/2025,Routine Checkup,Completed,400
+11061,1297,555,12/2/2024,Consultation,No Show,1200
+11062,1211,545,2/22/2025,Routine Checkup,No Show,1200
+11063,1123,576,9/3/2025,Emergency,Completed,800
+11064,1229,501,11/5/2025,Consultation,Completed,300
+11065,1594,521,5/1/2024,Consultation,Completed,1200
+11066,1656,583,3/7/2025,Emergency,Scheduled,800
+11067,1388,521,2/13/2024,Consultation,Completed,300
+11068,1140,552,11/12/2024,Follow-up,Completed,400
+11069,1541,582,1/15/2025,Follow-up,Completed,300
+11070,1391,543,5/24/2024,Consultation,Completed,300
+11071,1270,552,11/22/2024,Routine Checkup,No Show,400
+11072,1759,567,12/28/2024,Follow-up,Completed,1000
+11073,1012,544,2/19/2024,Consultation,Completed,1200
+11074,1867,532,3/5/2024,Follow-up,Completed,800
+11075,1389,510,12/20/2024,Routine Checkup,Completed,1000
+11076,1337,564,6/12/2024,Emergency,Scheduled,800
+11077,1506,579,5/20/2024,Consultation,Completed,600
+11078,1106,569,5/7/2024,Consultation,Completed,1200
+11079,1032,568,2/1/2025,Consultation,Scheduled,800
+11080,1074,528,4/7/2025,Consultation,Completed,800
+11081,1171,553,7/5/2024,Consultation,Cancelled,300
+11082,1849,551,12/20/2025,Consultation,Completed,600
+11083,1069,553,7/8/2024,Routine Checkup,Completed,400
+11084,1813,504,1/22/2025,Emergency,Cancelled,400
+11085,1362,579,3/4/2025,Routine Checkup,Scheduled,500
+11086,1649,517,10/10/2024,Routine Checkup,Cancelled,600
+11087,1433,567,8/24/2024,Emergency,Completed,300
+11088,1929,574,7/12/2024,Routine Checkup,Completed,500
+11089,1996,547,10/13/2024,Follow-up,Completed,500
+11090,1100,556,5/15/2024,Routine Checkup,Completed,400
+11091,1658,523,6/19/2024,Consultation,Scheduled,800
+11092,1009,518,6/7/2024,Follow-up,Completed,300
+11093,1574,501,7/19/2024,Follow-up,Completed,600
+11094,1697,535,5/1/2025,Emergency,Cancelled,500
+11095,1029,564,7/10/2025,Routine Checkup,Completed,300
+11096,1893,558,8/5/2025,Routine Checkup,Cancelled,400
+11097,1114,595,5/18/2025,Follow-up,Completed,500
+11098,1462,559,1/5/2025,Routine Checkup,Completed,500
+11099,1921,501,4/12/2024,Routine Checkup,No Show,1000
+11100,1143,503,5/4/2024,Emergency,Completed,400
+11101,1390,567,11/8/2024,Follow-up,Completed,1000
+11102,1632,537,4/2/2025,Consultation,Cancelled,400
+11103,1682,583,8/17/2024,Follow-up,No Show,400
+11104,1157,529,10/19/2025,Emergency,No Show,1000
+11105,1335,589,7/15/2024,Emergency,Cancelled,1200
+11106,1861,533,2/26/2025,Emergency,Completed,300
+11107,1260,600,7/25/2025,Routine Checkup,No Show,300
+11108,1082,561,9/1/2025,Follow-up,Cancelled,1200
+11109,1754,593,6/19/2024,Routine Checkup,Completed,300
+11110,1441,590,1/16/2025,Routine Checkup,Scheduled,800
+11111,1945,504,6/21/2024,Follow-up,Completed,500
+11112,1172,514,10/24/2025,Emergency,Completed,300
+11113,1231,591,3/28/2025,Consultation,Scheduled,800
+11114,1720,533,12/15/2024,Consultation,Completed,500
+11115,1075,522,9/25/2025,Follow-up,Completed,300
+11116,1270,548,5/8/2025,Follow-up,Completed,400
+11117,1899,503,9/11/2025,Emergency,Cancelled,1200
+11118,1626,587,1/4/2024,Follow-up,Completed,600
+11119,1062,585,4/2/2024,Follow-up,Completed,300
+11120,1874,523,1/6/2024,Emergency,Cancelled,600
+11121,1320,568,10/14/2024,Emergency,Scheduled,300
+11122,1102,521,9/9/2025,Routine Checkup,Completed,400
+11123,1429,543,5/25/2024,Follow-up,Scheduled,1200
+11124,1874,595,2/27/2025,Consultation,Scheduled,1200
+11125,1722,585,8/30/2025,Follow-up,Cancelled,600
+11126,1954,526,4/1/2025,Consultation,Completed,800
+11127,1255,541,7/20/2024,Consultation,Scheduled,400
+11128,1532,599,7/30/2024,Consultation,Completed,600
+11129,1570,538,1/6/2024,Routine Checkup,Completed,600
+11130,1112,588,9/15/2025,Emergency,Completed,1000
+11131,1985,511,1/10/2025,Emergency,Scheduled,1000
+11132,1313,529,3/22/2025,Routine Checkup,Completed,400
+11133,1998,560,4/15/2024,Emergency,Completed,400
+11134,1461,567,10/12/2025,Routine Checkup,Scheduled,400
+11135,1708,565,2/4/2025,Follow-up,Scheduled,500
+11136,1887,561,4/5/2024,Routine Checkup,Cancelled,800
+11137,1462,519,1/22/2025,Emergency,Completed,300
+11138,1865,546,3/27/2025,Emergency,Completed,1000
+11139,1092,549,2/19/2025,Follow-up,Cancelled,1200
+11140,1052,522,12/26/2025,Routine Checkup,Completed,1200
+11141,1805,578,5/18/2025,Follow-up,Cancelled,600
+11142,1520,557,3/29/2025,Consultation,Completed,1000
+11143,1812,514,10/17/2024,Routine Checkup,No Show,300
+11144,1098,544,6/17/2025,Follow-up,Completed,400
+11145,1236,516,7/11/2024,Follow-up,Completed,1200
+11146,1901,597,5/29/2024,Emergency,Scheduled,1000
+11147,1374,577,5/29/2025,Routine Checkup,Completed,800
+11148,1581,512,1/27/2025,Consultation,Completed,800
+11149,1927,555,11/11/2024,Consultation,Scheduled,500
+11150,1557,551,3/16/2024,Routine Checkup,Completed,1000
+11151,1649,539,8/21/2025,Routine Checkup,Completed,400
+11152,1234,533,9/26/2024,Follow-up,Completed,600
+11153,1032,533,8/12/2024,Emergency,Completed,500
+11154,1289,529,6/13/2025,Emergency,Completed,400
+11155,1638,569,4/22/2024,Emergency,Scheduled,500
+11156,1579,570,9/7/2024,Routine Checkup,Cancelled,1000
+11157,1542,531,8/20/2024,Emergency,Completed,300
+11158,1114,580,12/14/2025,Follow-up,Completed,1200
+11159,1204,531,3/23/2024,Routine Checkup,No Show,1000
+11160,1029,589,5/4/2024,Routine Checkup,No Show,400
+11161,1643,546,6/23/2024,Emergency,Completed,600
+11162,1474,597,3/9/2024,Consultation,Scheduled,600
+11163,1697,577,2/16/2024,Consultation,Scheduled,400
+11164,1253,552,9/12/2024,Follow-up,Completed,500
+11165,1798,510,12/27/2025,Emergency,Completed,800
+11166,1905,588,1/30/2024,Emergency,Completed,400
+11167,1922,574,10/7/2024,Routine Checkup,Scheduled,1200
+11168,1386,541,8/24/2024,Routine Checkup,Scheduled,1000
+11169,1062,595,9/4/2024,Emergency,Cancelled,600
+11170,1515,577,1/2/2025,Routine Checkup,Completed,300
+11171,1430,503,5/9/2025,Emergency,Cancelled,600
+11172,1580,559,1/25/2024,Follow-up,Scheduled,800
+11173,1537,552,8/8/2025,Routine Checkup,Scheduled,600
+11174,1691,534,12/18/2025,Emergency,Completed,800
+11175,1141,549,5/4/2025,Routine Checkup,Scheduled,1200
+11176,1743,528,5/8/2025,Follow-up,Completed,400
+11177,1300,583,11/9/2024,Routine Checkup,Scheduled,600
+11178,1675,587,8/28/2025,Emergency,Cancelled,500
+11179,1311,596,1/9/2025,Routine Checkup,Completed,1000
+11180,1471,513,9/30/2025,Routine Checkup,Scheduled,500
+11181,1393,597,1/25/2024,Emergency,Completed,1000
+11182,1642,598,11/29/2024,Consultation,Scheduled,600
+11183,1445,597,12/20/2024,Routine Checkup,Completed,1200
+11184,1758,569,4/25/2024,Routine Checkup,Scheduled,600
+11185,1809,567,2/17/2024,Follow-up,No Show,1000
+11186,1172,561,4/8/2024,Consultation,Completed,1200
+11187,1576,560,4/3/2025,Follow-up,Completed,300
+11188,1031,571,6/6/2025,Emergency,Completed,1200
+11189,1047,524,8/19/2025,Emergency,Completed,600
+11190,1130,563,2/8/2025,Follow-up,Cancelled,300
+11191,1352,586,8/1/2024,Routine Checkup,Scheduled,300
+11192,1978,561,11/15/2025,Consultation,No Show,1000
+11193,1845,523,5/17/2025,Follow-up,Scheduled,300
+11194,1622,530,12/21/2025,Follow-up,Completed,300
+11195,1581,560,3/23/2025,Emergency,Scheduled,400
+11196,1058,518,7/29/2025,Routine Checkup,Scheduled,1200
+11197,1106,596,9/14/2024,Consultation,Completed,500
+11198,1812,556,4/30/2024,Follow-up,Completed,300
+11199,1330,553,2/23/2024,Consultation,Completed,500
+11200,1768,507,11/26/2024,Consultation,Scheduled,300
+11201,1824,597,8/28/2024,Follow-up,Cancelled,500
+11202,1683,569,6/13/2025,Consultation,Scheduled,600
+11203,1383,592,4/27/2025,Emergency,Completed,600
+11204,1985,572,7/5/2024,Routine Checkup,No Show,500
+11205,1162,579,10/17/2025,Routine Checkup,Completed,1200
+11206,1997,552,9/18/2024,Routine Checkup,Cancelled,300
+11207,1286,504,12/29/2024,Emergency,Completed,400
+11208,1071,534,5/5/2025,Emergency,Completed,1200
+11209,1767,569,3/6/2025,Emergency,Scheduled,500
+11210,1454,533,8/26/2024,Routine Checkup,No Show,1200
+11211,1886,569,10/30/2024,Consultation,Completed,800
+11212,1567,538,10/24/2024,Emergency,Completed,400
+11213,1835,598,3/16/2024,Follow-up,Completed,800
+11214,1397,526,11/30/2025,Emergency,Completed,500
+11215,1515,501,11/28/2024,Follow-up,Completed,300
+11216,1026,504,10/3/2025,Routine Checkup,Scheduled,1200
+11217,1313,539,4/18/2025,Follow-up,No Show,1200
+11218,1126,554,10/9/2024,Emergency,Completed,800
+11219,1408,590,8/13/2025,Emergency,Cancelled,1200
+11220,1565,533,3/12/2024,Consultation,Completed,500
+11221,1198,533,9/19/2024,Routine Checkup,Completed,400
+11222,1811,572,12/3/2025,Follow-up,Completed,300
+11223,1188,520,7/28/2025,Routine Checkup,Cancelled,800
+11224,1698,516,1/12/2024,Emergency,Completed,1200
+11225,1817,521,5/20/2024,Consultation,Completed,500
+11226,1810,545,7/8/2025,Emergency,Completed,300
+11227,1716,590,1/17/2024,Emergency,Completed,300
+11228,1484,587,3/3/2024,Emergency,Completed,600
+11229,1450,582,9/9/2024,Follow-up,Scheduled,300
+11230,1523,562,4/9/2025,Emergency,Scheduled,500
+11231,1871,531,1/10/2025,Routine Checkup,Scheduled,400
+11232,1354,542,6/3/2025,Routine Checkup,Completed,1000
+11233,1986,512,3/30/2024,Consultation,Completed,600
+11234,1658,565,12/20/2025,Routine Checkup,Completed,500
+11235,1597,573,9/21/2025,Emergency,Completed,500
+11236,1100,503,6/23/2024,Emergency,Scheduled,500
+11237,1616,590,3/16/2024,Routine Checkup,Completed,800
+11238,1948,509,9/4/2025,Consultation,Completed,1200
+11239,1558,551,10/24/2025,Consultation,Cancelled,800
+11240,1556,516,2/3/2025,Routine Checkup,Completed,400
+11241,1278,588,3/11/2024,Follow-up,No Show,500
+11242,1693,578,6/28/2024,Follow-up,Completed,1200
+11243,1699,503,5/3/2024,Follow-up,Cancelled,800
+11244,1990,598,1/15/2025,Follow-up,Completed,800
+11245,1626,597,10/19/2024,Routine Checkup,No Show,800
+11246,1491,524,7/13/2024,Consultation,Completed,400
+11247,1255,573,8/15/2024,Emergency,Cancelled,400
+11248,1381,513,3/6/2025,Emergency,Completed,500
+11249,1892,502,3/11/2025,Routine Checkup,Scheduled,600
+11250,1542,571,4/5/2025,Emergency,Completed,500
+11251,1264,521,9/9/2025,Follow-up,Completed,800
+11252,1610,519,1/21/2024,Consultation,Scheduled,1000
+11253,1825,589,3/4/2024,Routine Checkup,No Show,1200
+11254,1879,547,6/13/2024,Consultation,Completed,800
+11255,1329,522,1/27/2024,Routine Checkup,Scheduled,300
+11256,1115,575,11/6/2024,Routine Checkup,Completed,1000
+11257,1276,533,10/11/2024,Routine Checkup,Scheduled,1000
+11258,1488,532,10/21/2025,Routine Checkup,Cancelled,1200
+11259,1281,564,10/7/2024,Consultation,Completed,500
+11260,1275,585,6/12/2024,Emergency,Scheduled,800
+11261,1773,539,8/11/2024,Routine Checkup,Scheduled,800
+11262,1843,584,5/25/2024,Follow-up,Completed,600
+11263,1719,572,1/30/2024,Routine Checkup,Scheduled,300
+11264,1896,542,2/14/2024,Consultation,Completed,500
+11265,1328,509,4/15/2025,Routine Checkup,Scheduled,400
+11266,1211,525,2/3/2024,Follow-up,Scheduled,500
+11267,1727,589,10/14/2025,Consultation,Completed,1000
+11268,1923,597,3/2/2025,Routine Checkup,Scheduled,500
+11269,1552,502,8/8/2024,Follow-up,Cancelled,600
+11270,1992,519,6/17/2025,Consultation,Cancelled,500
+11271,1026,520,11/22/2025,Routine Checkup,Completed,600
+11272,1027,593,1/1/2025,Follow-up,Completed,1000
+11273,1702,570,7/3/2025,Consultation,Scheduled,600
+11274,1083,517,8/4/2025,Routine Checkup,Completed,1200
+11275,1896,589,4/25/2024,Consultation,Completed,1200
+11276,1946,568,8/26/2024,Follow-up,Scheduled,800
+11277,1682,594,11/30/2024,Routine Checkup,Completed,400
+11278,1413,584,3/16/2025,Routine Checkup,Cancelled,1000
+11279,1167,503,5/27/2024,Routine Checkup,Cancelled,600
+11280,1700,587,1/9/2024,Follow-up,Scheduled,300
+11281,1169,551,10/14/2024,Emergency,Completed,1000
+11282,1801,582,1/22/2025,Routine Checkup,Completed,300
+11283,1979,526,2/19/2024,Follow-up,Completed,400
+11284,1229,556,5/31/2025,Consultation,Scheduled,600
+11285,1979,600,9/29/2025,Consultation,Completed,1000
+11286,1609,564,8/9/2025,Follow-up,No Show,1000
+11287,1367,508,11/7/2025,Emergency,Cancelled,400
+11288,1528,581,10/4/2024,Follow-up,Scheduled,800
+11289,1791,595,10/26/2024,Consultation,Completed,300
+11290,1647,537,8/11/2025,Consultation,Completed,1000
+11291,1538,597,10/10/2025,Routine Checkup,No Show,500
+11292,1864,527,9/9/2025,Emergency,Completed,300
+11293,1524,545,8/29/2025,Follow-up,Completed,600
+11294,1072,504,5/14/2024,Consultation,Completed,400
+11295,1645,586,8/2/2025,Consultation,No Show,300
+11296,1106,590,5/26/2024,Consultation,Cancelled,500
+11297,1732,596,5/4/2025,Follow-up,Cancelled,1200
+11298,1885,588,4/22/2025,Follow-up,Scheduled,500
+11299,1965,599,6/7/2024,Emergency,Completed,400
+11300,1689,537,1/18/2025,Routine Checkup,Scheduled,400
+11301,1282,596,6/11/2024,Routine Checkup,Completed,1200
+11302,1133,571,3/16/2025,Routine Checkup,Scheduled,300
+11303,1534,533,7/7/2024,Consultation,Completed,600
+11304,1975,531,2/18/2025,Routine Checkup,Completed,800
+11305,1269,555,12/4/2024,Consultation,Completed,500
+11306,1412,512,8/29/2025,Emergency,Completed,400
+11307,1673,511,6/29/2024,Consultation,Cancelled,800
+11308,1619,588,10/14/2024,Emergency,Completed,800
+11309,1791,572,7/5/2024,Emergency,Completed,800
+11310,1865,532,5/17/2024,Routine Checkup,Completed,600
+11311,1747,557,5/9/2024,Routine Checkup,Cancelled,400
+11312,1018,538,7/12/2024,Consultation,Completed,500
+11313,1754,560,11/11/2024,Follow-up,Cancelled,400
+11314,1117,586,5/23/2024,Routine Checkup,Completed,300
+11315,1798,598,1/16/2024,Routine Checkup,Completed,500
+11316,1794,519,10/28/2024,Follow-up,Completed,400
+11317,1144,584,2/26/2025,Follow-up,No Show,500
+11318,1717,556,9/1/2024,Routine Checkup,Scheduled,300
+11319,1551,514,4/16/2024,Follow-up,Completed,1000
+11320,1929,533,3/28/2024,Consultation,Cancelled,500
+11321,1666,510,5/8/2024,Emergency,Scheduled,1000
+11322,1688,580,12/6/2024,Emergency,Completed,800
+11323,1961,564,1/4/2024,Routine Checkup,Scheduled,1200
+11324,1753,564,11/22/2024,Routine Checkup,Completed,600
+11325,1422,562,2/13/2025,Consultation,Scheduled,300
+11326,1898,568,11/1/2024,Follow-up,Completed,500
+11327,1369,591,8/29/2025,Routine Checkup,Completed,300
+11328,1646,592,12/21/2025,Emergency,Completed,800
+11329,1558,543,8/12/2024,Consultation,No Show,1000
+11330,1050,580,12/13/2024,Consultation,Scheduled,600
+11331,1678,559,11/16/2024,Follow-up,Cancelled,300
+11332,1106,552,7/12/2025,Routine Checkup,Completed,1000
+11333,1216,597,6/29/2024,Routine Checkup,Completed,800
+11334,1658,519,9/9/2025,Consultation,Completed,800
+11335,1923,521,12/11/2025,Emergency,Completed,800
+11336,1425,522,1/20/2025,Routine Checkup,Completed,1200
+11337,1072,509,9/9/2025,Emergency,Scheduled,1000
+11338,1988,509,4/17/2024,Consultation,Scheduled,500
+11339,1842,573,6/14/2025,Routine Checkup,Completed,400
+11340,1785,527,2/13/2025,Emergency,Cancelled,300
+11341,1759,517,10/22/2024,Consultation,No Show,1200
+11342,1446,544,6/19/2024,Emergency,Scheduled,400
+11343,1925,545,11/26/2024,Routine Checkup,Scheduled,800
+11344,1186,508,5/7/2025,Follow-up,No Show,400
+11345,1070,580,7/13/2024,Emergency,Scheduled,1000
+11346,1974,518,1/12/2024,Follow-up,Completed,800
+11347,1150,533,7/13/2024,Routine Checkup,Completed,1200
+11348,1246,501,5/4/2025,Follow-up,No Show,800
+11349,1774,576,6/30/2024,Consultation,Completed,600
+11350,1538,506,10/17/2025,Follow-up,Completed,600
+11351,1935,541,11/11/2024,Emergency,Completed,1200
+11352,1652,555,11/24/2025,Emergency,Scheduled,1000
+11353,1099,505,1/30/2024,Follow-up,No Show,1000
+11354,1910,559,8/18/2025,Consultation,Completed,400
+11355,1278,580,11/8/2025,Routine Checkup,Completed,1200
+11356,1563,518,4/5/2024,Follow-up,Scheduled,300
+11357,1663,549,1/15/2025,Emergency,Completed,1200
+11358,1944,582,3/19/2025,Emergency,Completed,400
+11359,1455,565,10/24/2024,Follow-up,No Show,1000
+11360,1104,583,12/26/2024,Follow-up,Completed,300
+11361,1946,554,1/8/2025,Follow-up,Completed,1200
+11362,1601,561,7/7/2025,Routine Checkup,Cancelled,400
+11363,1653,508,10/29/2024,Emergency,Completed,500
+11364,1725,503,2/24/2025,Emergency,No Show,500
+11365,1233,525,9/2/2024,Emergency,Completed,300
+11366,1394,569,12/20/2025,Routine Checkup,Completed,600
+11367,1501,555,8/24/2024,Consultation,Completed,300
+11368,1695,540,6/17/2025,Emergency,Completed,400
+11369,1251,583,7/3/2024,Emergency,Scheduled,800
+11370,1521,582,4/12/2025,Consultation,Scheduled,500
+11371,1079,550,12/28/2024,Routine Checkup,No Show,800
+11372,1052,595,10/9/2024,Consultation,Completed,500
+11373,1898,533,7/6/2025,Consultation,Scheduled,400
+11374,1921,518,12/1/2024,Consultation,Completed,500
+11375,1781,557,6/10/2024,Consultation,Scheduled,300
+11376,1226,516,6/8/2024,Routine Checkup,Scheduled,800
+11377,1051,580,4/18/2025,Routine Checkup,Completed,1000
+11378,1186,538,8/23/2025,Consultation,Completed,800
+11379,1034,541,11/17/2024,Follow-up,Completed,400
+11380,1803,507,1/12/2024,Follow-up,Cancelled,1000
+11381,1742,578,2/27/2025,Follow-up,No Show,800
+11382,1131,553,3/13/2024,Follow-up,Completed,1200
+11383,1632,563,8/10/2025,Emergency,Completed,400
+11384,1443,589,7/19/2024,Routine Checkup,Completed,1200
+11385,1838,532,6/5/2025,Routine Checkup,Scheduled,600
+11386,1759,538,5/19/2025,Consultation,Completed,300
+11387,1432,522,11/18/2025,Emergency,Completed,500
+11388,1704,516,2/8/2024,Consultation,Completed,1200
+11389,1497,552,2/29/2024,Consultation,Cancelled,500
+11390,1403,529,7/31/2025,Routine Checkup,Completed,500
+11391,1323,516,11/16/2024,Emergency,Scheduled,600
+11392,1210,576,3/10/2025,Follow-up,Completed,300
+11393,1615,517,9/27/2025,Routine Checkup,Completed,800
+11394,1329,564,11/6/2025,Emergency,Completed,1200
+11395,1372,591,2/11/2025,Emergency,Completed,800
+11396,1460,589,1/20/2025,Routine Checkup,Completed,300
+11397,1133,513,11/1/2025,Routine Checkup,Completed,1000
+11398,1835,572,7/22/2025,Consultation,Cancelled,300
+11399,1651,556,3/18/2024,Consultation,Completed,500
+11400,1121,505,7/12/2024,Consultation,Completed,800
+11401,1606,512,10/11/2024,Follow-up,Scheduled,300
+11402,1452,541,6/10/2025,Routine Checkup,Cancelled,800
+11403,1965,503,6/7/2025,Emergency,Scheduled,300
+11404,1129,599,9/4/2025,Routine Checkup,Scheduled,400
+11405,1091,533,6/4/2024,Emergency,Completed,1200
+11406,1604,586,12/5/2024,Follow-up,Scheduled,500
+11407,1575,550,5/4/2024,Routine Checkup,Completed,300
+11408,1029,556,10/6/2024,Emergency,Completed,600
+11409,1722,509,9/13/2025,Emergency,Completed,300
+11410,1524,582,10/19/2025,Consultation,Completed,400
+11411,1333,550,12/28/2025,Follow-up,Completed,600
+11412,1297,529,11/4/2025,Routine Checkup,Completed,600
+11413,1130,539,5/7/2024,Consultation,Completed,300
+11414,1293,591,11/9/2024,Follow-up,Completed,400
+11415,1173,600,11/27/2024,Consultation,Completed,600
+11416,1720,545,5/29/2024,Routine Checkup,Completed,1200
+11417,1944,517,3/29/2025,Emergency,Completed,500
+11418,1024,556,2/5/2024,Routine Checkup,Completed,1000
+11419,1099,598,11/15/2025,Follow-up,Cancelled,500
+11420,1406,546,2/23/2025,Routine Checkup,Completed,800
+11421,1356,567,1/22/2024,Follow-up,Scheduled,800
+11422,1139,569,7/24/2024,Consultation,Scheduled,400
+11423,1503,514,9/30/2025,Follow-up,Completed,600
+11424,1826,567,12/21/2024,Emergency,Scheduled,500
+11425,1174,523,3/15/2025,Emergency,Completed,500
+11426,1029,594,12/29/2025,Emergency,Completed,1000
+11427,1931,561,4/5/2024,Consultation,No Show,400
+11428,1496,523,6/12/2024,Follow-up,Completed,1200
+11429,1655,527,5/27/2024,Consultation,No Show,600
+11430,1828,554,6/13/2025,Routine Checkup,Cancelled,400
+11431,1351,510,10/20/2024,Routine Checkup,Completed,300
+11432,1554,589,7/13/2024,Routine Checkup,Completed,500
+11433,1299,577,10/24/2025,Routine Checkup,Completed,400
+11434,1720,516,4/24/2025,Emergency,Completed,400
+11435,1842,541,5/2/2024,Follow-up,Completed,1000
+11436,1945,598,2/3/2025,Emergency,Scheduled,1200
+11437,1192,555,11/29/2025,Follow-up,Completed,300
+11438,1672,561,3/27/2025,Follow-up,Completed,800
+11439,1064,586,10/22/2025,Consultation,Completed,500
+11440,1755,581,4/13/2024,Routine Checkup,Scheduled,1000
+11441,1770,587,4/6/2025,Follow-up,Completed,1200
+11442,1664,600,12/18/2025,Routine Checkup,Completed,1200
+11443,1215,549,12/10/2025,Routine Checkup,No Show,400
+11444,1834,573,1/30/2025,Routine Checkup,Completed,500
+11445,1166,552,12/2/2024,Emergency,Completed,800
+11446,1543,502,8/21/2025,Routine Checkup,Scheduled,1200
+11447,1883,596,5/21/2024,Follow-up,Scheduled,400
+11448,1232,550,11/12/2024,Emergency,Completed,1200
+11449,1794,586,12/11/2025,Routine Checkup,Completed,300
+11450,1541,543,7/11/2025,Consultation,Scheduled,1200
+11451,1195,577,6/10/2025,Routine Checkup,Completed,500
+11452,1506,508,7/9/2025,Routine Checkup,No Show,1200
+11453,1334,559,2/4/2025,Emergency,Completed,1200
+11454,1768,565,11/11/2025,Follow-up,Completed,1000
+11455,1793,581,11/5/2024,Routine Checkup,Completed,300
+11456,1304,512,5/9/2025,Emergency,Scheduled,800
+11457,1833,504,7/9/2025,Emergency,Scheduled,800
+11458,1437,577,9/1/2025,Follow-up,Cancelled,500
+11459,1323,595,4/18/2024,Emergency,No Show,800
+11460,1502,541,1/6/2025,Follow-up,Completed,600
+11461,1858,507,9/7/2025,Consultation,Completed,1000
+11462,1914,587,7/24/2024,Routine Checkup,Scheduled,500
+11463,1393,588,2/12/2024,Emergency,Scheduled,1200
+11464,1806,569,9/1/2024,Consultation,Scheduled,600
+11465,1599,569,10/13/2024,Emergency,Scheduled,800
+11466,1149,581,12/20/2024,Emergency,Completed,1200
+11467,1761,530,4/20/2025,Consultation,Completed,500
+11468,1833,573,3/23/2024,Emergency,No Show,600
+11469,1405,506,4/19/2024,Emergency,Completed,800
+11470,1283,589,7/8/2024,Consultation,Completed,400
+11471,1362,519,9/7/2024,Emergency,Scheduled,400
+11472,1379,580,12/24/2025,Follow-up,Completed,300
+11473,1198,585,10/17/2024,Emergency,Scheduled,400
+11474,1556,566,10/6/2025,Routine Checkup,Completed,600
+11475,1356,510,7/19/2024,Emergency,Scheduled,1000
+11476,1540,516,11/21/2024,Routine Checkup,Cancelled,400
+11477,1429,537,5/25/2025,Routine Checkup,Cancelled,500
+11478,1017,579,2/12/2025,Emergency,Completed,500
+11479,1639,577,8/29/2025,Consultation,Completed,500
+11480,1379,577,5/22/2025,Follow-up,Completed,400
+11481,1680,532,8/23/2025,Follow-up,Completed,1200
+11482,1506,547,3/12/2024,Emergency,Cancelled,400
+11483,1756,572,9/3/2024,Consultation,Completed,300
+11484,1899,543,10/2/2025,Consultation,Completed,1000
+11485,1076,582,12/24/2025,Follow-up,Completed,1200
+11486,1231,536,8/30/2025,Consultation,Scheduled,1000
+11487,1716,526,8/9/2025,Emergency,Completed,1200
+11488,1962,510,7/19/2025,Emergency,Scheduled,1200
+11489,1248,531,12/9/2024,Consultation,Scheduled,800
+11490,1302,597,2/23/2024,Emergency,Scheduled,300
+11491,1726,529,12/30/2025,Routine Checkup,Scheduled,600
+11492,1215,505,6/11/2025,Follow-up,Completed,500
+11493,1158,577,9/2/2025,Emergency,Scheduled,400
+11494,1069,501,6/15/2025,Consultation,Completed,800
+11495,1393,587,7/11/2025,Follow-up,Scheduled,800
+11496,1085,503,7/11/2024,Emergency,Scheduled,1200
+11497,1267,567,2/27/2024,Follow-up,Completed,400
+11498,1069,571,3/12/2025,Consultation,Completed,300
+11499,1611,600,4/20/2024,Routine Checkup,Completed,800
+11500,1347,535,5/8/2024,Routine Checkup,Scheduled,1000
+11501,1962,515,12/6/2025,Emergency,Completed,300
+11502,1728,567,11/21/2024,Routine Checkup,Completed,400
+11503,1927,593,1/8/2024,Emergency,Completed,1200
+11504,1673,530,1/29/2024,Follow-up,Completed,300
+11505,1423,582,4/21/2024,Emergency,No Show,1200
+11506,1606,575,11/3/2025,Emergency,Scheduled,1000
+11507,1174,543,5/10/2024,Emergency,Completed,500
+11508,1677,560,7/6/2024,Routine Checkup,Completed,1200
+11509,1115,540,11/5/2025,Emergency,Completed,1200
+11510,1220,565,12/9/2025,Consultation,Completed,400
+11511,1956,529,4/19/2025,Emergency,Scheduled,1000
+11512,1031,574,12/29/2024,Follow-up,Completed,400
+11513,1523,592,7/22/2024,Consultation,Completed,1000
+11514,1343,595,7/30/2024,Follow-up,Scheduled,1000
+11515,1377,519,9/12/2025,Follow-up,No Show,800
+11516,1130,503,10/2/2024,Follow-up,Completed,800
+11517,2000,536,3/13/2024,Consultation,Completed,800
+11518,1617,543,11/9/2025,Consultation,Completed,500
+11519,1539,515,8/30/2024,Routine Checkup,Scheduled,500
+11520,1739,597,4/11/2024,Consultation,No Show,1000
+11521,1002,541,11/15/2025,Emergency,Completed,600
+11522,1871,590,6/19/2024,Follow-up,Completed,400
+11523,1101,580,10/14/2025,Routine Checkup,Scheduled,800
+11524,1533,536,7/6/2024,Consultation,Scheduled,400
+11525,1058,597,3/16/2025,Follow-up,No Show,1200
+11526,1389,584,3/26/2024,Consultation,Completed,1000
+11527,1692,577,4/20/2025,Routine Checkup,Completed,300
+11528,1941,533,2/21/2024,Consultation,Completed,1000
+11529,1341,505,4/20/2024,Consultation,Completed,500
+11530,1861,578,2/12/2024,Follow-up,Cancelled,600
+11531,1020,591,7/29/2024,Emergency,Completed,300
+11532,1255,587,7/18/2024,Consultation,Completed,400
+11533,1317,514,9/18/2025,Routine Checkup,Scheduled,500
+11534,1038,568,1/26/2024,Consultation,Completed,800
+11535,1660,583,10/25/2024,Consultation,Scheduled,300
+11536,1537,547,3/17/2024,Emergency,Completed,500
+11537,1386,554,5/16/2024,Follow-up,Scheduled,400
+11538,1633,504,1/20/2024,Routine Checkup,Completed,1000
+11539,1928,594,3/15/2025,Follow-up,Scheduled,400
+11540,1026,583,7/29/2024,Follow-up,Completed,300
+11541,1454,595,7/4/2025,Follow-up,Completed,300
+11542,1681,595,3/10/2025,Consultation,Scheduled,1000
+11543,1323,509,7/25/2024,Emergency,Completed,300
+11544,1737,553,3/14/2025,Consultation,Completed,600
+11545,1513,577,10/27/2025,Routine Checkup,Scheduled,800
+11546,1819,578,2/11/2024,Emergency,Scheduled,500
+11547,1773,560,2/14/2025,Follow-up,Completed,1000
+11548,1013,546,6/6/2025,Emergency,Completed,400
+11549,1915,554,9/1/2025,Routine Checkup,Completed,400
+11550,1908,574,3/2/2025,Consultation,Completed,800
+11551,1560,595,10/1/2024,Consultation,No Show,300
+11552,1921,537,3/23/2025,Follow-up,Cancelled,300
+11553,1825,523,1/3/2025,Consultation,Completed,400
+11554,1371,527,8/7/2024,Consultation,No Show,800
+11555,1291,570,7/30/2025,Routine Checkup,Cancelled,400
+11556,1332,590,8/19/2024,Emergency,Cancelled,300
+11557,1606,566,11/23/2024,Consultation,Completed,1000
+11558,1261,561,3/18/2025,Routine Checkup,Completed,500
+11559,1994,577,2/21/2024,Routine Checkup,Cancelled,300
+11560,1790,551,1/10/2025,Follow-up,Completed,1000
+11561,1871,550,9/19/2024,Routine Checkup,Completed,500
+11562,1205,519,9/23/2024,Follow-up,Completed,1200
+11563,1697,501,12/24/2024,Consultation,Completed,600
+11564,1687,540,11/12/2024,Follow-up,Completed,800
+11565,1950,532,11/19/2024,Routine Checkup,Cancelled,1000
+11566,1387,522,10/27/2025,Emergency,Completed,600
+11567,1892,593,10/13/2025,Emergency,Completed,300
+11568,1821,566,7/16/2025,Consultation,Cancelled,1200
+11569,1468,540,9/20/2025,Consultation,Completed,800
+11570,1415,538,2/24/2025,Emergency,Completed,1000
+11571,1069,548,2/15/2024,Follow-up,Scheduled,1200
+11572,1472,555,8/22/2025,Consultation,Completed,300
+11573,1104,575,12/20/2025,Routine Checkup,Scheduled,800
+11574,1758,581,9/25/2024,Consultation,Scheduled,800
+11575,1161,555,8/23/2025,Follow-up,Completed,300
+11576,1200,551,1/15/2025,Consultation,Completed,300
+11577,1216,560,4/27/2024,Routine Checkup,No Show,1200
+11578,1946,508,7/19/2025,Routine Checkup,Completed,1200
+11579,1212,586,4/25/2024,Routine Checkup,Scheduled,1000
+11580,1508,568,9/21/2025,Follow-up,Cancelled,800
+11581,1016,575,9/16/2024,Follow-up,Completed,1000
+11582,1498,572,3/15/2024,Routine Checkup,Completed,1200
+11583,1884,509,4/24/2025,Routine Checkup,Completed,800
+11584,1332,590,10/31/2024,Follow-up,Completed,1000
+11585,1717,502,1/7/2024,Follow-up,Scheduled,300
+11586,1877,580,12/31/2024,Follow-up,No Show,300
+11587,1551,595,9/25/2025,Emergency,Scheduled,400
+11588,1601,570,6/6/2025,Follow-up,Completed,1200
+11589,1942,585,12/13/2024,Routine Checkup,Scheduled,1000
+11590,1256,590,3/13/2025,Emergency,Scheduled,400
+11591,1992,559,8/2/2024,Follow-up,No Show,400
+11592,1766,519,3/4/2025,Routine Checkup,Completed,600
+11593,1728,528,5/12/2025,Consultation,Scheduled,800
+11594,1880,572,6/23/2025,Emergency,Cancelled,500
+11595,1815,514,1/1/2025,Routine Checkup,Completed,600
+11596,1172,524,11/8/2024,Consultation,No Show,1200
+11597,1649,544,6/21/2025,Routine Checkup,Completed,800
+11598,2000,556,2/23/2024,Follow-up,Completed,500
+11599,1498,590,6/24/2025,Follow-up,Scheduled,400
+11600,1471,595,4/11/2025,Consultation,Completed,500
+11601,1384,551,6/12/2024,Follow-up,Scheduled,300
+11602,1690,532,11/29/2024,Routine Checkup,Scheduled,1200
+11603,1589,550,6/30/2025,Consultation,Completed,300
+11604,1700,541,12/13/2024,Routine Checkup,Completed,1000
+11605,1507,566,9/29/2024,Routine Checkup,Scheduled,800
+11606,1992,525,12/20/2025,Routine Checkup,Cancelled,600
+11607,1527,561,2/17/2025,Follow-up,No Show,1200
+11608,1804,566,5/14/2025,Follow-up,Scheduled,400
+11609,1831,542,4/2/2024,Routine Checkup,Completed,1200
+11610,1325,565,11/15/2025,Emergency,Completed,800
+11611,1214,536,3/19/2024,Routine Checkup,No Show,400
+11612,1208,576,9/13/2025,Routine Checkup,Completed,300
+11613,1169,509,8/4/2024,Consultation,Completed,1200
+11614,1330,536,12/23/2024,Routine Checkup,Scheduled,600
+11615,1280,592,9/9/2025,Follow-up,Scheduled,600
+11616,1978,538,5/21/2025,Consultation,Cancelled,300
+11617,1305,533,7/12/2025,Emergency,Completed,500
+11618,1146,542,6/29/2024,Consultation,Cancelled,600
+11619,1775,561,7/29/2025,Emergency,Scheduled,500
+11620,1516,546,9/2/2024,Consultation,Scheduled,400
+11621,1090,586,8/31/2024,Consultation,No Show,600
+11622,1453,589,5/20/2025,Emergency,Completed,1000
+11623,1060,561,2/25/2025,Follow-up,Scheduled,300
+11624,1311,518,11/15/2024,Follow-up,No Show,1200
+11625,1528,570,3/27/2024,Follow-up,Completed,500
+11626,1227,582,8/4/2024,Consultation,Completed,1000
+11627,1474,580,5/4/2025,Routine Checkup,Scheduled,400
+11628,1978,515,6/2/2025,Consultation,Completed,400
+11629,1541,548,10/4/2024,Routine Checkup,Completed,600
+11630,1663,572,12/22/2025,Routine Checkup,Completed,600
+11631,1757,513,6/17/2024,Follow-up,Completed,1000
+11632,1782,543,11/25/2024,Routine Checkup,Completed,800
+11633,1079,560,10/11/2025,Consultation,Completed,800
+11634,1433,557,3/16/2025,Consultation,No Show,600
+11635,1801,571,1/25/2025,Follow-up,Scheduled,800
+11636,1153,517,5/10/2025,Emergency,Scheduled,300
+11637,1789,550,1/15/2025,Consultation,Completed,1000
+11638,1401,532,11/1/2024,Routine Checkup,Scheduled,300
+11639,1279,522,11/3/2025,Consultation,Scheduled,800
+11640,1057,555,5/27/2025,Consultation,Cancelled,600
+11641,1977,557,7/6/2024,Consultation,Completed,300
+11642,1186,513,5/30/2025,Emergency,Completed,400
+11643,1398,547,10/5/2025,Routine Checkup,Scheduled,1200
+11644,1605,587,3/2/2025,Follow-up,Scheduled,600
+11645,1788,562,5/16/2025,Consultation,Scheduled,1000
+11646,1158,554,12/30/2025,Routine Checkup,Cancelled,500
+11647,1787,529,9/16/2024,Routine Checkup,Completed,500
+11648,1693,522,5/27/2025,Follow-up,Scheduled,600
+11649,1359,565,3/11/2024,Consultation,Completed,800
+11650,1440,529,4/22/2025,Emergency,Scheduled,300
+11651,1589,548,6/26/2024,Routine Checkup,No Show,300
+11652,1466,505,4/1/2025,Follow-up,Scheduled,600
+11653,1663,535,7/7/2024,Emergency,Completed,400
+11654,1446,574,10/17/2024,Routine Checkup,Completed,1000
+11655,1750,583,6/3/2025,Consultation,Cancelled,800
+11656,1801,571,10/18/2024,Routine Checkup,Scheduled,400
+11657,1743,546,9/26/2025,Emergency,Cancelled,600
+11658,1488,535,10/9/2024,Emergency,Completed,600
+11659,1530,545,6/27/2025,Consultation,Completed,400
+11660,1073,513,1/11/2025,Consultation,Scheduled,500
+11661,1929,510,10/19/2025,Follow-up,Scheduled,600
+11662,1928,566,6/4/2024,Consultation,No Show,1000
+11663,1701,570,5/22/2025,Follow-up,Completed,1200
+11664,1950,572,2/16/2025,Emergency,Scheduled,800
+11665,1017,600,6/11/2025,Emergency,Completed,400
+11666,1531,525,12/20/2024,Routine Checkup,Cancelled,500
+11667,1731,544,7/12/2025,Routine Checkup,Scheduled,400
+11668,1326,560,7/5/2024,Follow-up,Completed,500
+11669,1995,547,1/31/2024,Consultation,Completed,500
+11670,1632,540,9/16/2024,Consultation,Scheduled,1000
+11671,1613,507,2/24/2025,Routine Checkup,Cancelled,800
+11672,1546,546,6/12/2025,Emergency,Completed,600
+11673,1596,523,7/4/2025,Follow-up,Completed,500
+11674,1921,583,10/30/2024,Emergency,Cancelled,600
+11675,1708,546,2/8/2024,Emergency,No Show,800
+11676,1842,586,5/3/2025,Consultation,Completed,600
+11677,1202,513,10/5/2025,Follow-up,Scheduled,1000
+11678,1344,521,6/25/2025,Emergency,Completed,1000
+11679,1853,501,10/31/2025,Routine Checkup,Completed,300
+11680,1523,519,10/4/2024,Routine Checkup,Completed,1000
+11681,1859,560,7/21/2024,Consultation,Scheduled,500
+11682,1400,533,3/6/2024,Routine Checkup,Completed,800
+11683,1218,504,4/17/2024,Routine Checkup,Scheduled,1000
+11684,1445,503,9/24/2024,Emergency,Completed,400
+11685,1765,591,8/9/2024,Routine Checkup,No Show,800
+11686,1222,552,6/13/2025,Routine Checkup,Scheduled,500
+11687,1383,599,3/30/2024,Emergency,Scheduled,800
+11688,1881,528,11/23/2025,Consultation,Scheduled,1000
+11689,1592,570,9/11/2024,Consultation,Cancelled,400
+11690,1007,570,3/30/2025,Follow-up,Scheduled,300
+11691,1272,555,9/9/2024,Routine Checkup,Completed,500
+11692,1739,557,9/13/2024,Emergency,Completed,1200
+11693,1016,587,1/17/2025,Follow-up,Cancelled,500
+11694,1424,597,3/17/2025,Consultation,Completed,800
+11695,1524,516,8/21/2025,Consultation,Completed,1200
+11696,1803,524,3/30/2024,Emergency,Completed,1200
+11697,1753,569,1/24/2025,Follow-up,Completed,600
+11698,1021,541,8/4/2025,Follow-up,Cancelled,1200
+11699,1690,577,2/13/2024,Emergency,Completed,600
+11700,1939,547,12/12/2025,Emergency,No Show,1200
+11701,1228,576,10/25/2025,Follow-up,No Show,400
+11702,1785,569,8/20/2025,Consultation,No Show,300
+11703,1288,531,1/19/2024,Routine Checkup,Completed,300
+11704,1809,592,4/10/2024,Consultation,Completed,1200
+11705,1134,592,8/29/2025,Emergency,No Show,800
+11706,1984,530,12/22/2024,Follow-up,No Show,800
+11707,1283,518,6/25/2025,Follow-up,Scheduled,600
+11708,1404,544,2/2/2024,Routine Checkup,Completed,1000
+11709,1665,527,8/16/2024,Follow-up,Cancelled,300
+11710,1066,599,6/7/2025,Routine Checkup,Scheduled,1000
+11711,1649,526,9/21/2025,Consultation,Completed,300
+11712,1604,560,6/3/2024,Consultation,Cancelled,1000
+11713,1437,518,2/26/2025,Follow-up,Scheduled,1000
+11714,1829,597,9/2/2024,Follow-up,Scheduled,300
+11715,1934,589,2/8/2025,Emergency,Completed,400
+11716,1259,556,6/24/2025,Emergency,Cancelled,400
+11717,1980,531,6/9/2024,Follow-up,No Show,800
+11718,1966,559,12/2/2025,Follow-up,Cancelled,1000
+11719,1103,502,4/26/2024,Consultation,Scheduled,1000
+11720,1993,597,9/27/2024,Follow-up,Scheduled,1000
+11721,1567,539,11/22/2025,Emergency,Scheduled,1000
+11722,1769,561,5/1/2025,Consultation,Scheduled,1000
+11723,1101,563,6/20/2024,Routine Checkup,Completed,600
+11724,1198,596,9/30/2024,Emergency,Completed,500
+11725,1813,518,9/15/2024,Emergency,Completed,1000
+11726,1226,517,5/14/2024,Consultation,Completed,600
+11727,1943,598,11/13/2025,Routine Checkup,Completed,400
+11728,1463,539,12/22/2025,Emergency,Completed,1000
+11729,1237,571,2/25/2025,Follow-up,Scheduled,400
+11730,1026,554,2/24/2025,Emergency,Completed,800
+11731,1121,599,7/4/2024,Consultation,Completed,500
+11732,1910,594,12/29/2024,Consultation,Completed,300
+11733,1506,576,8/29/2025,Consultation,Scheduled,500
+11734,1182,535,1/12/2025,Emergency,Completed,1000
+11735,1711,511,6/6/2025,Routine Checkup,Completed,1000
+11736,1814,561,8/2/2025,Follow-up,Completed,500
+11737,1767,544,12/22/2025,Consultation,Scheduled,500
+11738,1634,568,7/14/2024,Routine Checkup,No Show,800
+11739,1543,525,4/7/2024,Follow-up,No Show,1200
+11740,1984,548,8/27/2025,Consultation,Completed,400
+11741,1315,532,1/22/2024,Follow-up,Cancelled,300
+11742,1991,584,3/25/2025,Follow-up,Cancelled,1200
+11743,1797,595,6/20/2024,Routine Checkup,Completed,500
+11744,1618,504,1/17/2025,Follow-up,Completed,300
+11745,1736,538,5/13/2024,Consultation,Completed,500
+11746,1273,563,3/1/2025,Routine Checkup,Scheduled,400
+11747,1910,547,1/25/2024,Emergency,Completed,300
+11748,1232,501,5/17/2025,Emergency,Completed,1200
+11749,1420,503,7/3/2024,Routine Checkup,Completed,600
+11750,1768,586,3/25/2024,Emergency,Cancelled,400
+11751,1442,562,7/20/2025,Follow-up,Scheduled,1200
+11752,1496,564,5/23/2024,Consultation,Scheduled,300
+11753,1024,517,11/9/2025,Follow-up,Cancelled,500
+11754,1109,578,2/15/2025,Routine Checkup,Completed,1200
+11755,1703,562,8/11/2024,Consultation,Completed,500
+11756,1502,535,8/7/2024,Routine Checkup,Completed,400
+11757,1859,513,6/27/2024,Routine Checkup,No Show,400
+11758,1025,535,9/22/2025,Routine Checkup,No Show,1200
+11759,1187,543,3/8/2025,Follow-up,Scheduled,500
+11760,1288,502,9/21/2024,Consultation,Completed,300
+11761,1628,556,3/4/2025,Consultation,Completed,1200
+11762,1338,577,10/23/2025,Consultation,Completed,600
+11763,1878,551,2/19/2025,Follow-up,Scheduled,800
+11764,1914,554,3/28/2025,Emergency,Scheduled,400
+11765,1037,516,12/27/2025,Follow-up,Scheduled,500
+11766,1794,518,7/15/2024,Follow-up,Cancelled,300
+11767,1137,507,7/7/2025,Routine Checkup,Completed,400
+11768,1508,545,2/22/2024,Consultation,Completed,300
+11769,1227,536,4/24/2025,Consultation,Completed,400
+11770,1320,541,3/18/2025,Emergency,Cancelled,500
+11771,1840,594,11/25/2024,Emergency,Completed,300
+11772,1916,542,9/7/2024,Routine Checkup,Scheduled,500
+11773,1182,507,5/2/2024,Consultation,Scheduled,300
+11774,1874,515,1/21/2025,Emergency,Completed,400
+11775,1086,560,12/4/2024,Emergency,Completed,800
+11776,1467,540,12/13/2024,Consultation,Completed,800
+11777,1926,583,1/29/2024,Follow-up,Scheduled,1200
+11778,1053,537,2/4/2024,Emergency,Completed,600
+11779,1860,566,6/1/2025,Consultation,Completed,600
+11780,1867,555,1/30/2025,Emergency,Scheduled,1200
+11781,1235,577,9/14/2025,Routine Checkup,Cancelled,1200
+11782,1959,595,10/20/2024,Emergency,Completed,1000
+11783,1779,580,8/11/2025,Consultation,Scheduled,500
+11784,1799,556,12/14/2024,Emergency,Scheduled,300
+11785,1433,544,5/26/2024,Routine Checkup,Scheduled,600
+11786,1496,557,3/7/2024,Routine Checkup,Completed,400
+11787,1999,506,6/3/2025,Emergency,Completed,1200
+11788,1100,592,5/1/2024,Emergency,Scheduled,800
+11789,1990,532,12/5/2024,Routine Checkup,Completed,300
+11790,1599,574,6/23/2024,Routine Checkup,Scheduled,1000
+11791,1403,518,11/21/2025,Follow-up,Scheduled,800
+11792,1396,568,8/19/2025,Follow-up,No Show,1200
+11793,1527,573,3/26/2025,Routine Checkup,Completed,300
+11794,1415,507,7/10/2025,Emergency,Completed,1200
+11795,1939,508,5/15/2024,Consultation,Completed,600
+11796,1613,564,1/16/2024,Emergency,Scheduled,600
+11797,1677,507,11/28/2024,Emergency,Completed,500
+11798,1463,541,7/13/2024,Follow-up,Completed,1000
+11799,1541,540,5/10/2025,Follow-up,Completed,300
+11800,1626,503,1/9/2024,Follow-up,Completed,1000
+11801,1619,517,11/29/2024,Routine Checkup,Completed,400
+11802,1922,566,11/28/2024,Routine Checkup,Completed,1000
+11803,1364,579,11/22/2024,Emergency,Scheduled,1200
+11804,1130,593,1/15/2024,Emergency,Completed,1200
+11805,1084,552,9/5/2025,Consultation,Completed,600
+11806,1271,522,8/13/2024,Emergency,Scheduled,500
+11807,1244,504,2/28/2025,Emergency,Scheduled,1200
+11808,1388,506,2/11/2025,Follow-up,Completed,600
+11809,1214,538,4/22/2024,Follow-up,Completed,800
+11810,1818,526,3/3/2025,Follow-up,Scheduled,600
+11811,1166,511,1/1/2024,Follow-up,Completed,300
+11812,1791,590,9/22/2024,Follow-up,Completed,500
+11813,1059,517,5/5/2025,Consultation,Completed,1200
+11814,1602,588,7/26/2024,Consultation,Completed,300
+11815,1883,592,9/13/2025,Consultation,Cancelled,400
+11816,1843,599,12/12/2025,Follow-up,Scheduled,400
+11817,1924,531,1/3/2025,Routine Checkup,Scheduled,600
+11818,1504,577,11/1/2024,Follow-up,Completed,500
+11819,1706,535,1/12/2024,Follow-up,Completed,1000
+11820,1123,516,12/10/2024,Consultation,Cancelled,500
+11821,1648,579,4/9/2025,Follow-up,Completed,500
+11822,1413,518,11/30/2025,Consultation,Completed,500
+11823,1139,562,10/27/2025,Follow-up,Scheduled,600
+11824,1229,527,5/8/2025,Emergency,Scheduled,300
+11825,1274,535,1/2/2025,Routine Checkup,Completed,600
+11826,1439,545,2/23/2025,Routine Checkup,Scheduled,1000
+11827,1562,535,6/19/2024,Consultation,Completed,300
+11828,1910,528,5/13/2024,Emergency,Completed,1000
+11829,1118,509,3/2/2025,Routine Checkup,Completed,800
+11830,1714,576,1/25/2024,Consultation,Scheduled,800
+11831,1995,515,6/13/2025,Follow-up,Scheduled,1200
+11832,1905,521,7/8/2024,Follow-up,Cancelled,1200
+11833,1483,552,5/20/2024,Emergency,Completed,300
+11834,1395,535,7/8/2025,Routine Checkup,Completed,600
+11835,1703,597,10/19/2025,Follow-up,Cancelled,1000
+11836,1876,551,11/10/2024,Consultation,Completed,1000
+11837,1460,583,3/19/2025,Follow-up,Completed,1200
+11838,1835,555,11/14/2024,Follow-up,No Show,1200
+11839,1693,587,3/16/2025,Routine Checkup,Scheduled,400
+11840,1935,577,4/1/2024,Routine Checkup,Completed,1000
+11841,1078,544,6/27/2024,Consultation,Completed,600
+11842,1952,565,2/25/2024,Emergency,Completed,400
+11843,1412,593,6/3/2024,Emergency,Scheduled,600
+11844,1075,588,11/2/2025,Follow-up,Scheduled,500
+11845,1295,580,4/20/2024,Consultation,Scheduled,1000
+11846,1793,525,5/16/2024,Emergency,Completed,500
+11847,1021,587,8/19/2024,Emergency,Completed,800
+11848,1906,592,4/12/2025,Follow-up,No Show,800
+11849,1171,547,4/25/2025,Consultation,No Show,300
+11850,1015,580,3/8/2024,Emergency,Completed,1000
+11851,1211,556,9/5/2024,Routine Checkup,Completed,1200
+11852,1560,538,11/18/2024,Routine Checkup,Completed,400
+11853,1086,511,6/1/2025,Follow-up,Scheduled,500
+11854,1149,567,3/7/2025,Follow-up,Scheduled,600
+11855,1700,515,5/1/2025,Follow-up,Scheduled,1000
+11856,1372,501,8/28/2025,Follow-up,Completed,300
+11857,1480,507,3/4/2025,Emergency,Completed,600
+11858,1818,501,9/25/2024,Consultation,Completed,500
+11859,1151,549,12/9/2025,Follow-up,No Show,1000
+11860,1141,596,6/20/2025,Follow-up,Completed,1200
+11861,1069,573,5/27/2024,Emergency,Scheduled,500
+11862,1260,529,4/27/2024,Follow-up,Completed,1000
+11863,1988,526,1/1/2025,Follow-up,No Show,1000
+11864,1846,587,3/6/2024,Consultation,Scheduled,500
+11865,1968,545,1/4/2025,Routine Checkup,Completed,500
+11866,1521,593,6/23/2024,Follow-up,Scheduled,600
+11867,1633,597,8/10/2025,Emergency,Completed,300
+11868,1371,571,5/9/2025,Consultation,Completed,500
+11869,1419,512,4/23/2024,Emergency,Completed,800
+11870,1101,595,4/20/2024,Consultation,No Show,300
+11871,1661,532,3/14/2025,Consultation,No Show,800
+11872,1954,520,12/15/2025,Follow-up,Completed,600
+11873,1658,551,5/26/2024,Follow-up,Scheduled,500
+11874,1865,581,2/4/2024,Follow-up,Scheduled,300
+11875,1968,536,11/4/2024,Routine Checkup,Scheduled,1200
+11876,1243,567,6/21/2025,Routine Checkup,Completed,500
+11877,1753,501,1/14/2024,Emergency,Completed,1000
+11878,1512,527,1/8/2025,Follow-up,Cancelled,500
+11879,1849,540,7/10/2025,Routine Checkup,Completed,1200
+11880,1555,597,3/3/2025,Follow-up,Completed,300
+11881,1095,584,12/28/2025,Routine Checkup,Scheduled,500
+11882,1226,514,8/20/2024,Routine Checkup,Completed,500
+11883,1518,600,12/5/2025,Consultation,No Show,400
+11884,1214,569,7/16/2025,Follow-up,Completed,400
+11885,1718,587,12/26/2025,Follow-up,No Show,300
+11886,1067,579,10/24/2025,Routine Checkup,Completed,300
+11887,1396,506,3/15/2025,Follow-up,Completed,1000
+11888,1612,533,5/16/2025,Routine Checkup,Completed,1000
+11889,1012,555,10/1/2024,Follow-up,Scheduled,500
+11890,1237,519,3/16/2024,Consultation,Scheduled,800
+11891,1834,577,3/14/2025,Follow-up,Completed,300
+11892,1770,529,11/29/2025,Consultation,Completed,1200
+11893,1399,561,10/15/2024,Emergency,Cancelled,500
+11894,1407,570,6/23/2025,Follow-up,Completed,800
+11895,1925,579,11/22/2025,Follow-up,Scheduled,400
+11896,1849,580,9/9/2024,Follow-up,Completed,1000
+11897,1480,524,5/5/2024,Consultation,Cancelled,1200
+11898,1647,523,6/25/2024,Follow-up,Scheduled,300
+11899,1222,510,2/6/2024,Follow-up,No Show,500
+11900,1156,554,2/13/2025,Routine Checkup,Scheduled,400
+11901,1654,541,9/2/2025,Emergency,Completed,600
+11902,1428,549,9/1/2025,Consultation,Completed,400
+11903,1158,517,5/6/2024,Routine Checkup,Cancelled,500
+11904,1977,556,4/27/2025,Consultation,Completed,1000
+11905,1416,545,6/16/2024,Routine Checkup,Scheduled,800
+11906,1326,530,8/14/2025,Emergency,Scheduled,1200
+11907,1371,544,10/20/2024,Routine Checkup,Completed,1200
+11908,1344,574,9/29/2025,Consultation,Completed,600
+11909,1262,555,12/8/2024,Follow-up,Completed,1200
+11910,1283,519,11/5/2024,Follow-up,Completed,600
+11911,1850,529,10/23/2025,Emergency,Completed,1000
+11912,1856,502,6/11/2025,Consultation,Cancelled,600
+11913,1229,536,6/23/2025,Consultation,Completed,300
+11914,1888,519,2/22/2025,Consultation,Completed,500
+11915,1280,507,3/19/2025,Emergency,Completed,1200
+11916,1870,526,11/15/2025,Follow-up,Completed,600
+11917,1290,579,7/11/2025,Routine Checkup,Completed,400
+11918,1680,538,8/23/2024,Emergency,Scheduled,800
+11919,1047,503,3/14/2025,Routine Checkup,Completed,500
+11920,1975,580,8/1/2024,Follow-up,Cancelled,1000
+11921,1715,566,3/25/2024,Emergency,Cancelled,1200
+11922,1214,595,3/25/2024,Follow-up,No Show,400
+11923,1758,592,5/3/2025,Routine Checkup,Completed,300
+11924,1024,571,3/5/2024,Consultation,Completed,600
+11925,1321,594,10/7/2025,Consultation,Completed,400
+11926,1274,543,10/24/2025,Routine Checkup,Completed,500
+11927,1556,562,9/18/2025,Consultation,No Show,1200
+11928,1844,571,3/4/2024,Routine Checkup,Scheduled,400
+11929,1313,600,12/8/2024,Emergency,Cancelled,300
+11930,1363,593,12/17/2024,Emergency,Completed,800
+11931,1668,524,6/6/2024,Emergency,Scheduled,600
+11932,2000,539,8/11/2025,Consultation,Completed,500
+11933,1380,568,5/5/2025,Follow-up,Cancelled,1200
+11934,1711,593,10/19/2025,Consultation,Cancelled,600
+11935,1919,544,4/7/2025,Consultation,Completed,600
+11936,1981,505,8/12/2024,Follow-up,Completed,1000
+11937,1674,555,11/8/2024,Follow-up,Scheduled,600
+11938,1907,593,9/6/2025,Follow-up,Completed,400
+11939,1470,530,4/10/2025,Follow-up,Completed,400
+11940,1746,529,3/28/2024,Consultation,Completed,800
+11941,1675,526,10/29/2024,Routine Checkup,Completed,300
+11942,1116,583,11/10/2025,Emergency,Scheduled,1200
+11943,1605,526,3/10/2025,Routine Checkup,Cancelled,1200
+11944,1042,537,11/12/2025,Consultation,Scheduled,500
+11945,1796,591,5/14/2024,Follow-up,Completed,400
+11946,1379,594,2/19/2024,Emergency,Scheduled,600
+11947,1722,553,3/7/2025,Emergency,Scheduled,300
+11948,1206,530,12/5/2024,Routine Checkup,Completed,500
+11949,1466,503,12/12/2024,Consultation,Completed,1200
+11950,1732,543,10/7/2025,Consultation,Scheduled,500
+11951,1280,507,12/12/2024,Consultation,Completed,500
+11952,1648,549,10/10/2025,Emergency,Completed,1200
+11953,1618,573,9/1/2024,Routine Checkup,Completed,500
+11954,1118,541,4/18/2024,Emergency,Completed,800
+11955,1237,577,6/16/2025,Emergency,Completed,500
+11956,1309,579,3/30/2024,Follow-up,Completed,300
+11957,1456,554,10/22/2024,Routine Checkup,Scheduled,400
+11958,1900,569,4/21/2024,Follow-up,Completed,300
+11959,1475,593,8/11/2025,Consultation,Scheduled,600
+11960,1100,599,6/25/2024,Emergency,Completed,1000
+11961,1261,591,12/8/2024,Routine Checkup,No Show,800
+11962,1993,527,10/21/2025,Consultation,No Show,800
+11963,1305,508,4/10/2024,Routine Checkup,Scheduled,600
+11964,1354,532,9/20/2025,Emergency,No Show,1200
+11965,1286,584,8/26/2025,Routine Checkup,Scheduled,300
+11966,1328,564,2/4/2025,Consultation,Scheduled,300
+11967,1103,510,1/28/2024,Follow-up,Completed,600
+11968,1063,513,6/20/2025,Emergency,Completed,1200
+11969,1687,563,2/27/2024,Follow-up,Scheduled,1000
+11970,1282,593,5/12/2025,Emergency,Completed,500
+11971,1441,535,10/23/2024,Consultation,Scheduled,1200
+11972,1293,561,5/13/2024,Emergency,Scheduled,500
+11973,1738,554,11/26/2024,Follow-up,Completed,400
+11974,1007,508,9/5/2024,Emergency,Scheduled,300
+11975,1639,529,7/3/2025,Consultation,Completed,300
+11976,1936,595,3/15/2024,Emergency,Completed,600
+11977,1092,541,10/15/2025,Follow-up,Completed,600
+11978,1935,530,6/16/2024,Consultation,Completed,500
+11979,1190,586,5/17/2025,Follow-up,Cancelled,1200
+11980,1871,521,12/20/2024,Emergency,Cancelled,300
+11981,1476,576,8/12/2024,Routine Checkup,Completed,300
+11982,1511,511,10/25/2025,Follow-up,Scheduled,800
+11983,1462,502,6/14/2025,Emergency,Cancelled,400
+11984,1053,550,5/25/2024,Routine Checkup,Completed,400
+11985,1754,541,8/28/2024,Routine Checkup,Completed,500
+11986,1486,566,12/9/2024,Consultation,Scheduled,1000
+11987,1644,598,2/4/2024,Routine Checkup,Scheduled,1200
+11988,1490,503,12/2/2025,Follow-up,Completed,300
+11989,1978,580,1/1/2024,Follow-up,Completed,800
+11990,1364,551,6/1/2024,Routine Checkup,Scheduled,1200
+11991,1112,568,3/4/2025,Emergency,Cancelled,300
+11992,1409,587,5/22/2025,Follow-up,Completed,600
+11993,1007,584,5/5/2024,Follow-up,Cancelled,1200
+11994,1742,525,5/5/2025,Consultation,Completed,500
+11995,1668,530,4/26/2025,Emergency,Scheduled,1200
+11996,1197,582,12/10/2024,Routine Checkup,Completed,1000
+11997,1835,511,8/8/2024,Emergency,Completed,1200
+11998,1876,593,12/23/2025,Consultation,Completed,1200
+11999,1735,517,1/25/2024,Consultation,No Show,1200
+12000,1367,526,6/11/2025,Emergency,Scheduled,400
+12001,1250,523,6/30/2024,Consultation,Scheduled,300
+12002,1916,556,5/13/2025,Consultation,Scheduled,1000
+12003,1595,552,10/2/2025,Consultation,Completed,500
+12004,1240,548,2/11/2024,Emergency,No Show,400
+12005,1380,520,4/25/2025,Consultation,Completed,300
+12006,1907,502,3/14/2025,Routine Checkup,Scheduled,800
+12007,1872,588,2/5/2025,Routine Checkup,Completed,500
+12008,1835,531,6/29/2025,Follow-up,Completed,300
+12009,1471,527,12/10/2024,Routine Checkup,Completed,400
+12010,1775,502,2/14/2024,Follow-up,Scheduled,400
+12011,1919,578,10/7/2025,Emergency,Scheduled,800
+12012,1701,504,1/21/2024,Consultation,Cancelled,500
+12013,1455,513,9/25/2025,Routine Checkup,Completed,500
+12014,1366,600,3/10/2024,Follow-up,No Show,1000
+12015,1290,535,2/17/2024,Emergency,Completed,300
+12016,1874,572,5/5/2025,Follow-up,Scheduled,1000
+12017,1403,566,7/4/2025,Consultation,Cancelled,400
+12018,1058,506,10/13/2024,Routine Checkup,Completed,400
+12019,1521,531,1/10/2024,Emergency,Completed,1200
+12020,1304,510,6/25/2025,Follow-up,Completed,800
+12021,1115,521,9/30/2024,Emergency,Completed,800
+12022,1210,574,8/22/2025,Follow-up,Completed,500
+12023,1041,523,1/15/2025,Follow-up,Completed,1000
+12024,1816,503,11/24/2024,Consultation,Completed,400
+12025,1173,532,4/23/2025,Consultation,Cancelled,1200
+12026,1234,520,1/15/2024,Follow-up,Scheduled,300
+12027,1793,574,5/30/2025,Routine Checkup,Completed,1200
+12028,1884,529,7/9/2024,Emergency,Completed,600
+12029,1590,552,6/16/2024,Emergency,Completed,300
+12030,1620,546,6/4/2025,Consultation,Completed,800
+12031,1793,534,9/12/2025,Routine Checkup,Scheduled,300
+12032,1403,584,5/16/2024,Follow-up,Cancelled,400
+12033,1039,561,6/2/2024,Consultation,Scheduled,1000
+12034,1119,572,1/22/2025,Follow-up,Completed,1200
+12035,1335,571,7/27/2024,Follow-up,Cancelled,500
+12036,1336,570,9/28/2024,Consultation,Completed,1000
+12037,1539,511,5/22/2024,Routine Checkup,Scheduled,600
+12038,1616,582,9/2/2025,Emergency,No Show,500
+12039,1074,593,3/9/2024,Consultation,Cancelled,600
+12040,1191,589,9/3/2024,Routine Checkup,Scheduled,600
+12041,1324,563,9/17/2024,Follow-up,Completed,400
+12042,1147,521,3/19/2024,Consultation,No Show,400
+12043,1767,503,10/19/2025,Emergency,Completed,800
+12044,1284,582,9/14/2025,Emergency,Completed,800
+12045,1213,588,8/27/2025,Follow-up,Completed,600
+12046,1635,510,6/8/2025,Consultation,No Show,1000
+12047,1718,527,9/12/2025,Emergency,Scheduled,800
+12048,1929,512,11/25/2024,Consultation,No Show,400
+12049,1752,507,7/7/2024,Emergency,Scheduled,800
+12050,1394,517,4/4/2024,Follow-up,Completed,600
+12051,1339,565,9/8/2025,Follow-up,No Show,1200
+12052,1798,564,1/8/2024,Consultation,No Show,500
+12053,1022,526,3/7/2024,Routine Checkup,Completed,1000
+12054,1771,515,5/10/2025,Routine Checkup,Completed,1000
+12055,1869,533,7/9/2024,Follow-up,Cancelled,300
+12056,1105,562,12/31/2024,Emergency,No Show,800
+12057,1466,547,6/4/2025,Routine Checkup,Scheduled,1000
+12058,1459,595,4/26/2024,Follow-up,Scheduled,1200
+12059,1432,535,9/23/2024,Emergency,No Show,1200
+12060,1770,565,9/2/2025,Emergency,Scheduled,400
+12061,1716,572,4/29/2025,Routine Checkup,Scheduled,500
+12062,1822,576,5/23/2025,Follow-up,Scheduled,400
+12063,1774,583,10/24/2024,Emergency,Completed,800
+12064,1619,525,6/12/2024,Emergency,Cancelled,600
+12065,1763,557,1/10/2025,Consultation,Completed,1200
+12066,1936,532,10/14/2025,Consultation,Scheduled,1200
+12067,1221,563,9/24/2024,Routine Checkup,Completed,300
+12068,1379,512,7/2/2025,Consultation,Completed,300
+12069,1222,563,3/14/2024,Follow-up,Completed,1200
+12070,1258,577,5/22/2025,Routine Checkup,Scheduled,500
+12071,1713,592,3/13/2024,Routine Checkup,Completed,1000
+12072,1367,501,11/3/2024,Consultation,Completed,1000
+12073,1770,551,7/17/2024,Emergency,Completed,1200
+12074,1349,570,5/9/2024,Follow-up,Completed,1000
+12075,1225,508,7/25/2025,Follow-up,Completed,300
+12076,1714,568,9/6/2025,Follow-up,Completed,600
+12077,1738,505,5/1/2025,Routine Checkup,Completed,1000
+12078,1236,589,5/30/2024,Follow-up,Completed,400
+12079,1183,586,10/30/2025,Emergency,Completed,1200
+12080,1712,592,7/24/2024,Emergency,Completed,1000
+12081,1869,539,6/27/2024,Consultation,Scheduled,600
+12082,1758,523,7/15/2024,Follow-up,Completed,1200
+12083,1444,568,3/29/2024,Routine Checkup,Completed,500
+12084,1865,552,3/9/2025,Consultation,Completed,500
+12085,1623,504,7/1/2024,Emergency,Completed,300
+12086,1006,547,7/27/2024,Follow-up,Completed,600
+12087,1236,521,5/7/2025,Emergency,Completed,400
+12088,1127,556,5/9/2024,Consultation,Cancelled,600
+12089,1104,566,10/26/2025,Emergency,Cancelled,400
+12090,1749,559,1/13/2024,Follow-up,Completed,400
+12091,1915,507,9/25/2025,Follow-up,Scheduled,600
+12092,1480,549,4/15/2024,Consultation,Completed,1200
+12093,1155,516,1/9/2025,Follow-up,No Show,800
+12094,1257,517,8/4/2025,Emergency,Completed,600
+12095,1235,584,12/7/2025,Emergency,Scheduled,1200
+12096,1500,587,11/28/2025,Routine Checkup,Completed,400
+12097,1289,598,4/8/2024,Routine Checkup,Scheduled,1200
+12098,1510,575,8/16/2025,Routine Checkup,Completed,1200
+12099,1552,534,8/9/2025,Emergency,Completed,1000
+12100,1800,533,7/10/2024,Emergency,Cancelled,500
+12101,1709,526,11/20/2024,Consultation,Completed,500
+12102,1785,566,12/26/2025,Routine Checkup,Scheduled,300
+12103,1894,563,4/11/2025,Emergency,Cancelled,500
+12104,1776,587,1/1/2025,Consultation,Completed,800
+12105,1569,541,11/13/2024,Emergency,Completed,400
+12106,1298,586,5/23/2024,Consultation,Completed,600
+12107,1610,558,1/18/2025,Routine Checkup,Scheduled,600
+12108,1137,598,8/3/2024,Routine Checkup,Completed,800
+12109,1376,579,12/26/2024,Routine Checkup,Cancelled,500
+12110,1087,510,11/19/2024,Emergency,No Show,400
+12111,1419,515,1/15/2024,Emergency,Completed,500
+12112,1754,542,8/4/2024,Consultation,No Show,1200
+12113,1199,593,5/6/2025,Follow-up,Cancelled,300
+12114,1463,557,6/30/2025,Follow-up,Completed,500
+12115,1437,587,7/1/2024,Routine Checkup,Completed,300
+12116,1310,517,9/26/2024,Follow-up,Scheduled,600
+12117,1596,560,4/11/2025,Routine Checkup,Completed,400
+12118,1754,509,9/3/2025,Consultation,Completed,1000
+12119,1281,536,6/2/2025,Follow-up,Completed,1200
+12120,1323,573,6/25/2025,Follow-up,Scheduled,300
+12121,1764,580,4/11/2025,Routine Checkup,Cancelled,500
+12122,1702,536,10/31/2024,Consultation,Cancelled,1200
+12123,1951,548,5/23/2024,Follow-up,Completed,500
+12124,1942,551,4/20/2024,Follow-up,Scheduled,1200
+12125,1152,597,8/19/2024,Follow-up,No Show,600
+12126,1994,595,11/21/2025,Consultation,Completed,800
+12127,1302,570,8/6/2025,Consultation,Completed,1200
+12128,1278,574,12/22/2025,Follow-up,Scheduled,1000
+12129,1651,580,8/14/2025,Routine Checkup,Scheduled,800
+12130,1688,568,5/14/2025,Routine Checkup,Cancelled,500
+12131,1008,522,8/17/2025,Follow-up,No Show,800
+12132,1807,577,7/7/2025,Consultation,Cancelled,1200
+12133,1235,580,9/29/2024,Follow-up,Completed,1000
+12134,1675,593,12/3/2025,Consultation,Scheduled,1000
+12135,1561,506,6/21/2024,Follow-up,Cancelled,400
+12136,1302,526,1/7/2024,Consultation,No Show,800
+12137,1038,575,6/3/2024,Emergency,Completed,400
+12138,1136,588,6/5/2025,Routine Checkup,Cancelled,500
+12139,1822,593,6/29/2025,Emergency,Scheduled,500
+12140,1421,503,7/1/2025,Routine Checkup,Completed,500
+12141,1219,552,6/1/2025,Consultation,Completed,600
+12142,1348,574,8/2/2024,Emergency,Scheduled,800
+12143,1808,560,5/13/2024,Routine Checkup,Completed,300
+12144,1546,563,10/11/2024,Follow-up,Cancelled,1000
+12145,1864,565,5/5/2024,Consultation,Scheduled,300
+12146,1079,552,3/14/2025,Consultation,Completed,500
+12147,1748,590,11/16/2025,Follow-up,No Show,1200
+12148,1895,576,5/31/2024,Follow-up,Scheduled,1200
+12149,1273,514,11/26/2024,Routine Checkup,Completed,800
+12150,1161,589,6/21/2025,Consultation,Completed,1200
+12151,1687,572,1/17/2025,Routine Checkup,No Show,400
+12152,1878,568,4/24/2024,Follow-up,Completed,300
+12153,1308,528,4/26/2025,Consultation,Completed,1200
+12154,1374,571,10/10/2024,Follow-up,Completed,500
+12155,1976,510,3/15/2024,Routine Checkup,Completed,300
+12156,1733,557,6/14/2024,Routine Checkup,Completed,300
+12157,1009,600,7/7/2024,Routine Checkup,No Show,1000
+12158,1801,566,3/18/2024,Consultation,Scheduled,300
+12159,1444,590,8/24/2025,Follow-up,Completed,500
+12160,1113,550,11/18/2025,Follow-up,Completed,1000
+12161,1989,514,1/21/2024,Routine Checkup,Cancelled,500
+12162,1205,516,7/19/2025,Routine Checkup,Completed,600
+12163,1405,554,7/2/2024,Routine Checkup,Scheduled,1200
+12164,1698,543,8/9/2024,Routine Checkup,Scheduled,600
+12165,1853,542,11/23/2024,Emergency,Scheduled,1200
+12166,1197,581,6/27/2024,Emergency,Completed,600
+12167,1778,522,4/21/2024,Emergency,Completed,300
+12168,1774,568,12/26/2025,Routine Checkup,Completed,800
+12169,1760,519,2/28/2024,Routine Checkup,Completed,500
+12170,1115,566,11/22/2024,Follow-up,Completed,600
+12171,1121,539,9/12/2025,Consultation,No Show,800
+12172,1653,573,10/30/2025,Follow-up,Scheduled,600
+12173,1065,519,7/9/2024,Emergency,No Show,1200
+12174,1276,516,7/18/2024,Follow-up,Scheduled,600
+12175,1825,554,11/7/2024,Routine Checkup,Completed,800
+12176,1239,525,12/8/2025,Emergency,Cancelled,600
+12177,1302,518,2/4/2024,Emergency,Completed,300
+12178,1392,523,1/13/2025,Consultation,Completed,300
+12179,1522,585,1/21/2025,Consultation,Cancelled,1000
+12180,1969,511,8/24/2024,Emergency,Scheduled,300
+12181,1369,539,9/7/2025,Emergency,Cancelled,400
+12182,1233,568,6/2/2025,Follow-up,Completed,1000
+12183,1195,525,10/9/2024,Emergency,Completed,600
+12184,1907,563,1/1/2024,Routine Checkup,Completed,400
+12185,1012,596,4/8/2025,Follow-up,Completed,500
+12186,1906,530,8/17/2024,Routine Checkup,Completed,800
+12187,1921,545,6/20/2024,Routine Checkup,Scheduled,500
+12188,1689,590,3/27/2024,Routine Checkup,Scheduled,400
+12189,1177,561,7/6/2025,Emergency,Completed,300
+12190,1217,600,5/2/2024,Consultation,Scheduled,1200
+12191,1011,551,10/24/2024,Consultation,Completed,600
+12192,1446,598,11/20/2025,Routine Checkup,No Show,1000
+12193,1630,509,7/28/2025,Emergency,Completed,1200
+12194,1164,576,4/28/2025,Follow-up,Scheduled,1200
+12195,1551,502,6/13/2024,Routine Checkup,No Show,600
+12196,1053,505,11/29/2025,Follow-up,Scheduled,300
+12197,1218,562,1/17/2025,Follow-up,Completed,600
+12198,1718,569,7/27/2024,Emergency,Cancelled,800
+12199,1999,552,3/7/2025,Emergency,Completed,1200
+12200,1824,586,1/23/2025,Consultation,Completed,800
+12201,1360,505,7/13/2025,Consultation,Completed,800
+12202,1385,559,8/11/2024,Emergency,No Show,500
+12203,1056,568,1/3/2024,Routine Checkup,No Show,300
+12204,1118,509,1/6/2025,Consultation,Completed,800
+12205,1900,593,11/17/2025,Follow-up,Completed,400
+12206,1253,522,3/21/2025,Routine Checkup,No Show,800
+12207,1798,527,9/2/2025,Follow-up,Completed,1000
+12208,1780,510,4/25/2024,Emergency,Completed,500
+12209,1803,580,9/26/2024,Follow-up,Completed,400
+12210,1845,561,3/22/2025,Routine Checkup,Scheduled,1200
+12211,1180,551,1/2/2025,Emergency,Completed,300
+12212,1415,510,9/9/2024,Routine Checkup,Scheduled,300
+12213,1870,506,11/12/2024,Follow-up,Completed,1000
+12214,1235,562,2/18/2025,Routine Checkup,Completed,1200
+12215,1855,505,4/4/2024,Emergency,Completed,800
+12216,1708,570,1/24/2024,Follow-up,Completed,400
+12217,1820,563,9/19/2025,Follow-up,Completed,1000
+12218,1080,556,10/24/2025,Consultation,Completed,400
+12219,1647,559,2/19/2024,Consultation,Scheduled,800
+12220,1022,563,5/16/2025,Routine Checkup,Completed,1200
+12221,1477,589,12/18/2025,Consultation,Scheduled,800
+12222,1843,559,5/12/2025,Consultation,No Show,600
+12223,1440,551,11/30/2024,Consultation,Scheduled,600
+12224,1737,550,3/19/2024,Consultation,No Show,800
+12225,1570,504,8/4/2025,Emergency,Cancelled,500
+12226,1093,548,1/27/2024,Emergency,Completed,1000
+12227,1192,532,9/27/2024,Consultation,No Show,600
+12228,1103,551,7/15/2025,Routine Checkup,Scheduled,800
+12229,1396,552,9/3/2024,Emergency,Scheduled,400
+12230,1007,599,8/13/2025,Consultation,Scheduled,1000
+12231,1640,574,1/21/2025,Emergency,Cancelled,1200
+12232,1567,534,12/2/2025,Follow-up,Completed,600
+12233,1231,536,7/12/2025,Emergency,Scheduled,1200
+12234,1874,570,12/26/2024,Emergency,Completed,500
+12235,1574,543,5/2/2025,Routine Checkup,Completed,1000
+12236,1240,516,12/17/2024,Emergency,Cancelled,1000
+12237,1090,559,12/1/2025,Routine Checkup,Completed,300
+12238,1232,553,9/12/2024,Follow-up,Completed,400
+12239,1457,519,8/9/2024,Consultation,Scheduled,500
+12240,1233,598,1/1/2024,Routine Checkup,Scheduled,500
+12241,1354,589,6/29/2025,Emergency,Scheduled,1200
+12242,1333,595,3/21/2025,Emergency,Completed,500
+12243,1439,541,3/19/2024,Routine Checkup,No Show,400
+12244,1375,581,8/23/2024,Follow-up,Completed,500
+12245,1292,547,11/29/2024,Consultation,Scheduled,300
+12246,1345,594,12/14/2024,Emergency,Completed,600
+12247,1664,554,4/7/2024,Follow-up,Completed,400
+12248,1428,555,3/22/2024,Consultation,Cancelled,500
+12249,1657,595,5/16/2025,Consultation,Scheduled,800
+12250,1130,519,4/21/2025,Emergency,Completed,600
+12251,1141,562,12/4/2025,Routine Checkup,Completed,1200
+12252,1415,599,7/3/2025,Emergency,Completed,1000
+12253,1093,593,1/14/2024,Emergency,Completed,400
+12254,1626,559,1/26/2025,Emergency,Cancelled,800
+12255,1284,565,12/12/2024,Follow-up,Completed,1000
+12256,1956,568,11/5/2024,Routine Checkup,Completed,800
+12257,1923,528,1/20/2025,Follow-up,Completed,500
+12258,1655,518,7/27/2024,Emergency,Completed,400
+12259,1223,526,12/22/2024,Routine Checkup,Cancelled,1200
+12260,1744,519,8/23/2025,Consultation,Scheduled,500
+12261,1463,555,7/21/2025,Routine Checkup,Completed,1000
+12262,1545,557,4/3/2024,Emergency,Completed,1200
+12263,1276,506,4/2/2024,Routine Checkup,Cancelled,300
+12264,1682,501,12/5/2024,Consultation,Completed,800
+12265,1140,508,8/19/2025,Consultation,Completed,300
+12266,1357,597,3/20/2025,Routine Checkup,Completed,1000
+12267,1713,551,1/22/2024,Consultation,Completed,500
+12268,1023,585,10/17/2024,Follow-up,Completed,1200
+12269,1968,588,4/29/2025,Routine Checkup,Scheduled,1200
+12270,1736,525,11/1/2024,Consultation,Scheduled,1200
+12271,1880,547,9/25/2025,Consultation,Scheduled,600
+12272,1270,555,5/7/2024,Routine Checkup,Completed,800
+12273,1859,564,9/16/2025,Follow-up,Scheduled,600
+12274,1665,583,9/29/2024,Routine Checkup,No Show,400
+12275,1333,593,3/17/2025,Consultation,Cancelled,800
+12276,1085,510,5/17/2025,Routine Checkup,Completed,300
+12277,1621,556,5/9/2024,Consultation,Cancelled,600
+12278,1031,512,5/11/2024,Emergency,Completed,1000
+12279,1741,533,8/19/2025,Routine Checkup,Cancelled,400
+12280,1240,571,4/26/2025,Routine Checkup,Completed,800
+12281,1890,517,1/24/2025,Consultation,Scheduled,1200
+12282,1363,561,8/15/2025,Consultation,Cancelled,1000
+12283,1822,510,11/20/2024,Consultation,Completed,400
+12284,1389,531,3/9/2024,Consultation,Completed,300
+12285,1653,560,10/21/2025,Routine Checkup,Completed,1200
+12286,1668,570,3/23/2025,Consultation,Completed,1000
+12287,1299,517,6/11/2025,Routine Checkup,Completed,800
+12288,1857,550,9/8/2025,Follow-up,Completed,400
+12289,1371,537,6/13/2024,Routine Checkup,Completed,500
+12290,1099,582,5/2/2025,Consultation,No Show,800
+12291,1047,562,12/13/2025,Consultation,Completed,800
+12292,1999,590,12/9/2025,Follow-up,Completed,1200
+12293,1839,580,3/1/2025,Routine Checkup,Completed,800
+12294,1422,572,11/27/2025,Follow-up,Completed,1200
+12295,1480,588,9/21/2024,Routine Checkup,Completed,800
+12296,1579,577,9/3/2025,Consultation,Cancelled,500
+12297,1062,529,12/7/2024,Routine Checkup,Completed,1000
+12298,1109,532,12/26/2025,Consultation,Cancelled,1000
+12299,1679,588,10/4/2024,Consultation,Scheduled,1000
+12300,1549,580,11/4/2025,Emergency,Completed,300
+12301,1119,511,3/14/2025,Emergency,Completed,500
+12302,1598,596,6/5/2024,Routine Checkup,Completed,500
+12303,1382,506,2/25/2025,Consultation,Scheduled,400
+12304,1392,535,9/7/2024,Follow-up,Completed,600
+12305,1977,533,8/31/2025,Consultation,Cancelled,1000
+12306,1052,518,6/13/2025,Follow-up,Scheduled,600
+12307,1603,537,11/22/2024,Routine Checkup,Cancelled,400
+12308,1289,513,4/6/2024,Routine Checkup,Completed,500
+12309,1337,574,5/27/2025,Follow-up,Completed,400
+12310,1810,590,8/3/2024,Follow-up,Scheduled,800
+12311,1204,581,5/11/2024,Consultation,Scheduled,400
+12312,1880,564,9/16/2024,Routine Checkup,No Show,400
+12313,1238,501,5/4/2024,Consultation,No Show,1200
+12314,1382,563,3/22/2024,Follow-up,Scheduled,800
+12315,1667,589,10/9/2024,Emergency,Cancelled,1200
+12316,1752,534,11/13/2025,Emergency,Scheduled,600
+12317,1136,510,2/28/2024,Emergency,Completed,800
+12318,1407,584,6/27/2025,Follow-up,Cancelled,300
+12319,1508,507,6/9/2024,Consultation,Completed,400
+12320,1362,556,10/10/2024,Routine Checkup,Completed,400
+12321,1381,580,4/15/2024,Follow-up,Scheduled,1200
+12322,1881,537,4/14/2024,Emergency,Completed,600
+12323,1576,529,3/14/2025,Consultation,Completed,1200
+12324,1635,512,8/15/2024,Routine Checkup,Completed,500
+12325,1254,517,11/30/2025,Routine Checkup,Scheduled,800
+12326,1477,548,8/4/2025,Follow-up,Scheduled,500
+12327,1114,584,11/13/2024,Follow-up,Completed,300
+12328,1020,526,4/8/2025,Routine Checkup,Completed,800
+12329,1528,583,8/21/2025,Routine Checkup,Completed,300
+12330,1145,512,4/16/2025,Emergency,Completed,300
+12331,1208,521,2/25/2024,Routine Checkup,Completed,300
+12332,1531,542,9/16/2025,Follow-up,Scheduled,1000
+12333,1376,561,1/13/2024,Consultation,Completed,800
+12334,1504,558,3/15/2025,Emergency,Completed,800
+12335,1904,554,1/18/2024,Emergency,Completed,1000
+12336,1166,534,11/24/2025,Routine Checkup,Completed,600
+12337,1550,507,4/22/2024,Consultation,Completed,1000
+12338,1181,535,8/16/2024,Emergency,Cancelled,400
+12339,1861,515,6/19/2024,Follow-up,Completed,500
+12340,1617,565,10/21/2024,Routine Checkup,Scheduled,500
+12341,1612,590,7/7/2024,Follow-up,Cancelled,300
+12342,1602,599,3/1/2025,Routine Checkup,Completed,800
+12343,1927,525,3/19/2024,Emergency,Completed,800
+12344,1812,559,10/19/2025,Routine Checkup,Scheduled,300
+12345,1444,579,6/30/2024,Consultation,Completed,400
+12346,1332,586,5/13/2025,Follow-up,Cancelled,500
+12347,1503,506,12/8/2025,Consultation,No Show,1000
+12348,1913,552,3/11/2024,Follow-up,Completed,600
+12349,1079,579,9/4/2024,Follow-up,Cancelled,1200
+12350,1585,588,5/25/2024,Routine Checkup,Scheduled,400
+12351,1935,521,9/9/2025,Emergency,Completed,800
+12352,1938,571,10/22/2024,Emergency,Scheduled,1200
+12353,1688,593,8/4/2025,Consultation,Completed,300
+12354,1396,596,4/14/2025,Routine Checkup,Completed,500
+12355,1608,532,5/20/2025,Emergency,Cancelled,1200
+12356,1857,553,7/11/2024,Follow-up,Scheduled,300
+12357,1103,559,3/8/2024,Follow-up,No Show,800
+12358,1402,569,5/8/2025,Routine Checkup,Completed,300
+12359,1975,562,2/21/2024,Consultation,Completed,1000
+12360,1224,504,12/28/2024,Routine Checkup,Completed,1200
+12361,1518,586,4/18/2025,Consultation,Completed,1200
+12362,1634,518,6/4/2025,Routine Checkup,Completed,500
+12363,1236,599,3/6/2025,Follow-up,Completed,300
+12364,1427,581,10/24/2024,Routine Checkup,Completed,500
+12365,1116,556,3/10/2025,Emergency,Completed,1200
+12366,1163,524,11/26/2025,Emergency,Completed,300
+12367,1226,566,11/21/2025,Routine Checkup,No Show,300
+12368,1230,513,7/16/2024,Consultation,Scheduled,500
+12369,1182,562,5/7/2024,Consultation,Completed,1000
+12370,1249,554,6/15/2025,Follow-up,Scheduled,300
+12371,1318,515,2/14/2025,Follow-up,Cancelled,1000
+12372,1965,569,3/5/2024,Consultation,Scheduled,400
+12373,1210,503,11/24/2025,Routine Checkup,Completed,600
+12374,1656,537,8/28/2024,Follow-up,Completed,400
+12375,1392,537,1/3/2025,Consultation,Scheduled,600
+12376,1857,503,6/19/2025,Consultation,Completed,400
+12377,1096,563,1/18/2025,Routine Checkup,No Show,600
+12378,1894,535,3/6/2025,Emergency,Scheduled,300
+12379,1858,552,3/23/2024,Consultation,No Show,500
+12380,1756,587,11/27/2025,Follow-up,Completed,500
+12381,1086,528,9/2/2025,Routine Checkup,Completed,800
+12382,1415,594,7/27/2025,Routine Checkup,Completed,600
+12383,1394,518,10/12/2024,Routine Checkup,No Show,800
+12384,1696,536,6/17/2025,Emergency,Completed,1000
+12385,1633,533,4/3/2025,Emergency,Cancelled,1000
+12386,1844,564,7/30/2024,Follow-up,Completed,800
+12387,1501,526,5/5/2024,Follow-up,Completed,600
+12388,1604,548,2/16/2025,Routine Checkup,Completed,500
+12389,1582,540,5/13/2025,Follow-up,Completed,600
+12390,1916,517,2/28/2025,Consultation,Scheduled,1000
+12391,1133,540,7/7/2025,Emergency,Completed,300
+12392,1791,507,9/1/2025,Routine Checkup,Scheduled,800
+12393,1649,557,6/26/2025,Routine Checkup,Cancelled,800
+12394,1314,508,6/6/2024,Consultation,Cancelled,1000
+12395,1699,556,4/21/2024,Consultation,Cancelled,600
+12396,1221,531,2/5/2025,Consultation,Completed,800
+12397,1976,559,5/1/2024,Consultation,Completed,500
+12398,1438,558,9/29/2024,Routine Checkup,Scheduled,800
+12399,1046,512,10/20/2024,Emergency,Completed,600
+12400,1790,548,2/1/2025,Emergency,Completed,1000
+12401,1192,531,4/15/2025,Consultation,Completed,500
+12402,1520,583,7/25/2024,Follow-up,Scheduled,500
+12403,1379,563,4/19/2024,Routine Checkup,Completed,800
+12404,1788,574,3/15/2025,Emergency,Completed,600
+12405,1691,539,10/4/2024,Consultation,Completed,800
+12406,1334,576,7/21/2025,Follow-up,No Show,1200
+12407,1039,520,7/22/2025,Follow-up,Completed,300
+12408,1293,548,4/26/2025,Consultation,Cancelled,1000
+12409,1690,571,4/23/2024,Routine Checkup,Cancelled,1200
+12410,1162,554,4/21/2025,Emergency,Scheduled,300
+12411,1331,578,12/10/2025,Follow-up,Completed,500
+12412,1886,575,11/16/2024,Emergency,Scheduled,800
+12413,1104,571,6/27/2024,Emergency,Completed,300
+12414,1161,529,8/6/2024,Follow-up,Completed,400
+12415,1799,574,6/11/2025,Consultation,Scheduled,300
+12416,1635,593,5/6/2025,Follow-up,Scheduled,800
+12417,1054,573,3/1/2024,Follow-up,Cancelled,800
+12418,1940,600,2/23/2024,Routine Checkup,Scheduled,1000
+12419,1034,548,11/10/2025,Emergency,Completed,300
+12420,1242,574,6/21/2025,Consultation,No Show,800
+12421,1967,583,3/5/2024,Emergency,Completed,800
+12422,1890,556,9/3/2025,Follow-up,Cancelled,1200
+12423,1113,595,8/8/2025,Consultation,Completed,1000
+12424,1318,517,12/4/2025,Consultation,Completed,1200
+12425,1023,509,6/19/2024,Consultation,Completed,1000
+12426,1558,597,9/29/2024,Consultation,Completed,1000
+12427,1824,534,11/29/2025,Routine Checkup,Completed,1200
+12428,1647,545,6/18/2025,Consultation,Completed,1000
+12429,1118,588,1/25/2025,Follow-up,Completed,400
+12430,1985,509,11/23/2025,Routine Checkup,Cancelled,500
+12431,1701,507,11/22/2024,Follow-up,Completed,800
+12432,1643,516,4/17/2024,Follow-up,Completed,600
+12433,1934,519,6/10/2024,Emergency,Completed,1000
+12434,1212,506,3/27/2025,Consultation,Completed,500
+12435,1418,511,7/24/2024,Consultation,Scheduled,1000
+12436,1113,576,8/12/2025,Follow-up,No Show,500
+12437,1044,561,1/16/2024,Consultation,Completed,600
+12438,1128,542,11/22/2024,Routine Checkup,Cancelled,300
+12439,1876,513,8/30/2025,Emergency,Scheduled,400
+12440,1158,512,10/20/2025,Consultation,Completed,800
+12441,1785,585,1/2/2024,Consultation,Cancelled,300
+12442,1827,574,1/10/2024,Routine Checkup,Completed,1200
+12443,1394,520,3/9/2025,Emergency,Completed,600
+12444,1867,550,5/4/2024,Routine Checkup,Completed,400
+12445,1852,536,3/21/2024,Follow-up,Completed,400
+12446,1512,592,4/29/2025,Follow-up,Cancelled,400
+12447,1914,588,10/13/2025,Consultation,Completed,600
+12448,1045,569,5/29/2024,Emergency,Completed,1000
+12449,1108,537,12/5/2024,Follow-up,Completed,1000
+12450,1219,512,5/8/2024,Routine Checkup,Scheduled,1200
+12451,1443,599,3/13/2025,Follow-up,Scheduled,1000
+12452,1830,540,5/15/2025,Follow-up,Cancelled,300
+12453,1315,554,2/27/2024,Routine Checkup,Completed,800
+12454,1177,502,7/16/2024,Consultation,Cancelled,400
+12455,1228,550,7/29/2024,Emergency,Completed,1200
+12456,1703,541,2/14/2024,Consultation,Completed,1200
+12457,1983,545,4/6/2024,Routine Checkup,Completed,400
+12458,1672,509,10/5/2024,Follow-up,Completed,300
+12459,1906,562,6/18/2025,Emergency,Cancelled,1000
+12460,1267,586,2/13/2025,Consultation,No Show,400
+12461,1870,547,4/5/2025,Routine Checkup,Scheduled,400
+12462,1838,505,1/25/2025,Follow-up,Completed,600
+12463,1379,576,2/13/2024,Follow-up,Completed,500
+12464,1489,501,1/27/2024,Consultation,Completed,1200
+12465,1702,544,4/6/2024,Routine Checkup,Scheduled,300
+12466,1687,522,7/1/2025,Follow-up,Scheduled,300
+12467,1290,538,9/12/2025,Follow-up,No Show,1000
+12468,1996,519,7/20/2025,Emergency,Completed,300
+12469,1357,580,12/4/2025,Follow-up,Scheduled,1000
+12470,1657,531,8/6/2024,Consultation,Cancelled,600
+12471,1744,567,7/3/2024,Routine Checkup,Scheduled,600
+12472,1872,587,3/9/2024,Routine Checkup,Scheduled,800
+12473,1950,542,5/9/2024,Emergency,Cancelled,1000
+12474,1204,582,7/20/2025,Routine Checkup,Cancelled,1200
+12475,1213,526,8/31/2025,Consultation,Scheduled,600
+12476,1552,513,8/21/2025,Follow-up,Completed,1000
+12477,1787,558,9/22/2025,Emergency,Completed,1200
+12478,1323,518,12/20/2025,Routine Checkup,Completed,1200
+12479,1594,567,11/29/2024,Emergency,Completed,300
+12480,1181,587,6/2/2024,Emergency,Cancelled,800
+12481,1499,503,6/30/2025,Routine Checkup,Completed,500
+12482,1320,555,3/19/2024,Emergency,Completed,400
+12483,1083,589,8/1/2025,Routine Checkup,Completed,400
+12484,1303,591,2/16/2025,Consultation,Cancelled,800
+12485,1262,558,6/29/2025,Routine Checkup,Completed,1000
+12486,1784,563,8/31/2025,Follow-up,Completed,1000
+12487,1200,591,6/17/2024,Routine Checkup,Completed,1000
+12488,1240,552,11/11/2025,Follow-up,Completed,500
+12489,1914,589,10/24/2025,Emergency,Scheduled,1200
+12490,1692,524,8/5/2025,Routine Checkup,Completed,400
+12491,1944,572,5/29/2025,Follow-up,Scheduled,800
+12492,1683,509,11/9/2024,Routine Checkup,Cancelled,1000
+12493,1295,537,2/1/2024,Routine Checkup,No Show,600
+12494,1512,594,10/13/2024,Routine Checkup,Completed,300
+12495,1689,583,8/16/2025,Consultation,Completed,500
+12496,1881,553,2/12/2024,Follow-up,Completed,1000
+12497,1396,580,9/8/2025,Consultation,Completed,400
+12498,1749,524,1/1/2024,Consultation,Scheduled,300
+12499,1138,521,7/26/2025,Follow-up,Completed,800
+12500,1839,600,9/26/2024,Routine Checkup,Completed,1000
+12501,1878,540,6/28/2024,Consultation,Scheduled,400
+12502,1823,562,6/1/2025,Consultation,Cancelled,300
+12503,1129,570,4/12/2024,Consultation,Completed,600
+12504,1049,569,1/10/2024,Routine Checkup,Completed,500
+12505,1676,514,8/5/2025,Consultation,Completed,800
+12506,1789,542,3/30/2024,Emergency,No Show,400
+12507,1293,550,8/13/2024,Follow-up,Scheduled,1200
+12508,1628,561,10/31/2025,Emergency,Scheduled,600
+12509,1536,504,5/5/2024,Routine Checkup,No Show,500
+12510,1311,572,7/27/2024,Consultation,Completed,500
+12511,1537,588,4/6/2024,Follow-up,Completed,1200
+12512,1903,575,3/14/2024,Consultation,Completed,600
+12513,1639,517,9/18/2025,Routine Checkup,Scheduled,400
+12514,1234,585,7/9/2024,Follow-up,Scheduled,500
+12515,1209,557,11/12/2025,Emergency,Completed,800
+12516,1605,590,12/16/2025,Follow-up,Completed,300
+12517,1094,548,2/25/2024,Consultation,No Show,800
+12518,1327,544,12/20/2025,Follow-up,Completed,1000
+12519,1225,545,7/6/2025,Routine Checkup,Scheduled,500
+12520,1967,591,2/1/2024,Routine Checkup,Completed,300
+12521,1890,580,6/10/2025,Follow-up,Completed,600
+12522,1792,590,7/27/2025,Routine Checkup,Completed,300
+12523,1011,533,10/28/2025,Routine Checkup,Cancelled,300
+12524,1329,531,10/10/2024,Routine Checkup,Cancelled,1200
+12525,1012,547,12/21/2025,Emergency,Completed,300
+12526,1035,506,5/8/2025,Consultation,Scheduled,500
+12527,1447,572,7/5/2024,Routine Checkup,Cancelled,1200
+12528,1452,571,5/12/2025,Follow-up,Scheduled,1200
+12529,1740,534,3/17/2025,Routine Checkup,Completed,1000
+12530,1220,553,5/9/2024,Emergency,Scheduled,1000
+12531,1441,514,9/30/2025,Follow-up,Completed,1200
+12532,1653,516,10/18/2024,Consultation,Completed,1200
+12533,1535,543,4/23/2024,Follow-up,Completed,400
+12534,1595,573,7/17/2024,Follow-up,Completed,1000
+12535,1229,574,1/13/2024,Follow-up,Scheduled,500
+12536,1935,581,9/27/2024,Follow-up,Completed,400
+12537,1344,512,8/23/2025,Routine Checkup,Completed,600
+12538,1080,570,8/2/2024,Consultation,Scheduled,600
+12539,1353,519,3/19/2025,Routine Checkup,Cancelled,600
+12540,1396,541,5/26/2025,Emergency,Scheduled,600
+12541,1290,553,3/22/2025,Emergency,Completed,600
+12542,1455,529,12/15/2025,Follow-up,Scheduled,800
+12543,1843,570,3/14/2024,Routine Checkup,Completed,1200
+12544,1671,559,6/20/2025,Routine Checkup,No Show,500
+12545,1989,589,4/10/2024,Consultation,Cancelled,400
+12546,1128,564,6/24/2024,Consultation,Scheduled,600
+12547,1702,524,3/2/2025,Consultation,Completed,800
+12548,1909,589,4/26/2024,Routine Checkup,Completed,1000
+12549,1543,516,6/14/2024,Consultation,Completed,800
+12550,1898,552,2/10/2024,Consultation,Completed,800
+12551,1359,580,3/4/2025,Consultation,Completed,500
+12552,1527,506,12/9/2024,Follow-up,Scheduled,600
+12553,1313,537,2/27/2025,Emergency,Completed,800
+12554,1075,585,12/31/2024,Emergency,Scheduled,1200
+12555,1546,504,4/29/2024,Routine Checkup,Completed,800
+12556,1871,598,8/31/2025,Routine Checkup,Completed,600
+12557,1196,592,10/18/2025,Follow-up,Scheduled,500
+12558,1843,538,12/28/2025,Emergency,Scheduled,800
+12559,1029,541,8/16/2024,Consultation,Completed,400
+12560,1706,592,5/9/2024,Consultation,Completed,300
+12561,1016,581,12/17/2024,Routine Checkup,Cancelled,1000
+12562,1423,514,11/13/2024,Emergency,Completed,300
+12563,1589,571,10/10/2025,Routine Checkup,Completed,300
+12564,1805,586,12/2/2024,Routine Checkup,Cancelled,500
+12565,1593,551,9/29/2024,Consultation,Completed,800
+12566,1405,565,4/26/2024,Consultation,Completed,300
+12567,1940,593,1/2/2025,Emergency,No Show,300
+12568,1636,552,4/3/2024,Routine Checkup,Scheduled,1000
+12569,1531,595,6/16/2024,Follow-up,Completed,600
+12570,1967,530,12/15/2025,Emergency,Completed,1200
+12571,1614,557,12/6/2024,Routine Checkup,Completed,1200
+12572,1904,579,10/22/2025,Emergency,Scheduled,800
+12573,1077,582,11/25/2025,Emergency,Cancelled,800
+12574,1229,599,5/31/2024,Emergency,Completed,1000
+12575,1962,530,8/8/2025,Follow-up,Completed,600
+12576,1297,598,9/30/2024,Follow-up,Completed,800
+12577,1510,542,7/7/2025,Consultation,Completed,1200
+12578,1715,511,5/10/2025,Consultation,Scheduled,1200
+12579,1984,527,12/24/2025,Routine Checkup,Completed,400
+12580,1966,524,4/10/2024,Emergency,Completed,1000
+12581,1573,599,7/10/2025,Routine Checkup,Completed,500
+12582,1538,539,3/22/2024,Consultation,Completed,600
+12583,1583,572,6/12/2025,Follow-up,Completed,1000
+12584,1615,518,3/13/2024,Consultation,Cancelled,300
+12585,1979,577,1/14/2024,Routine Checkup,Scheduled,800
+12586,1326,545,3/8/2025,Consultation,No Show,400
+12587,1363,588,6/5/2024,Routine Checkup,No Show,1200
+12588,1669,587,5/11/2024,Routine Checkup,Cancelled,400
+12589,1875,512,12/3/2024,Routine Checkup,Scheduled,500
+12590,1359,549,2/7/2025,Routine Checkup,No Show,1000
+12591,1706,594,1/10/2025,Consultation,Completed,400
+12592,1787,531,7/12/2025,Routine Checkup,Completed,1000
+12593,1324,592,4/16/2024,Routine Checkup,Completed,800
+12594,1698,522,9/11/2025,Emergency,Cancelled,800
+12595,1326,544,9/21/2024,Routine Checkup,Scheduled,1200
+12596,1625,592,7/23/2024,Consultation,Completed,400
+12597,1825,564,3/19/2024,Routine Checkup,Completed,800
+12598,1165,577,6/3/2024,Follow-up,Completed,1000
+12599,1573,525,9/3/2024,Follow-up,Completed,1200
+12600,1604,551,6/14/2025,Routine Checkup,Completed,800
+12601,1798,507,6/21/2025,Follow-up,Completed,1200
+12602,1455,506,12/29/2025,Follow-up,Completed,300
+12603,1969,524,6/2/2024,Consultation,Scheduled,1000
+12604,1153,519,6/2/2024,Emergency,Scheduled,1200
+12605,1737,583,11/16/2025,Follow-up,Scheduled,600
+12606,1127,600,4/1/2024,Follow-up,Scheduled,800
+12607,1193,509,3/8/2025,Emergency,Scheduled,800
+12608,1627,536,12/3/2024,Emergency,Scheduled,1000
+12609,1774,540,4/24/2025,Follow-up,Cancelled,500
+12610,1530,593,11/23/2025,Routine Checkup,Cancelled,600
+12611,1010,524,5/10/2024,Follow-up,Completed,1200
+12612,1092,548,3/25/2025,Routine Checkup,Completed,600
+12613,1139,563,9/29/2024,Routine Checkup,Scheduled,1200
+12614,1481,569,8/10/2025,Routine Checkup,Completed,600
+12615,1449,553,6/25/2024,Emergency,Completed,400
+12616,1333,554,11/26/2025,Follow-up,Completed,300
+12617,1869,542,10/4/2025,Follow-up,Completed,300
+12618,1340,545,2/18/2024,Consultation,No Show,500
+12619,1961,590,7/20/2025,Emergency,Completed,600
+12620,1052,514,10/27/2025,Consultation,Completed,600
+12621,1707,529,12/20/2024,Consultation,Completed,800
+12622,1466,506,12/12/2025,Routine Checkup,Scheduled,1200
+12623,1718,507,11/3/2024,Emergency,Cancelled,1000
+12624,1799,537,9/21/2025,Consultation,Cancelled,400
+12625,1475,553,2/15/2024,Follow-up,Scheduled,400
+12626,1401,518,10/28/2024,Consultation,Completed,500
+12627,1439,587,2/11/2025,Emergency,Completed,300
+12628,1878,538,7/7/2024,Follow-up,Completed,600
+12629,1605,559,5/8/2024,Follow-up,Scheduled,1000
+12630,1932,501,7/14/2025,Follow-up,Cancelled,500
+12631,1997,568,6/20/2025,Routine Checkup,Completed,1200
+12632,1922,544,9/22/2024,Follow-up,Completed,400
+12633,1821,547,4/27/2024,Routine Checkup,Completed,400
+12634,1657,535,4/8/2025,Routine Checkup,Cancelled,400
+12635,1598,587,5/23/2024,Consultation,Completed,600
+12636,1509,591,3/17/2025,Consultation,Completed,600
+12637,1153,560,7/18/2024,Follow-up,Completed,600
+12638,1514,590,6/5/2024,Emergency,Scheduled,800
+12639,1503,552,5/1/2025,Follow-up,Scheduled,300
+12640,1854,508,5/13/2024,Consultation,Completed,1200
+12641,1901,580,5/27/2024,Follow-up,Scheduled,400
+12642,1772,541,12/1/2024,Consultation,Completed,400
+12643,1676,503,3/11/2024,Follow-up,No Show,800
+12644,1006,596,8/20/2024,Emergency,Completed,400
+12645,1500,569,11/29/2024,Follow-up,Cancelled,1200
+12646,1661,584,10/27/2025,Emergency,Completed,400
+12647,1717,514,3/30/2024,Emergency,Completed,600
+12648,1118,596,11/29/2024,Follow-up,Scheduled,600
+12649,1485,526,7/17/2024,Emergency,Completed,300
+12650,1601,570,6/9/2024,Emergency,Completed,1200
+12651,1666,558,6/21/2025,Consultation,Completed,1200
+12652,1951,600,4/30/2024,Consultation,Completed,400
+12653,1679,540,10/27/2024,Emergency,Completed,500
+12654,1468,551,12/24/2025,Routine Checkup,Completed,400
+12655,1161,505,7/28/2025,Follow-up,Scheduled,400
+12656,1270,577,3/11/2025,Emergency,Scheduled,300
+12657,1056,532,3/8/2024,Follow-up,Completed,500
+12658,1228,580,4/3/2025,Consultation,Cancelled,400
+12659,1849,501,5/28/2025,Follow-up,Scheduled,1000
+12660,1149,577,2/1/2025,Emergency,Completed,1000
+12661,1046,554,9/11/2025,Emergency,Completed,1200
+12662,1144,511,10/12/2024,Emergency,Scheduled,1200
+12663,1750,553,7/14/2025,Emergency,Cancelled,500
+12664,1784,508,5/19/2024,Routine Checkup,Completed,1000
+12665,1632,525,12/30/2025,Routine Checkup,Completed,600
+12666,1340,540,7/9/2025,Routine Checkup,Completed,600
+12667,1413,532,8/12/2025,Emergency,No Show,500
+12668,1732,588,12/28/2025,Routine Checkup,Completed,400
+12669,1520,528,9/1/2025,Follow-up,No Show,1200
+12670,1344,578,10/8/2024,Emergency,Completed,500
+12671,1387,503,10/22/2025,Consultation,Completed,1000
+12672,1473,600,7/31/2025,Emergency,Completed,500
+12673,1275,591,4/1/2025,Follow-up,Cancelled,1000
+12674,1353,584,3/27/2024,Routine Checkup,Completed,1200
+12675,1066,579,3/19/2024,Emergency,Completed,600
+12676,1079,562,7/23/2024,Routine Checkup,Scheduled,500
+12677,1598,527,12/2/2024,Emergency,No Show,1200
+12678,1636,545,9/10/2024,Follow-up,Completed,1200
+12679,1202,592,10/30/2024,Emergency,Completed,800
+12680,1978,525,1/14/2025,Routine Checkup,Scheduled,1000
+12681,1662,561,5/9/2024,Routine Checkup,Cancelled,800
+12682,1558,544,8/18/2025,Follow-up,Completed,600
+12683,1113,597,10/2/2024,Emergency,No Show,1200
+12684,1091,546,11/29/2025,Consultation,Completed,1200
+12685,1141,514,7/11/2025,Emergency,Cancelled,400
+12686,1289,508,7/1/2024,Follow-up,Completed,1000
+12687,1901,548,9/24/2024,Consultation,Cancelled,400
+12688,1730,514,11/17/2024,Follow-up,Completed,600
+12689,1589,565,5/26/2025,Emergency,Scheduled,400
+12690,1411,580,9/3/2025,Consultation,No Show,1200
+12691,1377,582,3/18/2024,Follow-up,Completed,1000
+12692,1384,507,12/4/2024,Routine Checkup,Completed,300
+12693,1846,579,11/4/2025,Consultation,Completed,1000
+12694,1152,588,7/9/2025,Consultation,Scheduled,1000
+12695,1835,549,5/23/2025,Follow-up,No Show,800
+12696,1751,555,8/25/2024,Routine Checkup,Scheduled,300
+12697,1627,513,5/13/2024,Consultation,Completed,300
+12698,1319,573,7/10/2024,Follow-up,No Show,300
+12699,1369,556,12/21/2024,Consultation,Completed,1000
+12700,1606,556,10/4/2024,Consultation,Completed,600
+12701,1995,515,1/18/2024,Consultation,Completed,300
+12702,1560,557,6/7/2025,Routine Checkup,Completed,500
+12703,1703,558,6/28/2024,Emergency,Scheduled,400
+12704,1462,535,5/2/2024,Emergency,Scheduled,600
+12705,1012,588,9/2/2024,Routine Checkup,Completed,500
+12706,1156,597,1/7/2025,Routine Checkup,Completed,1000
+12707,1684,516,2/20/2024,Follow-up,Completed,1000
+12708,1477,508,3/11/2024,Consultation,Cancelled,500
+12709,1939,593,4/24/2025,Routine Checkup,Completed,800
+12710,1401,587,7/13/2025,Follow-up,Completed,800
+12711,1808,545,1/19/2024,Emergency,Cancelled,500
+12712,1177,595,3/24/2024,Emergency,Scheduled,800
+12713,1341,540,6/3/2024,Emergency,No Show,400
+12714,1057,554,7/18/2025,Emergency,No Show,400
+12715,1855,514,9/10/2025,Follow-up,Scheduled,1000
+12716,1852,559,12/22/2024,Consultation,Completed,800
+12717,1448,594,10/8/2025,Follow-up,Scheduled,300
+12718,1203,553,3/18/2025,Consultation,Completed,500
+12719,1697,527,3/9/2024,Emergency,Scheduled,400
+12720,1633,547,6/6/2025,Routine Checkup,Completed,1200
+12721,1738,580,5/22/2024,Routine Checkup,Scheduled,800
+12722,1202,506,7/10/2024,Routine Checkup,Completed,1200
+12723,1330,555,1/21/2025,Consultation,Completed,800
+12724,1363,597,1/12/2025,Emergency,Cancelled,400
+12725,1892,544,8/3/2025,Follow-up,Completed,400
+12726,1454,518,6/18/2025,Routine Checkup,No Show,300
+12727,1356,516,11/23/2025,Consultation,Completed,800
+12728,1216,512,10/19/2024,Routine Checkup,Cancelled,800
+12729,1972,520,1/9/2024,Follow-up,No Show,600
+12730,1555,545,9/27/2024,Emergency,Cancelled,1000
+12731,1887,564,1/21/2025,Follow-up,Completed,300
+12732,1023,559,4/2/2024,Emergency,Completed,400
+12733,1155,593,6/12/2025,Emergency,Completed,1200
+12734,1186,594,6/2/2024,Emergency,Scheduled,400
+12735,1249,590,2/8/2025,Routine Checkup,Scheduled,500
+12736,1749,522,5/28/2024,Follow-up,No Show,1000
+12737,1805,597,9/23/2024,Routine Checkup,Completed,400
+12738,1134,547,2/25/2025,Follow-up,Completed,800
+12739,1321,529,9/9/2025,Consultation,Completed,400
+12740,1390,586,4/16/2025,Consultation,Scheduled,800
+12741,1434,545,6/30/2025,Follow-up,Completed,800
+12742,1022,577,9/22/2025,Follow-up,Completed,300
+12743,1873,509,6/9/2025,Follow-up,Cancelled,400
+12744,1600,524,5/17/2025,Follow-up,Completed,300
+12745,1665,515,1/14/2024,Emergency,Scheduled,1200
+12746,1125,536,10/13/2025,Routine Checkup,Completed,1200
+12747,1079,513,12/29/2024,Emergency,Completed,1000
+12748,1858,591,4/28/2024,Routine Checkup,Completed,800
+12749,1968,544,8/25/2024,Routine Checkup,Scheduled,1200
+12750,1051,571,6/29/2025,Routine Checkup,Completed,1000
+12751,1728,572,6/17/2024,Emergency,Completed,400
+12752,1176,578,6/5/2025,Follow-up,Completed,1000
+12753,1870,576,9/25/2025,Emergency,Completed,1000
+12754,1253,536,10/18/2025,Emergency,Scheduled,400
+12755,1966,561,5/30/2025,Routine Checkup,Completed,300
+12756,1246,581,1/31/2025,Consultation,No Show,300
+12757,1739,540,4/15/2024,Consultation,Completed,800
+12758,1106,593,3/25/2024,Emergency,Scheduled,800
+12759,1193,527,8/1/2024,Routine Checkup,Scheduled,400
+12760,1316,501,4/30/2024,Emergency,Cancelled,400
+12761,1302,534,5/11/2024,Emergency,Cancelled,600
+12762,1548,568,7/15/2024,Follow-up,Completed,600
+12763,1954,588,1/19/2024,Routine Checkup,Cancelled,500
+12764,1716,521,10/3/2025,Consultation,Completed,1200
+12765,1934,533,1/12/2024,Consultation,Completed,800
+12766,1779,507,3/21/2024,Consultation,Scheduled,1000
+12767,1268,565,11/25/2024,Emergency,Completed,1200
+12768,1170,503,1/26/2025,Routine Checkup,Scheduled,500
+12769,1551,551,9/28/2025,Follow-up,Completed,1200
+12770,1455,579,11/2/2024,Consultation,Completed,500
+12771,1651,595,9/23/2024,Routine Checkup,No Show,300
+12772,1292,554,3/22/2025,Consultation,Scheduled,1000
+12773,1564,580,3/16/2025,Follow-up,Cancelled,300
+12774,1799,574,10/13/2025,Routine Checkup,Scheduled,600
+12775,1801,593,1/2/2024,Emergency,No Show,500
+12776,1141,559,6/3/2025,Emergency,Completed,1200
+12777,1146,506,10/12/2025,Consultation,Cancelled,600
+12778,1425,529,9/27/2025,Consultation,Completed,1000
+12779,1314,517,11/4/2024,Routine Checkup,Completed,1000
+12780,1184,560,6/5/2025,Follow-up,Completed,800
+12781,1664,522,4/13/2025,Consultation,Completed,400
+12782,1713,524,7/30/2024,Routine Checkup,Cancelled,300
+12783,1128,581,4/21/2024,Follow-up,Scheduled,800
+12784,1287,585,1/8/2024,Consultation,Scheduled,1200
+12785,1823,551,4/21/2025,Consultation,Cancelled,800
+12786,1253,550,4/4/2025,Routine Checkup,Completed,1200
+12787,1778,511,9/9/2024,Consultation,Completed,300
+12788,1700,556,6/9/2025,Emergency,Completed,300
+12789,1386,571,3/13/2025,Follow-up,Cancelled,1000
+12790,1230,542,10/22/2025,Follow-up,Completed,1000
+12791,1271,539,8/23/2024,Emergency,Completed,500
+12792,1771,569,11/1/2024,Routine Checkup,No Show,600
+12793,1811,548,4/22/2025,Emergency,Scheduled,1000
+12794,1415,557,11/9/2025,Emergency,Scheduled,800
+12795,1198,521,1/20/2024,Follow-up,Scheduled,500
+12796,1323,582,8/3/2024,Routine Checkup,Completed,1200
+12797,1056,599,5/14/2024,Consultation,Completed,500
+12798,1831,520,5/8/2024,Emergency,Scheduled,800
+12799,1203,515,2/13/2025,Emergency,Scheduled,1000
+12800,1783,569,2/25/2025,Routine Checkup,Cancelled,1200
+12801,1621,577,10/20/2024,Emergency,Completed,800
+12802,1628,551,9/2/2024,Routine Checkup,Cancelled,400
+12803,1604,576,12/1/2025,Consultation,Completed,1000
+12804,1138,562,7/9/2025,Routine Checkup,Completed,600
+12805,1422,585,3/26/2024,Consultation,Completed,1200
+12806,1815,537,7/9/2025,Routine Checkup,Completed,800
+12807,1057,506,1/9/2025,Emergency,Completed,1000
+12808,1562,571,3/21/2025,Consultation,Completed,300
+12809,1071,526,1/12/2025,Emergency,Scheduled,400
+12810,1911,508,1/24/2025,Consultation,Cancelled,1200
+12811,1914,573,10/18/2025,Routine Checkup,Completed,1200
+12812,1594,591,2/20/2024,Routine Checkup,Completed,600
+12813,1372,504,8/29/2024,Routine Checkup,No Show,1000
+12814,1617,521,10/20/2024,Follow-up,Completed,300
+12815,1600,531,7/16/2025,Follow-up,Completed,1000
+12816,1514,521,9/22/2024,Consultation,Cancelled,300
+12817,1872,525,4/29/2024,Follow-up,Completed,600
+12818,1084,515,12/12/2025,Routine Checkup,Cancelled,400
+12819,1994,535,9/4/2024,Follow-up,Cancelled,1200
+12820,1043,549,3/10/2024,Follow-up,No Show,300
+12821,1666,543,2/26/2024,Emergency,Scheduled,500
+12822,1839,541,1/16/2025,Consultation,No Show,600
+12823,1934,537,2/8/2024,Consultation,Completed,600
+12824,1606,557,3/18/2025,Consultation,Scheduled,800
+12825,1810,542,1/18/2024,Follow-up,Completed,400
+12826,1133,547,12/17/2024,Routine Checkup,Cancelled,500
+12827,1395,592,10/24/2024,Emergency,Scheduled,500
+12828,1065,561,10/9/2024,Consultation,Completed,800
+12829,1290,514,8/8/2025,Follow-up,Cancelled,300
+12830,1376,568,4/19/2024,Routine Checkup,Completed,300
+12831,1769,553,6/28/2024,Emergency,Completed,500
+12832,1467,584,6/27/2025,Emergency,No Show,400
+12833,1898,534,1/25/2024,Consultation,Completed,300
+12834,1213,576,2/26/2024,Consultation,Completed,600
+12835,1148,597,6/28/2024,Routine Checkup,Completed,1000
+12836,1573,524,8/19/2024,Follow-up,Scheduled,800
+12837,1471,520,12/8/2024,Routine Checkup,Completed,400
+12838,1149,569,4/21/2025,Consultation,Completed,300
+12839,1088,530,7/29/2025,Routine Checkup,Scheduled,1000
+12840,1324,588,3/30/2025,Follow-up,Completed,500
+12841,1895,507,8/19/2024,Emergency,Completed,800
+12842,1396,536,10/15/2024,Emergency,Scheduled,300
+12843,1790,538,7/31/2024,Emergency,Completed,500
+12844,1404,580,9/14/2024,Emergency,Scheduled,300
+12845,1082,552,6/13/2025,Consultation,Completed,800
+12846,1641,515,11/17/2025,Consultation,No Show,600
+12847,1286,546,8/16/2024,Follow-up,No Show,1200
+12848,1382,523,8/13/2024,Follow-up,Completed,600
+12849,1865,512,8/18/2025,Follow-up,Completed,1200
+12850,1792,593,3/10/2025,Follow-up,No Show,1000
+12851,1270,544,2/5/2025,Routine Checkup,Completed,500
+12852,1292,515,9/13/2025,Follow-up,Cancelled,1200
+12853,1453,593,3/28/2024,Emergency,Cancelled,600
+12854,1715,549,8/6/2025,Emergency,Scheduled,800
+12855,1024,521,6/25/2025,Emergency,Scheduled,500
+12856,1956,515,11/14/2025,Routine Checkup,Completed,300
+12857,1863,514,11/4/2024,Follow-up,Completed,1200
+12858,1311,542,12/8/2024,Emergency,Scheduled,1200
+12859,1461,580,3/11/2025,Emergency,Scheduled,400
+12860,1208,515,6/25/2024,Emergency,Cancelled,1200
+12861,1792,563,5/18/2024,Emergency,No Show,1200
+12862,1717,568,7/12/2024,Consultation,Scheduled,300
+12863,1664,527,7/4/2024,Follow-up,Completed,800
+12864,1438,587,8/5/2024,Follow-up,Scheduled,1000
+12865,1538,593,6/12/2024,Routine Checkup,Completed,500
+12866,1706,553,6/9/2024,Consultation,Completed,300
+12867,1336,552,6/8/2025,Routine Checkup,Completed,500
+12868,1422,563,8/23/2025,Emergency,Scheduled,600
+12869,1750,573,2/11/2024,Routine Checkup,No Show,400
+12870,1321,553,7/28/2024,Emergency,Completed,800
+12871,1497,557,10/1/2024,Emergency,Completed,300
+12872,1587,552,10/5/2024,Follow-up,Cancelled,400
+12873,1947,543,9/7/2024,Follow-up,Scheduled,1200
+12874,1163,507,11/5/2024,Follow-up,Scheduled,800
+12875,1811,542,12/20/2025,Follow-up,Cancelled,800
+12876,1541,504,5/19/2024,Follow-up,Cancelled,1000
+12877,1165,569,6/29/2025,Consultation,Completed,600
+12878,1849,505,6/13/2025,Follow-up,Completed,1000
+12879,1698,575,2/26/2024,Routine Checkup,Completed,1000
+12880,1566,592,4/21/2024,Emergency,Scheduled,500
+12881,1295,580,1/5/2024,Follow-up,Completed,500
+12882,1042,541,2/13/2025,Consultation,Scheduled,1200
+12883,1924,594,2/17/2025,Routine Checkup,Completed,400
+12884,1285,504,6/30/2024,Routine Checkup,Completed,600
+12885,1939,502,1/13/2024,Emergency,Completed,800
+12886,1387,567,12/4/2024,Routine Checkup,Completed,1200
+12887,1138,521,9/15/2024,Routine Checkup,Completed,600
+12888,1187,570,3/30/2024,Routine Checkup,Scheduled,600
+12889,1910,543,9/7/2025,Routine Checkup,Completed,400
+12890,1716,582,11/28/2025,Consultation,Scheduled,500
+12891,1431,569,9/6/2024,Emergency,Completed,600
+12892,1554,509,9/11/2024,Follow-up,Completed,600
+12893,1862,584,8/10/2025,Routine Checkup,Completed,600
+12894,1416,528,4/17/2024,Consultation,No Show,300
+12895,1800,526,10/29/2025,Emergency,Completed,600
+12896,1426,582,8/16/2025,Follow-up,Completed,600
+12897,1416,583,8/11/2025,Emergency,No Show,800
+12898,1026,503,4/29/2025,Consultation,Completed,1000
+12899,1371,573,9/14/2024,Consultation,Scheduled,300
+12900,1385,600,9/30/2025,Consultation,Completed,600
+12901,1056,595,10/8/2024,Routine Checkup,Cancelled,1000
+12902,1253,549,3/28/2024,Consultation,Completed,600
+12903,1634,517,7/22/2024,Follow-up,No Show,400
+12904,1106,563,1/16/2024,Routine Checkup,Cancelled,400
+12905,1130,555,5/30/2024,Emergency,Completed,1000
+12906,1849,523,9/10/2024,Follow-up,Completed,300
+12907,1670,534,7/6/2024,Routine Checkup,Completed,800
+12908,1376,569,11/24/2024,Consultation,Scheduled,300
+12909,1743,515,6/27/2025,Emergency,Completed,300
+12910,1967,547,1/31/2025,Consultation,Completed,400
+12911,1308,503,5/31/2025,Follow-up,Cancelled,400
+12912,1091,583,4/3/2025,Follow-up,Completed,800
+12913,1393,528,11/25/2024,Routine Checkup,Completed,1200
+12914,1534,503,6/17/2024,Follow-up,Completed,1200
+12915,1802,504,11/23/2025,Emergency,Scheduled,1200
+12916,1110,588,12/31/2024,Routine Checkup,No Show,600
+12917,1561,531,6/26/2024,Emergency,Completed,800
+12918,1641,545,10/16/2025,Consultation,Scheduled,600
+12919,1585,559,12/27/2024,Emergency,Completed,1000
+12920,1340,545,9/30/2025,Emergency,Completed,1000
+12921,1565,575,2/9/2024,Follow-up,Completed,500
+12922,1979,537,2/19/2025,Consultation,Completed,1200
+12923,1356,565,12/20/2024,Follow-up,Completed,400
+12924,1892,509,9/11/2024,Consultation,Scheduled,500
+12925,1168,517,5/22/2024,Consultation,No Show,500
+12926,1557,565,12/10/2025,Emergency,Completed,400
+12927,1452,503,7/30/2025,Follow-up,Completed,500
+12928,1905,526,1/11/2024,Emergency,No Show,1200
+12929,1105,553,9/11/2025,Emergency,Completed,300
+12930,1150,531,1/26/2024,Emergency,Scheduled,600
+12931,1146,526,2/24/2025,Consultation,Completed,1200
+12932,1716,523,10/24/2025,Follow-up,Completed,800
+12933,1874,530,8/8/2024,Follow-up,Completed,400
+12934,1299,510,5/10/2025,Emergency,Scheduled,300
+12935,1167,572,8/24/2024,Consultation,Scheduled,1000
+12936,1713,589,8/24/2024,Follow-up,Completed,800
+12937,1646,564,8/6/2024,Routine Checkup,Scheduled,800
+12938,1723,522,5/1/2025,Follow-up,Completed,800
+12939,1048,515,4/5/2025,Emergency,Completed,500
+12940,1638,556,10/24/2025,Routine Checkup,Scheduled,500
+12941,1239,574,9/26/2025,Consultation,Cancelled,500
+12942,1007,520,5/23/2024,Routine Checkup,Completed,1200
+12943,1464,547,7/7/2024,Routine Checkup,Completed,500
+12944,1453,587,9/11/2024,Emergency,No Show,300
+12945,1784,553,3/8/2024,Follow-up,Scheduled,500
+12946,1897,553,9/7/2025,Consultation,Scheduled,400
+12947,1371,501,12/1/2024,Routine Checkup,Completed,800
+12948,1549,502,11/1/2025,Emergency,Scheduled,300
+12949,1487,558,2/12/2025,Follow-up,Completed,1000
+12950,1211,519,10/26/2024,Routine Checkup,No Show,500
+12951,1165,562,8/24/2025,Emergency,Completed,1000
+12952,1125,578,12/22/2024,Emergency,Completed,800
+12953,1337,572,9/12/2024,Emergency,Completed,300
+12954,1192,512,12/18/2024,Consultation,Scheduled,800
+12955,1730,526,6/4/2025,Follow-up,Scheduled,1000
+12956,1214,527,6/7/2025,Routine Checkup,Completed,1200
+12957,1574,529,11/24/2025,Follow-up,Cancelled,300
+12958,1328,515,10/10/2024,Follow-up,Scheduled,600
+12959,1957,546,11/7/2024,Routine Checkup,Completed,1200
+12960,1381,501,4/8/2024,Follow-up,Scheduled,300
+12961,1673,560,7/15/2024,Consultation,No Show,500
+12962,1578,592,4/26/2025,Routine Checkup,Completed,1000
+12963,1798,557,8/13/2024,Routine Checkup,Completed,800
+12964,1239,503,9/6/2025,Emergency,Completed,800
+12965,1532,518,9/9/2025,Follow-up,Completed,800
+12966,1700,552,12/30/2024,Routine Checkup,Completed,400
+12967,1082,560,1/2/2025,Routine Checkup,Scheduled,400
+12968,1363,534,7/23/2025,Consultation,Cancelled,500
+12969,1505,596,8/12/2025,Emergency,Completed,600
+12970,1202,593,3/15/2024,Routine Checkup,Cancelled,400
+12971,1920,589,2/11/2024,Consultation,Scheduled,300
+12972,1504,560,2/25/2025,Routine Checkup,No Show,1200
+12973,1644,526,6/29/2024,Routine Checkup,Completed,1000
+12974,1037,572,6/28/2025,Routine Checkup,Scheduled,500
+12975,1644,519,3/11/2024,Consultation,No Show,1200
+12976,1589,522,7/21/2025,Follow-up,Completed,600
+12977,1601,593,4/14/2024,Routine Checkup,Completed,1200
+12978,1973,533,7/18/2024,Routine Checkup,Completed,300
+12979,1402,538,4/10/2024,Follow-up,Scheduled,800
+12980,1765,535,11/2/2024,Routine Checkup,Completed,400
+12981,1856,567,8/8/2025,Emergency,No Show,300
+12982,1706,583,11/13/2025,Routine Checkup,Scheduled,600
+12983,1176,510,1/11/2025,Emergency,Completed,500
+12984,1545,591,10/16/2025,Follow-up,Cancelled,1200
+12985,1570,515,11/8/2025,Consultation,Completed,300
+12986,1467,511,2/2/2025,Follow-up,Completed,500
+12987,1201,590,8/8/2024,Routine Checkup,Scheduled,800
+12988,1540,524,8/17/2025,Emergency,Scheduled,600
+12989,1547,577,6/30/2024,Consultation,Completed,600
+12990,1999,596,11/2/2024,Routine Checkup,Scheduled,1200
+12991,1637,504,6/5/2025,Consultation,Completed,400
+12992,1394,513,1/30/2025,Consultation,Completed,1000
+12993,1833,573,1/4/2024,Routine Checkup,Completed,600
+12994,1042,557,10/7/2024,Follow-up,Completed,300
+12995,1597,598,8/2/2024,Routine Checkup,No Show,300
+12996,1393,537,9/1/2025,Routine Checkup,Scheduled,300
+12997,1700,548,2/23/2025,Follow-up,Completed,800
+12998,1623,571,4/10/2024,Emergency,Completed,600
+12999,1783,501,6/4/2025,Routine Checkup,Completed,600
+13000,1995,560,7/26/2025,Consultation,Completed,300
